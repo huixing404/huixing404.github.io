@@ -55,6 +55,62 @@
       </tags>
   </entry>
   <entry>
+    <title>CS课程分享(一)—计算机科学导论</title>
+    <url>/2022/11/02/CS%E8%AF%BE%E7%A8%8B%E5%88%86%E4%BA%AB(%E4%B8%80)%E2%80%94%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E5%AF%BC%E8%AE%BA/</url>
+    <content><![CDATA[<h4 id="1-计算机科学速成课"><a href="#1-计算机科学速成课" class="headerlink" title="1.计算机科学速成课"></a>1.计算机科学速成课</h4><blockquote>
+<ul>
+<li>简介：快速了解计算机科学到底是什么，有哪些方向。</li>
+<li>课程时间：8小时</li>
+<li>课程官网：<a href="https://thecrashcourse.com/topic/computerscience/">Crash Course</a></li>
+<li>中英字幕：<a href="https://www.bilibili.com/video/BV1EW411u7th/?vd_source=2a2c8e8b6c43765f922e5e18e4bd2e71">bilibili</a></li>
+</ul>
+</blockquote>
+<h4 id="2-CS50-计算机科学导论"><a href="#2-CS50-计算机科学导论" class="headerlink" title="2.CS50-计算机科学导论"></a>2.CS50-计算机科学导论</h4><blockquote>
+<ul>
+<li>简介：北美CS五大名课之一，哈佛大学公开课，适合零基础入门。</li>
+<li>课程时间：26小时</li>
+<li>课程官网：<a href="https://cs50.harvard.edu/x/2023/">CS50-计算机科学导论</a></li>
+<li>中英字幕：<a href="https://space.bilibili.com/526939229/video?tid=0&pn=3&keyword=&order=pubdate">bilibili</a></li>
+<li>英文字幕：<a href="https://www.youtube.com/watch?v=IDDmrzzB14M&list=PLhQjrBD2T380F_inVRXMIHCqLaNUd7bN4&index=1">YouTube</a></li>
+</ul>
+</blockquote>
+<h4 id="3-CS61A-计算机程序的构造和解释"><a href="#3-CS61A-计算机程序的构造和解释" class="headerlink" title="3.CS61A-计算机程序的构造和解释"></a>3.CS61A-计算机程序的构造和解释</h4><blockquote>
+<ul>
+<li>简介：北美CS五大名课之一，UCB公开课，使用Python掌握函数式编程、面向对象以及SQL等。</li>
+<li>课程时间：35小时</li>
+<li>课程官网：<a href="https://cs61a.org/">CS61A-计算机程序的构造和解释</a></li>
+<li>中英字幕：<a href="https://space.bilibili.com/526939229/video?tid=0&pn=2&keyword=&order=pubdate">bilibili</a></li>
+<li>英文字幕：<a href="https://www.youtube.com/@JohnDeNero/playlists">YouTube</a></li>
+</ul>
+</blockquote>
+<h4 id="4-MIT6-0001-计算机科学介绍及Python编程"><a href="#4-MIT6-0001-计算机科学介绍及Python编程" class="headerlink" title="4.MIT6.0001-计算机科学介绍及Python编程"></a>4.MIT6.0001-计算机科学介绍及Python编程</h4><blockquote>
+<ul>
+<li>简介：麻省理工公开课，适合与CS61A课程一起参考学习。</li>
+<li>课程时间：10小时</li>
+<li>课程官网：<a href="https://www.edx.org/learn/computer-science/massachusetts-institute-of-technology-celulas-y-tejidos">MIT6.0001-计算机科学介绍及Python编程</a></li>
+<li>中英字幕：<a href="https://www.bilibili.com/video/BV1ty4y1x7xP?p=1&vd_source=2a2c8e8b6c43765f922e5e18e4bd2e71">bilibili</a></li>
+<li>英文字幕：<a href="https://www.youtube.com/watch?v=nykOeWgQcHM&list=PLUl4u3cNGP63WbdFxL8giv4yhgdMGaZNA">YouTube</a></li>
+</ul>
+</blockquote>
+<h4 id="5-MIT公开课-计算机教育中缺失的一课"><a href="#5-MIT公开课-计算机教育中缺失的一课" class="headerlink" title="5.MIT公开课-计算机教育中缺失的一课"></a>5.MIT公开课-计算机教育中缺失的一课</h4><blockquote>
+<ul>
+<li>简介：麻省理工公开课，学完计算机导论和Python语言后，必须掌握该课程所涉及的工具&#x2F;软件。</li>
+<li>课程时间：10小时</li>
+<li>课程官网：<a href="https://missing-semester-cn.github.io/">The Missing Semester of Your CS Education</a></li>
+<li>中英字幕：<a href="https://space.bilibili.com/518734451?spm_id_from=333.337.search-card.all.click">bilibili</a></li>
+<li>英文字幕：<a href="https://www.youtube.com/playlist?list=PLyzOVJj3bHQuloKGG59rS43e29ro7I57J">YouTube</a></li>
+</ul>
+</blockquote>
+]]></content>
+      <categories>
+        <category>CS课程</category>
+      </categories>
+      <tags>
+        <tag>CS课程</tag>
+        <tag>计算机科学导论</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>CS课程分享(七)—编译原理</title>
     <url>/2022/12/09/CS%E8%AF%BE%E7%A8%8B%E5%88%86%E4%BA%AB(%E4%B8%83)%E2%80%94%E7%BC%96%E8%AF%91%E5%8E%9F%E7%90%86/</url>
     <content><![CDATA[<h4 id="1-CS143-编译器"><a href="#1-CS143-编译器" class="headerlink" title="1.CS143-编译器"></a>1.CS143-编译器</h4><blockquote>
@@ -137,6 +193,118 @@
       <tags>
         <tag>CS课程</tag>
         <tag>计算机组成原理</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>CS课程分享(五)—计算机网络</title>
+    <url>/2022/11/27/CS%E8%AF%BE%E7%A8%8B%E5%88%86%E4%BA%AB(%E4%BA%94)%E2%80%94%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/</url>
+    <content><![CDATA[<h4 id="1-计算机网络-自顶向下"><a href="#1-计算机网络-自顶向下" class="headerlink" title="1.计算机网络-自顶向下"></a>1.计算机网络-自顶向下</h4><blockquote>
+<ul>
+<li>简介：计网经典书籍《计算机网络-自顶向下方法》的作者亲授课程</li>
+<li>课程时间：10小时</li>
+<li>课程官网：<a href="https://gaia.cs.umass.edu/kurose_ross/index.php">计算机网络-自顶向下</a></li>
+<li>中英字幕：<a href="https://www.bilibili.com/video/BV1mb4y1d7K7?p=1&vd_source=2a2c8e8b6c43765f922e5e18e4bd2e71">bilibili</a></li>
+<li>英文字幕：<a href="https://www.youtube.com/playlist?list=PLm556dMNleHc1MWN5BX9B2XkwkNE2Djiu">YouTube</a></li>
+</ul>
+</blockquote>
+<h4 id="2-CS144-计算机网络"><a href="#2-CS144-计算机网络" class="headerlink" title="2.CS144-计算机网络"></a>2.CS144-计算机网络</h4><blockquote>
+<ul>
+<li>简介：斯坦福大学公开课，须先修CS106L课程，具备计算机系统基础，基于C++语言搭建出整个TCP&#x2F;IP协议栈。</li>
+<li>课程时间：25小时</li>
+<li>课程官网：<a href="https://vixbob.github.io/cs144-web-page/">CS144-计算机网络</a></li>
+<li>中英字幕：<a href="https://space.bilibili.com/457173750/channel/collectiondetail?sid=1445483">bilibili</a></li>
+<li>英文字幕：<a href="https://www.youtube.com/playlist?list=PL6RdenZrxrw9inR-IJv-erlOKRHjymxMN">YouTube</a></li>
+</ul>
+</blockquote>
+<h4 id="3-COS461-计算机网络"><a href="#3-COS461-计算机网络" class="headerlink" title="3.COS461-计算机网络"></a>3.COS461-计算机网络</h4><blockquote>
+<ul>
+<li>简介：普林斯顿大学公开课，推荐教材《计算机网络：系统方法》，作业是用Go&#x2F;C&#x2F;Python编写。</li>
+<li>课程时间：10学时</li>
+<li>课程官网：<a href="https://www.cs.princeton.edu/courses/archive/fall21/cos461/index.html">COS461-计算机网络</a></li>
+<li>在线视频：<a href="https://www.youtube.com/playlist?list=PLpherdrLyny-zJw95jcE-uJkcsIAG1MEn">YouTube</a></li>
+</ul>
+</blockquote>
+<h4 id="4-中科大-计算机网络"><a href="#4-中科大-计算机网络" class="headerlink" title="4.中科大-计算机网络"></a>4.中科大-计算机网络</h4><blockquote>
+<ul>
+<li>简介：中科大公开课，教材采用《计算机网络-自顶向下方法》，授课更重实际而非理论，最好先预习教材再看课。</li>
+<li>课程时间：44小时</li>
+<li>课程官网：<a href="http://staff.ustc.edu.cn/~qzheng/teaching.html">中科大-计算机网络</a></li>
+<li>在线视频：<a href="https://www.bilibili.com/video/BV1JV411t7ow/?vd_source=2a2c8e8b6c43765f922e5e18e4bd2e71">bilibili</a></li>
+</ul>
+</blockquote>
+]]></content>
+      <categories>
+        <category>CS课程</category>
+      </categories>
+      <tags>
+        <tag>CS课程</tag>
+        <tag>计算机网络</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>CS课程分享(二)—数据结构与算法</title>
+    <url>/2022/11/08/CS%E8%AF%BE%E7%A8%8B%E5%88%86%E4%BA%AB(%E4%BA%8C)%E2%80%94%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95/</url>
+    <content><![CDATA[<h4 id="1-COS226-算法和数据结构"><a href="#1-COS226-算法和数据结构" class="headerlink" title="1.COS226-算法和数据结构"></a>1.COS226-算法和数据结构</h4><blockquote>
+<ul>
+<li>简介：Coursera上评分最高的算法“神课”，教学基于Java语言，采用教材为《算法》第4版。</li>
+<li>课程时间：60小时</li>
+<li>课程官网：<a href="https://algs4.cs.princeton.edu/home/">COS226-算法和数据结构</a></li>
+<li>中英字幕：<a href="https://www.bilibili.com/video/BV1jx411U768?p=1&vd_source=2a2c8e8b6c43765f922e5e18e4bd2e71">bilibili</a></li>
+<li>英文字幕：<a href="https://www.youtube.com/watch?v=gfSpPbJWzVs&list=PLaLOVNqqD-2Hz-wATEaLxBGsZcdcDzMBw&index=3">YouTube</a></li>
+</ul>
+</blockquote>
+<h4 id="2-CS61B-数据结构"><a href="#2-CS61B-数据结构" class="headerlink" title="2.CS61B-数据结构"></a>2.CS61B-数据结构</h4><blockquote>
+<ul>
+<li>简介：UCB算法名课，须先修CS61A课程和微积分，采用教材为《算法》红皮书，基于Java。</li>
+<li>课程时间：34小时</li>
+<li>课程官网：<a href="https://sp23.datastructur.es/">CS61B-数据结构</a></li>
+<li>中英字幕：<a href="https://space.bilibili.com/457173750/channel/collectiondetail?sid=1738670">bilibili</a></li>
+<li>英文字幕：<a href="https://www.youtube.com/@joshhug1212/playlists">YouTube</a></li>
+</ul>
+</blockquote>
+<h4 id="3-MIT6-006-算法导论"><a href="#3-MIT6-006-算法导论" class="headerlink" title="3.MIT6.006-算法导论"></a>3.MIT6.006-算法导论</h4><blockquote>
+<ul>
+<li>简介：麻省理工公开课，须先修MIT6.0001和离散数学，掌握Python语言，采用教材是算法圣经——《算法导论》。</li>
+<li>课程时间：35小时</li>
+<li>课程官网：<a href="https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/">MIT6.006-算法导论</a></li>
+<li>中英字幕：<a href="https://www.bilibili.com/video/BV1EZ4y1v76Y/?p=1&vd_source=2a2c8e8b6c43765f922e5e18e4bd2e71">bilibili</a></li>
+<li>英文字幕：<a href="https://www.youtube.com/playlist?list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuStEY">YouTube</a></li>
+</ul>
+</blockquote>
+<h4 id="4-CS161-算法的设计与分析"><a href="#4-CS161-算法的设计与分析" class="headerlink" title="4.CS161-算法的设计与分析"></a>4.CS161-算法的设计与分析</h4><blockquote>
+<ul>
+<li>简介：斯坦福大学公开课，分析和设计数据结构与算法的基本方法和思维方式，采用教材是算法圣经——《算法导论》。</li>
+<li>课程时间：39小时</li>
+<li>课程官网：<a href="https://stanford-cs161.github.io/winter2022/">CS161-算法的设计与分析</a></li>
+<li>中英字幕：<a href="https://www.bilibili.com/video/BV1Ca4y177UH?p=1&vd_source=2a2c8e8b6c43765f922e5e18e4bd2e71">bilibili</a></li>
+<li>英文字幕：<a href="https://www.youtube.com/watch?v=yRM3sc57q0c&list=PLXFMmlk03Dt7Q0xr1PIAriY5623cKiH7V&index=3">YouTube</a> 上</li>
+<li>英文字幕：<a href="https://www.youtube.com/watch?v=R-ElS5wfcm4&list=PLXFMmlk03Dt5EMI2s2WQBsLsZl7A5HEK6">YouTube</a> 下</li>
+</ul>
+</blockquote>
+<h4 id="5-MIT6-851-高级数据结构"><a href="#5-MIT6-851-高级数据结构" class="headerlink" title="5.MIT6.851-高级数据结构"></a>5.MIT6.851-高级数据结构</h4><blockquote>
+<ul>
+<li>简介：麻省理工公开课，本课程涵盖数据结构的主要成果和当前研究方向。</li>
+<li>课程时间：30小时</li>
+<li>课程官网：<a href="https://missing-semester-cn.github.io/">5.MIT6.851-高级数据结构</a></li>
+<li>机翻字幕：<a href="https://www.bilibili.com/video/BV1iE411n7yJ?p=1&vd_source=2a2c8e8b6c43765f922e5e18e4bd2e71">bilibili</a></li>
+<li>英文字幕：<a href="https://www.youtube.com/watch?v=T0yzrZL1py0&list=PLUl4u3cNGP61hsJNdULdudlRL493b-XZf">YouTube</a></li>
+</ul>
+</blockquote>
+<h4 id="6-浙江大学-数据结构"><a href="#6-浙江大学-数据结构" class="headerlink" title="6.浙江大学-数据结构"></a>6.浙江大学-数据结构</h4><blockquote>
+<ul>
+<li>简介：浙江大学公开课，本课只涉及最基础的数据结构和算法，为了兼顾起点不同的学员，课程设计了“小白专场”系列。</li>
+<li>课程时间：18小时</li>
+<li>课程官网：<a href="https://www.icourse163.org/course/zju-93001">浙江大学-数据结构</a></li>
+<li>在线视频：<a href="https://www.bilibili.com/video/BV1Kb41127fT/?p=1&vd_source=2a2c8e8b6c43765f922e5e18e4bd2e71">bilibili</a></li>
+</ul>
+</blockquote>
+]]></content>
+      <categories>
+        <category>CS课程</category>
+      </categories>
+      <tags>
+        <tag>CS课程</tag>
+        <tag>数据结构与算法</tag>
       </tags>
   </entry>
   <entry>
@@ -380,211 +548,6 @@
       </tags>
   </entry>
   <entry>
-    <title>CS课程分享(一)—计算机科学导论</title>
-    <url>/2022/11/02/CS%E8%AF%BE%E7%A8%8B%E5%88%86%E4%BA%AB(%E4%B8%80)%E2%80%94%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E5%AF%BC%E8%AE%BA/</url>
-    <content><![CDATA[<h4 id="1-计算机科学速成课"><a href="#1-计算机科学速成课" class="headerlink" title="1.计算机科学速成课"></a>1.计算机科学速成课</h4><blockquote>
-<ul>
-<li>简介：快速了解计算机科学到底是什么，有哪些方向。</li>
-<li>课程时间：8小时</li>
-<li>课程官网：<a href="https://thecrashcourse.com/topic/computerscience/">Crash Course</a></li>
-<li>中英字幕：<a href="https://www.bilibili.com/video/BV1EW411u7th/?vd_source=2a2c8e8b6c43765f922e5e18e4bd2e71">bilibili</a></li>
-</ul>
-</blockquote>
-<h4 id="2-CS50-计算机科学导论"><a href="#2-CS50-计算机科学导论" class="headerlink" title="2.CS50-计算机科学导论"></a>2.CS50-计算机科学导论</h4><blockquote>
-<ul>
-<li>简介：北美CS五大名课之一，哈佛大学公开课，适合零基础入门。</li>
-<li>课程时间：26小时</li>
-<li>课程官网：<a href="https://cs50.harvard.edu/x/2023/">CS50-计算机科学导论</a></li>
-<li>中英字幕：<a href="https://space.bilibili.com/526939229/video?tid=0&pn=3&keyword=&order=pubdate">bilibili</a></li>
-<li>英文字幕：<a href="https://www.youtube.com/watch?v=IDDmrzzB14M&list=PLhQjrBD2T380F_inVRXMIHCqLaNUd7bN4&index=1">YouTube</a></li>
-</ul>
-</blockquote>
-<h4 id="3-CS61A-计算机程序的构造和解释"><a href="#3-CS61A-计算机程序的构造和解释" class="headerlink" title="3.CS61A-计算机程序的构造和解释"></a>3.CS61A-计算机程序的构造和解释</h4><blockquote>
-<ul>
-<li>简介：北美CS五大名课之一，UCB公开课，使用Python掌握函数式编程、面向对象以及SQL等。</li>
-<li>课程时间：35小时</li>
-<li>课程官网：<a href="https://cs61a.org/">CS61A-计算机程序的构造和解释</a></li>
-<li>中英字幕：<a href="https://space.bilibili.com/526939229/video?tid=0&pn=2&keyword=&order=pubdate">bilibili</a></li>
-<li>英文字幕：<a href="https://www.youtube.com/@JohnDeNero/playlists">YouTube</a></li>
-</ul>
-</blockquote>
-<h4 id="4-MIT6-0001-计算机科学介绍及Python编程"><a href="#4-MIT6-0001-计算机科学介绍及Python编程" class="headerlink" title="4.MIT6.0001-计算机科学介绍及Python编程"></a>4.MIT6.0001-计算机科学介绍及Python编程</h4><blockquote>
-<ul>
-<li>简介：麻省理工公开课，适合与CS61A课程一起参考学习。</li>
-<li>课程时间：10小时</li>
-<li>课程官网：<a href="https://www.edx.org/learn/computer-science/massachusetts-institute-of-technology-celulas-y-tejidos">MIT6.0001-计算机科学介绍及Python编程</a></li>
-<li>中英字幕：<a href="https://www.bilibili.com/video/BV1ty4y1x7xP?p=1&vd_source=2a2c8e8b6c43765f922e5e18e4bd2e71">bilibili</a></li>
-<li>英文字幕：<a href="https://www.youtube.com/watch?v=nykOeWgQcHM&list=PLUl4u3cNGP63WbdFxL8giv4yhgdMGaZNA">YouTube</a></li>
-</ul>
-</blockquote>
-<h4 id="5-MIT公开课-计算机教育中缺失的一课"><a href="#5-MIT公开课-计算机教育中缺失的一课" class="headerlink" title="5.MIT公开课-计算机教育中缺失的一课"></a>5.MIT公开课-计算机教育中缺失的一课</h4><blockquote>
-<ul>
-<li>简介：麻省理工公开课，学完计算机导论和Python语言后，必须掌握该课程所涉及的工具&#x2F;软件。</li>
-<li>课程时间：10小时</li>
-<li>课程官网：<a href="https://missing-semester-cn.github.io/">The Missing Semester of Your CS Education</a></li>
-<li>中英字幕：<a href="https://space.bilibili.com/518734451?spm_id_from=333.337.search-card.all.click">bilibili</a></li>
-<li>英文字幕：<a href="https://www.youtube.com/playlist?list=PLyzOVJj3bHQuloKGG59rS43e29ro7I57J">YouTube</a></li>
-</ul>
-</blockquote>
-]]></content>
-      <categories>
-        <category>CS课程</category>
-      </categories>
-      <tags>
-        <tag>CS课程</tag>
-        <tag>计算机科学导论</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>CS课程分享(二)—数据结构与算法</title>
-    <url>/2022/11/08/CS%E8%AF%BE%E7%A8%8B%E5%88%86%E4%BA%AB(%E4%BA%8C)%E2%80%94%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95/</url>
-    <content><![CDATA[<h4 id="1-COS226-算法和数据结构"><a href="#1-COS226-算法和数据结构" class="headerlink" title="1.COS226-算法和数据结构"></a>1.COS226-算法和数据结构</h4><blockquote>
-<ul>
-<li>简介：Coursera上评分最高的算法“神课”，教学基于Java语言，采用教材为《算法》第4版。</li>
-<li>课程时间：60小时</li>
-<li>课程官网：<a href="https://algs4.cs.princeton.edu/home/">COS226-算法和数据结构</a></li>
-<li>中英字幕：<a href="https://www.bilibili.com/video/BV1jx411U768?p=1&vd_source=2a2c8e8b6c43765f922e5e18e4bd2e71">bilibili</a></li>
-<li>英文字幕：<a href="https://www.youtube.com/watch?v=gfSpPbJWzVs&list=PLaLOVNqqD-2Hz-wATEaLxBGsZcdcDzMBw&index=3">YouTube</a></li>
-</ul>
-</blockquote>
-<h4 id="2-CS61B-数据结构"><a href="#2-CS61B-数据结构" class="headerlink" title="2.CS61B-数据结构"></a>2.CS61B-数据结构</h4><blockquote>
-<ul>
-<li>简介：UCB算法名课，须先修CS61A课程和微积分，采用教材为《算法》红皮书，基于Java。</li>
-<li>课程时间：34小时</li>
-<li>课程官网：<a href="https://sp23.datastructur.es/">CS61B-数据结构</a></li>
-<li>中英字幕：<a href="https://space.bilibili.com/457173750/channel/collectiondetail?sid=1738670">bilibili</a></li>
-<li>英文字幕：<a href="https://www.youtube.com/@joshhug1212/playlists">YouTube</a></li>
-</ul>
-</blockquote>
-<h4 id="3-MIT6-006-算法导论"><a href="#3-MIT6-006-算法导论" class="headerlink" title="3.MIT6.006-算法导论"></a>3.MIT6.006-算法导论</h4><blockquote>
-<ul>
-<li>简介：麻省理工公开课，须先修MIT6.0001和离散数学，掌握Python语言，采用教材是算法圣经——《算法导论》。</li>
-<li>课程时间：35小时</li>
-<li>课程官网：<a href="https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/">MIT6.006-算法导论</a></li>
-<li>中英字幕：<a href="https://www.bilibili.com/video/BV1EZ4y1v76Y/?p=1&vd_source=2a2c8e8b6c43765f922e5e18e4bd2e71">bilibili</a></li>
-<li>英文字幕：<a href="https://www.youtube.com/playlist?list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuStEY">YouTube</a></li>
-</ul>
-</blockquote>
-<h4 id="4-CS161-算法的设计与分析"><a href="#4-CS161-算法的设计与分析" class="headerlink" title="4.CS161-算法的设计与分析"></a>4.CS161-算法的设计与分析</h4><blockquote>
-<ul>
-<li>简介：斯坦福大学公开课，分析和设计数据结构与算法的基本方法和思维方式，采用教材是算法圣经——《算法导论》。</li>
-<li>课程时间：39小时</li>
-<li>课程官网：<a href="https://stanford-cs161.github.io/winter2022/">CS161-算法的设计与分析</a></li>
-<li>中英字幕：<a href="https://www.bilibili.com/video/BV1Ca4y177UH?p=1&vd_source=2a2c8e8b6c43765f922e5e18e4bd2e71">bilibili</a></li>
-<li>英文字幕：<a href="https://www.youtube.com/watch?v=yRM3sc57q0c&list=PLXFMmlk03Dt7Q0xr1PIAriY5623cKiH7V&index=3">YouTube</a> 上</li>
-<li>英文字幕：<a href="https://www.youtube.com/watch?v=R-ElS5wfcm4&list=PLXFMmlk03Dt5EMI2s2WQBsLsZl7A5HEK6">YouTube</a> 下</li>
-</ul>
-</blockquote>
-<h4 id="5-MIT6-851-高级数据结构"><a href="#5-MIT6-851-高级数据结构" class="headerlink" title="5.MIT6.851-高级数据结构"></a>5.MIT6.851-高级数据结构</h4><blockquote>
-<ul>
-<li>简介：麻省理工公开课，本课程涵盖数据结构的主要成果和当前研究方向。</li>
-<li>课程时间：30小时</li>
-<li>课程官网：<a href="https://missing-semester-cn.github.io/">5.MIT6.851-高级数据结构</a></li>
-<li>机翻字幕：<a href="https://www.bilibili.com/video/BV1iE411n7yJ?p=1&vd_source=2a2c8e8b6c43765f922e5e18e4bd2e71">bilibili</a></li>
-<li>英文字幕：<a href="https://www.youtube.com/watch?v=T0yzrZL1py0&list=PLUl4u3cNGP61hsJNdULdudlRL493b-XZf">YouTube</a></li>
-</ul>
-</blockquote>
-<h4 id="6-浙江大学-数据结构"><a href="#6-浙江大学-数据结构" class="headerlink" title="6.浙江大学-数据结构"></a>6.浙江大学-数据结构</h4><blockquote>
-<ul>
-<li>简介：浙江大学公开课，本课只涉及最基础的数据结构和算法，为了兼顾起点不同的学员，课程设计了“小白专场”系列。</li>
-<li>课程时间：18小时</li>
-<li>课程官网：<a href="https://www.icourse163.org/course/zju-93001">浙江大学-数据结构</a></li>
-<li>在线视频：<a href="https://www.bilibili.com/video/BV1Kb41127fT/?p=1&vd_source=2a2c8e8b6c43765f922e5e18e4bd2e71">bilibili</a></li>
-</ul>
-</blockquote>
-]]></content>
-      <categories>
-        <category>CS课程</category>
-      </categories>
-      <tags>
-        <tag>CS课程</tag>
-        <tag>数据结构与算法</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>CS课程分享(五)—计算机网络</title>
-    <url>/2022/11/27/CS%E8%AF%BE%E7%A8%8B%E5%88%86%E4%BA%AB(%E4%BA%94)%E2%80%94%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/</url>
-    <content><![CDATA[<h4 id="1-计算机网络-自顶向下"><a href="#1-计算机网络-自顶向下" class="headerlink" title="1.计算机网络-自顶向下"></a>1.计算机网络-自顶向下</h4><blockquote>
-<ul>
-<li>简介：计网经典书籍《计算机网络-自顶向下方法》的作者亲授课程</li>
-<li>课程时间：10小时</li>
-<li>课程官网：<a href="https://gaia.cs.umass.edu/kurose_ross/index.php">计算机网络-自顶向下</a></li>
-<li>中英字幕：<a href="https://www.bilibili.com/video/BV1mb4y1d7K7?p=1&vd_source=2a2c8e8b6c43765f922e5e18e4bd2e71">bilibili</a></li>
-<li>英文字幕：<a href="https://www.youtube.com/playlist?list=PLm556dMNleHc1MWN5BX9B2XkwkNE2Djiu">YouTube</a></li>
-</ul>
-</blockquote>
-<h4 id="2-CS144-计算机网络"><a href="#2-CS144-计算机网络" class="headerlink" title="2.CS144-计算机网络"></a>2.CS144-计算机网络</h4><blockquote>
-<ul>
-<li>简介：斯坦福大学公开课，须先修CS106L课程，具备计算机系统基础，基于C++语言搭建出整个TCP&#x2F;IP协议栈。</li>
-<li>课程时间：25小时</li>
-<li>课程官网：<a href="https://vixbob.github.io/cs144-web-page/">CS144-计算机网络</a></li>
-<li>中英字幕：<a href="https://space.bilibili.com/457173750/channel/collectiondetail?sid=1445483">bilibili</a></li>
-<li>英文字幕：<a href="https://www.youtube.com/playlist?list=PL6RdenZrxrw9inR-IJv-erlOKRHjymxMN">YouTube</a></li>
-</ul>
-</blockquote>
-<h4 id="3-COS461-计算机网络"><a href="#3-COS461-计算机网络" class="headerlink" title="3.COS461-计算机网络"></a>3.COS461-计算机网络</h4><blockquote>
-<ul>
-<li>简介：普林斯顿大学公开课，推荐教材《计算机网络：系统方法》，作业是用Go&#x2F;C&#x2F;Python编写。</li>
-<li>课程时间：10学时</li>
-<li>课程官网：<a href="https://www.cs.princeton.edu/courses/archive/fall21/cos461/index.html">COS461-计算机网络</a></li>
-<li>在线视频：<a href="https://www.youtube.com/playlist?list=PLpherdrLyny-zJw95jcE-uJkcsIAG1MEn">YouTube</a></li>
-</ul>
-</blockquote>
-<h4 id="4-中科大-计算机网络"><a href="#4-中科大-计算机网络" class="headerlink" title="4.中科大-计算机网络"></a>4.中科大-计算机网络</h4><blockquote>
-<ul>
-<li>简介：中科大公开课，教材采用《计算机网络-自顶向下方法》，授课更重实际而非理论，最好先预习教材再看课。</li>
-<li>课程时间：44小时</li>
-<li>课程官网：<a href="http://staff.ustc.edu.cn/~qzheng/teaching.html">中科大-计算机网络</a></li>
-<li>在线视频：<a href="https://www.bilibili.com/video/BV1JV411t7ow/?vd_source=2a2c8e8b6c43765f922e5e18e4bd2e71">bilibili</a></li>
-</ul>
-</blockquote>
-]]></content>
-      <categories>
-        <category>CS课程</category>
-      </categories>
-      <tags>
-        <tag>CS课程</tag>
-        <tag>计算机网络</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>CS课程分享(八)—软件工程</title>
-    <url>/2022/12/15/CS%E8%AF%BE%E7%A8%8B%E5%88%86%E4%BA%AB(%E5%85%AB)%E2%80%94%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B/</url>
-    <content><![CDATA[<h4 id="1-MIT6-172-软件性能工程"><a href="#1-MIT6-172-软件性能工程" class="headerlink" title="1.MIT6.172-软件性能工程"></a>1.MIT6.172-软件性能工程</h4><blockquote>
-<ul>
-<li>简介：麻省理工公开课，教学基于C语言，讲授性能分析&#x2F;高性能算法技术&#x2F;指令级优化&#x2F;缓存优化&#x2F;并行编程和构建可扩展系统。</li>
-<li>课程时间：30小时</li>
-<li>课程官网：<a href="https://ocw.mit.edu/courses/6-172-performance-engineering-of-software-systems-fall-2018/">MIT6.172-软件性能工程</a></li>
-<li>中英字幕：<a href="https://www.bilibili.com/video/BV1wA411h7N7?p=1&vd_source=2a2c8e8b6c43765f922e5e18e4bd2e71">bilibili</a></li>
-<li>英文字幕：<a href="https://www.youtube.com/playlist?list=PLUl4u3cNGP63VIBQVWguXxZZi0566y7Wf">YouTube</a></li>
-</ul>
-</blockquote>
-<h4 id="2-南京大学-软件分析"><a href="#2-南京大学-软件分析" class="headerlink" title="2.南京大学-软件分析"></a>2.南京大学-软件分析</h4><blockquote>
-<ul>
-<li>简介：须先掌握数据结构与算法，教学基于Java语言，主要讲授程序分析：静态分析的理论与实践。</li>
-<li>课程时间：32小时</li>
-<li>课程官网：<a href="https://tai-e.pascal-lab.net/lectures.html">南京大学-软件分析</a></li>
-<li>在线视频：<a href="https://www.bilibili.com/video/BV1b7411K7P4/?spm_id_from=333.788&vd_source=2a2c8e8b6c43765f922e5e18e4bd2e71">bilibili</a></li>
-</ul>
-</blockquote>
-<h4 id="3-北京大学-软件分析技术"><a href="#3-北京大学-软件分析技术" class="headerlink" title="3.北京大学-软件分析技术"></a>3.北京大学-软件分析技术</h4><blockquote>
-<ul>
-<li>简介：和南京大学的软件分析课程对比，该课主要讲授更加全面的程序分析理论与实践，难度也更大。</li>
-<li>课程时间：43小时</li>
-<li>课程官网：<a href="https://xiongyingfei.github.io/SA/2020/main.htm">北京大学-软件分析技术</a></li>
-<li>在线视频：<a href="https://www.bilibili.com/video/BV1Rt4y1s7tC?p=1&vd_source=2a2c8e8b6c43765f922e5e18e4bd2e71">bilibili</a></li>
-</ul>
-</blockquote>
-]]></content>
-      <categories>
-        <category>CS课程</category>
-      </categories>
-      <tags>
-        <tag>CS课程</tag>
-        <tag>软件工程</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>CS课程分享(六)—数据库</title>
     <url>/2022/12/02/CS%E8%AF%BE%E7%A8%8B%E5%88%86%E4%BA%AB(%E5%85%AD)%E2%80%94%E6%95%B0%E6%8D%AE%E5%BA%93/</url>
     <content><![CDATA[<h4 id="1-CMU15-445-645-数据库系统"><a href="#1-CMU15-445-645-数据库系统" class="headerlink" title="1.CMU15-445&#x2F;645 数据库系统"></a>1.CMU15-445&#x2F;645 数据库系统</h4><blockquote>
@@ -629,90 +592,6 @@
       <tags>
         <tag>CS课程</tag>
         <tag>数据库</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>ChatGPT使用教程—开发者prompt分享</title>
-    <url>/2023/04/05/ChatGPT%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B%E2%80%94%E5%BC%80%E5%8F%91%E8%80%85prompt%E5%88%86%E4%BA%AB/</url>
-    <content><![CDATA[<h3 id="一、英语翻译"><a href="#一、英语翻译" class="headerlink" title="一、英语翻译"></a>一、英语翻译</h3><h4 id="1-充当英语翻译和改进者"><a href="#1-充当英语翻译和改进者" class="headerlink" title="1.充当英语翻译和改进者"></a>1.充当英语翻译和改进者</h4><blockquote>
-<p>我希望你能担任英语翻译、拼写校对和修辞改进的角色。我会用任何语言和你交流，你会识别语言，将其翻译并用更为优美和精炼的英语回答我。请将我简单的词汇和句子替换成更为优美和高雅的表达方式，确保意思不变，但使其更具文学性。请仅回答更正和改进的部分，不要写解释。我的第一句话是“how are you ?”，请翻译它。</p>
-</blockquote>
-<h4 id="2-充当英翻中"><a href="#2-充当英翻中" class="headerlink" title="2.充当英翻中"></a>2.充当英翻中</h4><blockquote>
-<p>下面我让你来充当翻译家，你的目标是把任何语言翻译成中文，请翻译时不要带翻译腔，而是要翻译得自然、流畅和地道，使用优美和高雅的表达方式。请翻译下面这句话：“how are you ?”</p>
-</blockquote>
-<h4 id="3-充当英英词典-附中文解释"><a href="#3-充当英英词典-附中文解释" class="headerlink" title="3.充当英英词典(附中文解释)"></a>3.充当英英词典(附中文解释)</h4><blockquote>
-<p>将英文单词转换为包括中文翻译、英文释义和一个例句的完整解释。请检查所有信息是否准确，并在回答时保持简洁，不需要任何其他反馈。第一个单词是“Hello”</p>
-</blockquote>
-<h3 id="二、前端"><a href="#二、前端" class="headerlink" title="二、前端"></a>二、前端</h3><h4 id="1-作为-UX-UI-开发人员"><a href="#1-作为-UX-UI-开发人员" class="headerlink" title="1.作为 UX&#x2F;UI 开发人员"></a>1.作为 UX&#x2F;UI 开发人员</h4><blockquote>
-<p>我希望你担任 UX&#x2F;UI 开发人员。我将提供有关应用程序、网站或其他数字产品设计的一些细节，而你的工作就是想出创造性的方法来改善其用户体验。这可能涉及创建原型设计原型、测试不同的设计并提供有关最佳效果的反馈。我的第一个请求是“我需要帮助为我的新移动应用程序设计一个直观的导航系统。”</p>
-</blockquote>
-<h4 id="2-担任-SVG-设计师"><a href="#2-担任-SVG-设计师" class="headerlink" title="2.担任 SVG 设计师"></a>2.担任 SVG 设计师</h4><blockquote>
-<p>我希望你担任 SVG 设计师。我会要求你创建图像，你会为图像提供 SVG 代码，将代码转换为 base64 数据 url，然后给我一个仅包含引用该数据 url 的降价图像标签的响应。不要将 markdown 放在代码块中。只发送降价，所以没有文本。我的第一个请求是：给我一个红色圆圈的图像。</p>
-</blockquote>
-<h4 id="3-担任网页设计顾问"><a href="#3-担任网页设计顾问" class="headerlink" title="3.担任网页设计顾问"></a>3.担任网页设计顾问</h4><blockquote>
-<p>我想让你担任网页设计顾问。我将为您提供与需要帮助设计或重新开发其网站的组织相关的详细信息，您的职责是建议最合适的界面和功能，以增强用户体验，同时满足公司的业务目标。您应该利用您在 UX&#x2F;UI 设计原则、编码语言、网站开发工具等方面的知识，以便为项目制定一个全面的计划。我的第一个请求是“我需要帮助创建一个销售珠宝的电子商务网站”。</p>
-</blockquote>
-<h4 id="4-充当-JavaScript-控制台"><a href="#4-充当-JavaScript-控制台" class="headerlink" title="4.充当 JavaScript 控制台"></a>4.充当 JavaScript 控制台</h4><blockquote>
-<p>我希望你充当 javascript 控制台。我将键入命令，您将回复 javascript 控制台应显示的内容。我希望您只在一个唯一的代码块内回复终端输出，而不是其他任何内容。不要写解释。除非我指示您这样做。我的第一个命令是 console.log(&quot;Hello World&quot;);</p>
-</blockquote>
-<h4 id="5-充当前端智能思路助手"><a href="#5-充当前端智能思路助手" class="headerlink" title="5.充当前端智能思路助手"></a>5.充当前端智能思路助手</h4><blockquote>
-<p>我想让你充当前端开发专家。我将提供一些关于Js、Node等前端代码问题的具体信息，而你的工作就是想出为我解决问题的策略。这可能包括建议代码、代码逻辑思路策略。我的第一个请求是“我需要能够动态监听某个元素节点距离当前电脑设备屏幕的左上角的X和Y轴，通过拖拽移动位置浏览器窗口和改变大小浏览器窗口。”</p>
-</blockquote>
-<h4 id="6-担任高级前端开发人员"><a href="#6-担任高级前端开发人员" class="headerlink" title="6.担任高级前端开发人员"></a>6.担任高级前端开发人员</h4><blockquote>
-<p>我希望你担任高级前端开发人员。我将描述您将使用以下工具编写项目代码的项目详细信息：Create React App、yarn、Ant Design、List、Redux Toolkit、createSlice、thunk、axios。您应该将文件合并到单个 index.js 文件中，别无其他。不要写解释。我的第一个请求是“创建 Pokemon 应用程序，列出带有来自 PokeAPI 精灵端点的图像的宠物小精灵”</p>
-</blockquote>
-<h3 id="三、软件开发"><a href="#三、软件开发" class="headerlink" title="三、软件开发"></a>三、软件开发</h3><h4 id="1-担任产品经理"><a href="#1-担任产品经理" class="headerlink" title="1.担任产品经理"></a>1.担任产品经理</h4><blockquote>
-<p>请确认我的以下请求。请您作为产品经理回复我。我将会提供一个主题，您将帮助我编写一份包括以下章节标题的PRD文档：主题、简介、问题陈述、目标与目的、用户故事、技术要求、收益、KPI指标、开发风险以及结论。在我要求具体主题、功能或开发的PRD之前，请不要先写任何一份PRD文档。</p>
-</blockquote>
-<h4 id="2-作为-IT-架构师"><a href="#2-作为-IT-架构师" class="headerlink" title="2.作为 IT 架构师"></a>2.作为 IT 架构师</h4><blockquote>
-<p>我希望你担任 IT 架构师。我将提供有关应用程序或其他数字产品功能的一些详细信息，而您的工作是想出将其集成到 IT 环境中的方法。这可能涉及分析业务需求、执行差距分析以及将新系统的功能映射到现有 IT 环境。接下来的步骤是创建解决方案设计、物理网络蓝图、系统集成接口定义和部署环境蓝图。我的第一个请求是“我需要帮助来集成 CMS 系统”。</p>
-</blockquote>
-<h4 id="3-充当全栈软件开发人员"><a href="#3-充当全栈软件开发人员" class="headerlink" title="3.充当全栈软件开发人员"></a>3.充当全栈软件开发人员</h4><blockquote>
-<p>我想让你充当软件开发人员。我将提供一些关于 Web 应用程序要求的具体信息，您的工作是提出用于使用 Golang 和 Angular 开发安全应用程序的架构和代码。我的第一个要求是’我想要一个允许用户根据他们的角色注册和保存他们的车辆信息的系统，并且会有管理员，用户和公司角色。我希望系统使用 JWT 来确保安全。</p>
-</blockquote>
-<h4 id="4-充当正则表达式生成器"><a href="#4-充当正则表达式生成器" class="headerlink" title="4.充当正则表达式生成器"></a>4.充当正则表达式生成器</h4><blockquote>
-<p>我希望你充当正则表达式生成器。您的角色是生成匹配文本中特定模式的正则表达式。您应该以一种可以轻松复制并粘贴到支持正则表达式的文本编辑器或编程语言中的格式提供正则表达式。不要写正则表达式如何工作的解释或例子；只需提供正则表达式本身。我的第一个提示是生成一个匹配电子邮件地址的正则表达式。</p>
-</blockquote>
-<h4 id="5-担任开发者关系顾问"><a href="#5-担任开发者关系顾问" class="headerlink" title="5.担任开发者关系顾问"></a>5.担任开发者关系顾问</h4><blockquote>
-<p>我想让你担任开发者关系顾问。我会给你一个软件包和它的相关文档。研究软件包及其可用文档，如果找不到，请回复“无法找到文档”。您的反馈需要包括定量分析（使用来自 StackOverflow、Hacker News 和 GitHub 的数据）内容，例如提交的问题、已解决的问题、存储库中的星数以及总体 StackOverflow 活动。如果有可以扩展的领域，请包括应添加的场景或上下文。包括所提供软件包的详细信息，例如下载次数以及一段时间内的相关统计数据。你应该比较工业竞争对手和封装时的优点或缺点。从软件工程师的专业意见的思维方式来解决这个问题。查看技术博客和网站（例如 TechCrunch.com 或 Crunchbase.com），如果数据不可用，请回复“无数据可用”。我的第一个要求是“express <a href="https://expressjs.com/">https://expressjs.com</a> ”</p>
-</blockquote>
-<h4 id="6-作为技术审查员"><a href="#6-作为技术审查员" class="headerlink" title="6.作为技术审查员"></a>6.作为技术审查员</h4><blockquote>
-<p>我想让你担任技术评论员。我会给你一项新技术的名称，你会向我提供深入的评论 - 包括优点、缺点、功能以及与市场上其他技术的比较。我的第一个建议请求是“我正在审查 iPhone 11 Pro Max”。</p>
-</blockquote>
-<h4 id="7-作为网络安全专家"><a href="#7-作为网络安全专家" class="headerlink" title="7.作为网络安全专家"></a>7.作为网络安全专家</h4><blockquote>
-<p>我想让你充当网络安全专家。我将提供一些关于如何存储和共享数据的具体信息，而你的工作就是想出保护这些数据免受恶意行为者攻击的策略。这可能包括建议加密方法、创建防火墙或实施将某些活动标记为可疑的策略。我的第一个请求是“我需要帮助为我的公司制定有效的网络安全战略。”</p>
-</blockquote>
-<h3 id="四、数据库与服务器"><a href="#四、数据库与服务器" class="headerlink" title="四、数据库与服务器"></a>四、数据库与服务器</h3><h4 id="1-充当-SQL-终端"><a href="#1-充当-SQL-终端" class="headerlink" title="1.充当 SQL 终端"></a>1.充当 SQL 终端</h4><blockquote>
-<p>我希望您在示例数据库前充当 SQL 终端。该数据库包含名为“Products”、“Users”、“Orders”和“Suppliers”的表。我将输入查询，您将回复终端显示的内容。我希望您在单个代码块中使用查询结果表进行回复，仅此而已。不要写解释。除非我指示您这样做，否则不要键入命令。当我需要用英语告诉你一些事情时，我会用大括号{like this)。我的第一个命令是“SELECT TOP 10 * FROM Products ORDER BY Id DESC”</p>
-</blockquote>
-<h4 id="2-作为专业DBA"><a href="#2-作为专业DBA" class="headerlink" title="2.作为专业DBA"></a>2.作为专业DBA</h4><blockquote>
-<p>我要你扮演一个专业DBA。我将提供给你数据表结构以及我的需求，你的目标是告知我性能最优的可执行的SQL语句，并尽可能的向我解释这段SQL语句，如果有更好的优化建议也可以提出来。\n&gt;\n&gt; 我的数据表结构为:\n&gt; <code>mysql\n&gt; CREATE TABLE `user` (\n&gt; `id` int NOT NULL AUTO_INCREMENT,\n&gt; `name` varchar(255) CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci NOT NULL DEFAULT &#39;&#39; COMMENT &#39;名字&#39;,\n&gt; PRIMARY KEY (`id`)\n&gt; ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci COMMENT=&#39;用户表&#39;;\n&gt;</code>\n&gt; 我的需求为:根据用户的名字查询用户的id</p>
-</blockquote>
-<h4 id="3-充当-Linux-终端"><a href="#3-充当-Linux-终端" class="headerlink" title="3.充当 Linux 终端"></a>3.充当 Linux 终端</h4><blockquote>
-<p>我想让你充当 Linux 终端。我将输入命令，您将回复终端应显示的内容。我希望您只在一个唯一的代码块内回复终端输出，而不是其他任何内容。不要写解释。除非我指示您这样做，否则不要键入命令。当我需要用英语告诉你一些事情时，我会把文字放在中括号内[就像这样]。我的第一个命令是 pwd</p>
-</blockquote>
-<h4 id="4-充当-Solr-搜索引擎"><a href="#4-充当-Solr-搜索引擎" class="headerlink" title="4.充当 Solr 搜索引擎"></a>4.充当 Solr 搜索引擎</h4><blockquote>
-<p>我希望您充当以独立模式运行的 Solr 搜索引擎。您将能够在任意字段中添加内联 JSON 文档，数据类型可以是整数、字符串、浮点数或数组。插入文档后，您将更新索引，以便我们可以通过在花括号之间用逗号分隔的 SOLR 特定查询来检索文档，如 {q&#x3D;’title:Solr’, sort&#x3D;’score asc’}。您将在编号列表中提供三个命令。第一个命令是“添加到”，后跟一个集合名称，这将让我们将内联 JSON 文档填充到给定的集合中。第二个选项是“搜索”，后跟一个集合名称。第三个命令是“show”，列出可用的核心以及圆括号内每个核心的文档数量。不要写引擎如何工作的解释或例子。您的第一个提示是显示编号列表并创建两个分别称为“prompts”和“eyay”的空集合。</p>
-</blockquote>
-<h3 id="五、技术问答"><a href="#五、技术问答" class="headerlink" title="五、技术问答"></a>五、技术问答</h3><h4 id="1-作为-IT-专家"><a href="#1-作为-IT-专家" class="headerlink" title="1.作为 IT 专家"></a>1.作为 IT 专家</h4><blockquote>
-<p>我希望你充当 IT 专家。我会向您提供有关我的技术问题所需的所有信息，而您的职责是解决我的问题。你应该使用你的计算机科学、网络基础设施和 IT 安全知识来解决我的问题。在您的回答中使用适合所有级别的人的智能、简单和易于理解的语言将很有帮助。用要点逐步解释您的解决方案很有帮助。尽量避免过多的技术细节，但在必要时使用它们。我希望您回复解决方案，而不是写任何解释。我的第一个问题是“我的笔记本电脑出现蓝屏错误”。</p>
-</blockquote>
-<h4 id="2-充当-StackOverflow-帖子"><a href="#2-充当-StackOverflow-帖子" class="headerlink" title="2.充当 StackOverflow 帖子"></a>2.充当 StackOverflow 帖子</h4><blockquote>
-<p>我想让你充当 stackoverflow 的帖子。我会问与编程相关的问题，你会回答应该是什么答案。我希望你只回答给定的答案，并在不够详细的时候写解释。不要写解释。当我需要用英语告诉你一些事情时，我会把文字放在大括号内{like this}。我的第一个问题是“如何将 http.Request 的主体读取到 Golang 中的字符串”</p>
-</blockquote>
-<h4 id="3-担任机器学习工程师"><a href="#3-担任机器学习工程师" class="headerlink" title="3.担任机器学习工程师"></a>3.担任机器学习工程师</h4><blockquote>
-<p>我想让你担任机器学习工程师。我会写一些机器学习的概念，你的工作就是用通俗易懂的术语来解释它们。这可能包括提供构建模型的分步说明、使用视觉效果演示各种技术，或建议在线资源以供进一步研究。我的第一个建议请求是“我有一个没有标签的数据集。我应该使用哪种机器学习算法？”</p>
-</blockquote>
-<h4 id="4-担任创业技术律师"><a href="#4-担任创业技术律师" class="headerlink" title="4.担任创业技术律师"></a>4.担任创业技术律师</h4><blockquote>
-<p>我将要求您准备一页纸的设计合作伙伴协议草案，该协议是一家拥有 IP 的技术初创公司与该初创公司技术的潜在客户之间的协议，该客户为该初创公司正在解决的问题空间提供数据和领域专业知识。您将写下大约 1 a4 页的拟议设计合作伙伴协议，涵盖 IP、机密性、商业权利、提供的数据、数据的使用等所有重要方面。</p>
-</blockquote>
-]]></content>
-      <categories>
-        <category>ChatGPT</category>
-      </categories>
-      <tags>
-        <tag>ChatGPT</tag>
-        <tag>prompt</tag>
       </tags>
   </entry>
   <entry>
@@ -782,6 +661,43 @@
       <tags>
         <tag>ChatGPT</tag>
         <tag>AI</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>CS课程分享(八)—软件工程</title>
+    <url>/2022/12/15/CS%E8%AF%BE%E7%A8%8B%E5%88%86%E4%BA%AB(%E5%85%AB)%E2%80%94%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B/</url>
+    <content><![CDATA[<h4 id="1-MIT6-172-软件性能工程"><a href="#1-MIT6-172-软件性能工程" class="headerlink" title="1.MIT6.172-软件性能工程"></a>1.MIT6.172-软件性能工程</h4><blockquote>
+<ul>
+<li>简介：麻省理工公开课，教学基于C语言，讲授性能分析&#x2F;高性能算法技术&#x2F;指令级优化&#x2F;缓存优化&#x2F;并行编程和构建可扩展系统。</li>
+<li>课程时间：30小时</li>
+<li>课程官网：<a href="https://ocw.mit.edu/courses/6-172-performance-engineering-of-software-systems-fall-2018/">MIT6.172-软件性能工程</a></li>
+<li>中英字幕：<a href="https://www.bilibili.com/video/BV1wA411h7N7?p=1&vd_source=2a2c8e8b6c43765f922e5e18e4bd2e71">bilibili</a></li>
+<li>英文字幕：<a href="https://www.youtube.com/playlist?list=PLUl4u3cNGP63VIBQVWguXxZZi0566y7Wf">YouTube</a></li>
+</ul>
+</blockquote>
+<h4 id="2-南京大学-软件分析"><a href="#2-南京大学-软件分析" class="headerlink" title="2.南京大学-软件分析"></a>2.南京大学-软件分析</h4><blockquote>
+<ul>
+<li>简介：须先掌握数据结构与算法，教学基于Java语言，主要讲授程序分析：静态分析的理论与实践。</li>
+<li>课程时间：32小时</li>
+<li>课程官网：<a href="https://tai-e.pascal-lab.net/lectures.html">南京大学-软件分析</a></li>
+<li>在线视频：<a href="https://www.bilibili.com/video/BV1b7411K7P4/?spm_id_from=333.788&vd_source=2a2c8e8b6c43765f922e5e18e4bd2e71">bilibili</a></li>
+</ul>
+</blockquote>
+<h4 id="3-北京大学-软件分析技术"><a href="#3-北京大学-软件分析技术" class="headerlink" title="3.北京大学-软件分析技术"></a>3.北京大学-软件分析技术</h4><blockquote>
+<ul>
+<li>简介：和南京大学的软件分析课程对比，该课主要讲授更加全面的程序分析理论与实践，难度也更大。</li>
+<li>课程时间：43小时</li>
+<li>课程官网：<a href="https://xiongyingfei.github.io/SA/2020/main.htm">北京大学-软件分析技术</a></li>
+<li>在线视频：<a href="https://www.bilibili.com/video/BV1Rt4y1s7tC?p=1&vd_source=2a2c8e8b6c43765f922e5e18e4bd2e71">bilibili</a></li>
+</ul>
+</blockquote>
+]]></content>
+      <categories>
+        <category>CS课程</category>
+      </categories>
+      <tags>
+        <tag>CS课程</tag>
+        <tag>软件工程</tag>
       </tags>
   </entry>
   <entry>
@@ -933,6 +849,121 @@
       </tags>
   </entry>
   <entry>
+    <title>ChatGPT使用教程—开发者prompt分享</title>
+    <url>/2023/04/05/ChatGPT%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B%E2%80%94%E5%BC%80%E5%8F%91%E8%80%85prompt%E5%88%86%E4%BA%AB/</url>
+    <content><![CDATA[<h3 id="一、英语翻译"><a href="#一、英语翻译" class="headerlink" title="一、英语翻译"></a>一、英语翻译</h3><h4 id="1-充当英语翻译和改进者"><a href="#1-充当英语翻译和改进者" class="headerlink" title="1.充当英语翻译和改进者"></a>1.充当英语翻译和改进者</h4><blockquote>
+<p>我希望你能担任英语翻译、拼写校对和修辞改进的角色。我会用任何语言和你交流，你会识别语言，将其翻译并用更为优美和精炼的英语回答我。请将我简单的词汇和句子替换成更为优美和高雅的表达方式，确保意思不变，但使其更具文学性。请仅回答更正和改进的部分，不要写解释。我的第一句话是“how are you ?”，请翻译它。</p>
+</blockquote>
+<h4 id="2-充当英翻中"><a href="#2-充当英翻中" class="headerlink" title="2.充当英翻中"></a>2.充当英翻中</h4><blockquote>
+<p>下面我让你来充当翻译家，你的目标是把任何语言翻译成中文，请翻译时不要带翻译腔，而是要翻译得自然、流畅和地道，使用优美和高雅的表达方式。请翻译下面这句话：“how are you ?”</p>
+</blockquote>
+<h4 id="3-充当英英词典-附中文解释"><a href="#3-充当英英词典-附中文解释" class="headerlink" title="3.充当英英词典(附中文解释)"></a>3.充当英英词典(附中文解释)</h4><blockquote>
+<p>将英文单词转换为包括中文翻译、英文释义和一个例句的完整解释。请检查所有信息是否准确，并在回答时保持简洁，不需要任何其他反馈。第一个单词是“Hello”</p>
+</blockquote>
+<h3 id="二、前端"><a href="#二、前端" class="headerlink" title="二、前端"></a>二、前端</h3><h4 id="1-作为-UX-UI-开发人员"><a href="#1-作为-UX-UI-开发人员" class="headerlink" title="1.作为 UX&#x2F;UI 开发人员"></a>1.作为 UX&#x2F;UI 开发人员</h4><blockquote>
+<p>我希望你担任 UX&#x2F;UI 开发人员。我将提供有关应用程序、网站或其他数字产品设计的一些细节，而你的工作就是想出创造性的方法来改善其用户体验。这可能涉及创建原型设计原型、测试不同的设计并提供有关最佳效果的反馈。我的第一个请求是“我需要帮助为我的新移动应用程序设计一个直观的导航系统。”</p>
+</blockquote>
+<h4 id="2-担任-SVG-设计师"><a href="#2-担任-SVG-设计师" class="headerlink" title="2.担任 SVG 设计师"></a>2.担任 SVG 设计师</h4><blockquote>
+<p>我希望你担任 SVG 设计师。我会要求你创建图像，你会为图像提供 SVG 代码，将代码转换为 base64 数据 url，然后给我一个仅包含引用该数据 url 的降价图像标签的响应。不要将 markdown 放在代码块中。只发送降价，所以没有文本。我的第一个请求是：给我一个红色圆圈的图像。</p>
+</blockquote>
+<h4 id="3-担任网页设计顾问"><a href="#3-担任网页设计顾问" class="headerlink" title="3.担任网页设计顾问"></a>3.担任网页设计顾问</h4><blockquote>
+<p>我想让你担任网页设计顾问。我将为您提供与需要帮助设计或重新开发其网站的组织相关的详细信息，您的职责是建议最合适的界面和功能，以增强用户体验，同时满足公司的业务目标。您应该利用您在 UX&#x2F;UI 设计原则、编码语言、网站开发工具等方面的知识，以便为项目制定一个全面的计划。我的第一个请求是“我需要帮助创建一个销售珠宝的电子商务网站”。</p>
+</blockquote>
+<h4 id="4-充当-JavaScript-控制台"><a href="#4-充当-JavaScript-控制台" class="headerlink" title="4.充当 JavaScript 控制台"></a>4.充当 JavaScript 控制台</h4><blockquote>
+<p>我希望你充当 javascript 控制台。我将键入命令，您将回复 javascript 控制台应显示的内容。我希望您只在一个唯一的代码块内回复终端输出，而不是其他任何内容。不要写解释。除非我指示您这样做。我的第一个命令是 console.log(&quot;Hello World&quot;);</p>
+</blockquote>
+<h4 id="5-充当前端智能思路助手"><a href="#5-充当前端智能思路助手" class="headerlink" title="5.充当前端智能思路助手"></a>5.充当前端智能思路助手</h4><blockquote>
+<p>我想让你充当前端开发专家。我将提供一些关于Js、Node等前端代码问题的具体信息，而你的工作就是想出为我解决问题的策略。这可能包括建议代码、代码逻辑思路策略。我的第一个请求是“我需要能够动态监听某个元素节点距离当前电脑设备屏幕的左上角的X和Y轴，通过拖拽移动位置浏览器窗口和改变大小浏览器窗口。”</p>
+</blockquote>
+<h4 id="6-担任高级前端开发人员"><a href="#6-担任高级前端开发人员" class="headerlink" title="6.担任高级前端开发人员"></a>6.担任高级前端开发人员</h4><blockquote>
+<p>我希望你担任高级前端开发人员。我将描述您将使用以下工具编写项目代码的项目详细信息：Create React App、yarn、Ant Design、List、Redux Toolkit、createSlice、thunk、axios。您应该将文件合并到单个 index.js 文件中，别无其他。不要写解释。我的第一个请求是“创建 Pokemon 应用程序，列出带有来自 PokeAPI 精灵端点的图像的宠物小精灵”</p>
+</blockquote>
+<h3 id="三、软件开发"><a href="#三、软件开发" class="headerlink" title="三、软件开发"></a>三、软件开发</h3><h4 id="1-担任产品经理"><a href="#1-担任产品经理" class="headerlink" title="1.担任产品经理"></a>1.担任产品经理</h4><blockquote>
+<p>请确认我的以下请求。请您作为产品经理回复我。我将会提供一个主题，您将帮助我编写一份包括以下章节标题的PRD文档：主题、简介、问题陈述、目标与目的、用户故事、技术要求、收益、KPI指标、开发风险以及结论。在我要求具体主题、功能或开发的PRD之前，请不要先写任何一份PRD文档。</p>
+</blockquote>
+<h4 id="2-作为-IT-架构师"><a href="#2-作为-IT-架构师" class="headerlink" title="2.作为 IT 架构师"></a>2.作为 IT 架构师</h4><blockquote>
+<p>我希望你担任 IT 架构师。我将提供有关应用程序或其他数字产品功能的一些详细信息，而您的工作是想出将其集成到 IT 环境中的方法。这可能涉及分析业务需求、执行差距分析以及将新系统的功能映射到现有 IT 环境。接下来的步骤是创建解决方案设计、物理网络蓝图、系统集成接口定义和部署环境蓝图。我的第一个请求是“我需要帮助来集成 CMS 系统”。</p>
+</blockquote>
+<h4 id="3-充当全栈软件开发人员"><a href="#3-充当全栈软件开发人员" class="headerlink" title="3.充当全栈软件开发人员"></a>3.充当全栈软件开发人员</h4><blockquote>
+<p>我想让你充当软件开发人员。我将提供一些关于 Web 应用程序要求的具体信息，您的工作是提出用于使用 Golang 和 Angular 开发安全应用程序的架构和代码。我的第一个要求是’我想要一个允许用户根据他们的角色注册和保存他们的车辆信息的系统，并且会有管理员，用户和公司角色。我希望系统使用 JWT 来确保安全。</p>
+</blockquote>
+<h4 id="4-充当正则表达式生成器"><a href="#4-充当正则表达式生成器" class="headerlink" title="4.充当正则表达式生成器"></a>4.充当正则表达式生成器</h4><blockquote>
+<p>我希望你充当正则表达式生成器。您的角色是生成匹配文本中特定模式的正则表达式。您应该以一种可以轻松复制并粘贴到支持正则表达式的文本编辑器或编程语言中的格式提供正则表达式。不要写正则表达式如何工作的解释或例子；只需提供正则表达式本身。我的第一个提示是生成一个匹配电子邮件地址的正则表达式。</p>
+</blockquote>
+<h4 id="5-担任开发者关系顾问"><a href="#5-担任开发者关系顾问" class="headerlink" title="5.担任开发者关系顾问"></a>5.担任开发者关系顾问</h4><blockquote>
+<p>我想让你担任开发者关系顾问。我会给你一个软件包和它的相关文档。研究软件包及其可用文档，如果找不到，请回复“无法找到文档”。您的反馈需要包括定量分析（使用来自 StackOverflow、Hacker News 和 GitHub 的数据）内容，例如提交的问题、已解决的问题、存储库中的星数以及总体 StackOverflow 活动。如果有可以扩展的领域，请包括应添加的场景或上下文。包括所提供软件包的详细信息，例如下载次数以及一段时间内的相关统计数据。你应该比较工业竞争对手和封装时的优点或缺点。从软件工程师的专业意见的思维方式来解决这个问题。查看技术博客和网站（例如 TechCrunch.com 或 Crunchbase.com），如果数据不可用，请回复“无数据可用”。我的第一个要求是“express <a href="https://expressjs.com/">https://expressjs.com</a> ”</p>
+</blockquote>
+<h4 id="6-作为技术审查员"><a href="#6-作为技术审查员" class="headerlink" title="6.作为技术审查员"></a>6.作为技术审查员</h4><blockquote>
+<p>我想让你担任技术评论员。我会给你一项新技术的名称，你会向我提供深入的评论 - 包括优点、缺点、功能以及与市场上其他技术的比较。我的第一个建议请求是“我正在审查 iPhone 11 Pro Max”。</p>
+</blockquote>
+<h4 id="7-作为网络安全专家"><a href="#7-作为网络安全专家" class="headerlink" title="7.作为网络安全专家"></a>7.作为网络安全专家</h4><blockquote>
+<p>我想让你充当网络安全专家。我将提供一些关于如何存储和共享数据的具体信息，而你的工作就是想出保护这些数据免受恶意行为者攻击的策略。这可能包括建议加密方法、创建防火墙或实施将某些活动标记为可疑的策略。我的第一个请求是“我需要帮助为我的公司制定有效的网络安全战略。”</p>
+</blockquote>
+<h3 id="四、数据库与服务器"><a href="#四、数据库与服务器" class="headerlink" title="四、数据库与服务器"></a>四、数据库与服务器</h3><h4 id="1-充当-SQL-终端"><a href="#1-充当-SQL-终端" class="headerlink" title="1.充当 SQL 终端"></a>1.充当 SQL 终端</h4><blockquote>
+<p>我希望您在示例数据库前充当 SQL 终端。该数据库包含名为“Products”、“Users”、“Orders”和“Suppliers”的表。我将输入查询，您将回复终端显示的内容。我希望您在单个代码块中使用查询结果表进行回复，仅此而已。不要写解释。除非我指示您这样做，否则不要键入命令。当我需要用英语告诉你一些事情时，我会用大括号{like this)。我的第一个命令是“SELECT TOP 10 * FROM Products ORDER BY Id DESC”</p>
+</blockquote>
+<h4 id="2-作为专业DBA"><a href="#2-作为专业DBA" class="headerlink" title="2.作为专业DBA"></a>2.作为专业DBA</h4><blockquote>
+<p>我要你扮演一个专业DBA。我将提供给你数据表结构以及我的需求，你的目标是告知我性能最优的可执行的SQL语句，并尽可能的向我解释这段SQL语句，如果有更好的优化建议也可以提出来。\n&gt;\n&gt; 我的数据表结构为:\n&gt; <code>mysql\n&gt; CREATE TABLE `user` (\n&gt; `id` int NOT NULL AUTO_INCREMENT,\n&gt; `name` varchar(255) CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci NOT NULL DEFAULT &#39;&#39; COMMENT &#39;名字&#39;,\n&gt; PRIMARY KEY (`id`)\n&gt; ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci COMMENT=&#39;用户表&#39;;\n&gt;</code>\n&gt; 我的需求为:根据用户的名字查询用户的id</p>
+</blockquote>
+<h4 id="3-充当-Linux-终端"><a href="#3-充当-Linux-终端" class="headerlink" title="3.充当 Linux 终端"></a>3.充当 Linux 终端</h4><blockquote>
+<p>我想让你充当 Linux 终端。我将输入命令，您将回复终端应显示的内容。我希望您只在一个唯一的代码块内回复终端输出，而不是其他任何内容。不要写解释。除非我指示您这样做，否则不要键入命令。当我需要用英语告诉你一些事情时，我会把文字放在中括号内[就像这样]。我的第一个命令是 pwd</p>
+</blockquote>
+<h4 id="4-充当-Solr-搜索引擎"><a href="#4-充当-Solr-搜索引擎" class="headerlink" title="4.充当 Solr 搜索引擎"></a>4.充当 Solr 搜索引擎</h4><blockquote>
+<p>我希望您充当以独立模式运行的 Solr 搜索引擎。您将能够在任意字段中添加内联 JSON 文档，数据类型可以是整数、字符串、浮点数或数组。插入文档后，您将更新索引，以便我们可以通过在花括号之间用逗号分隔的 SOLR 特定查询来检索文档，如 {q&#x3D;’title:Solr’, sort&#x3D;’score asc’}。您将在编号列表中提供三个命令。第一个命令是“添加到”，后跟一个集合名称，这将让我们将内联 JSON 文档填充到给定的集合中。第二个选项是“搜索”，后跟一个集合名称。第三个命令是“show”，列出可用的核心以及圆括号内每个核心的文档数量。不要写引擎如何工作的解释或例子。您的第一个提示是显示编号列表并创建两个分别称为“prompts”和“eyay”的空集合。</p>
+</blockquote>
+<h3 id="五、技术问答"><a href="#五、技术问答" class="headerlink" title="五、技术问答"></a>五、技术问答</h3><h4 id="1-作为-IT-专家"><a href="#1-作为-IT-专家" class="headerlink" title="1.作为 IT 专家"></a>1.作为 IT 专家</h4><blockquote>
+<p>我希望你充当 IT 专家。我会向您提供有关我的技术问题所需的所有信息，而您的职责是解决我的问题。你应该使用你的计算机科学、网络基础设施和 IT 安全知识来解决我的问题。在您的回答中使用适合所有级别的人的智能、简单和易于理解的语言将很有帮助。用要点逐步解释您的解决方案很有帮助。尽量避免过多的技术细节，但在必要时使用它们。我希望您回复解决方案，而不是写任何解释。我的第一个问题是“我的笔记本电脑出现蓝屏错误”。</p>
+</blockquote>
+<h4 id="2-充当-StackOverflow-帖子"><a href="#2-充当-StackOverflow-帖子" class="headerlink" title="2.充当 StackOverflow 帖子"></a>2.充当 StackOverflow 帖子</h4><blockquote>
+<p>我想让你充当 stackoverflow 的帖子。我会问与编程相关的问题，你会回答应该是什么答案。我希望你只回答给定的答案，并在不够详细的时候写解释。不要写解释。当我需要用英语告诉你一些事情时，我会把文字放在大括号内{like this}。我的第一个问题是“如何将 http.Request 的主体读取到 Golang 中的字符串”</p>
+</blockquote>
+<h4 id="3-担任机器学习工程师"><a href="#3-担任机器学习工程师" class="headerlink" title="3.担任机器学习工程师"></a>3.担任机器学习工程师</h4><blockquote>
+<p>我想让你担任机器学习工程师。我会写一些机器学习的概念，你的工作就是用通俗易懂的术语来解释它们。这可能包括提供构建模型的分步说明、使用视觉效果演示各种技术，或建议在线资源以供进一步研究。我的第一个建议请求是“我有一个没有标签的数据集。我应该使用哪种机器学习算法？”</p>
+</blockquote>
+<h4 id="4-担任创业技术律师"><a href="#4-担任创业技术律师" class="headerlink" title="4.担任创业技术律师"></a>4.担任创业技术律师</h4><blockquote>
+<p>我将要求您准备一页纸的设计合作伙伴协议草案，该协议是一家拥有 IP 的技术初创公司与该初创公司技术的潜在客户之间的协议，该客户为该初创公司正在解决的问题空间提供数据和领域专业知识。您将写下大约 1 a4 页的拟议设计合作伙伴协议，涵盖 IP、机密性、商业权利、提供的数据、数据的使用等所有重要方面。</p>
+</blockquote>
+]]></content>
+      <categories>
+        <category>ChatGPT</category>
+      </categories>
+      <tags>
+        <tag>ChatGPT</tag>
+        <tag>prompt</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Node.js使用node-fetch进行HTTP请求</title>
+    <url>/2023/08/11/Node.js%E4%BD%BF%E7%94%A8Fetch%20API%E8%BF%9B%E8%A1%8CHTTP%E8%AF%B7%E6%B1%82/</url>
+    <content><![CDATA[<h3 id="一、前言"><a href="#一、前言" class="headerlink" title="一、前言"></a>一、前言</h3><h4 id="node-fetch是一个可以在-Node-js-环境中使用的第三方模块，允许使用类似浏览器中-Fetch-API-的语法和功能，方便进行-HTTP-请求。"><a href="#node-fetch是一个可以在-Node-js-环境中使用的第三方模块，允许使用类似浏览器中-Fetch-API-的语法和功能，方便进行-HTTP-请求。" class="headerlink" title="node-fetch是一个可以在 Node.js 环境中使用的第三方模块，允许使用类似浏览器中 Fetch API 的语法和功能，方便进行 HTTP 请求。"></a><code>node-fetch</code>是一个可以在 Node.js 环境中使用的第三方模块，允许使用类似浏览器中 Fetch API 的语法和功能，方便进行 HTTP 请求。</h4><blockquote>
+<ul>
+<li>支持Promise：node-fetch返回的是一个Promise，所以能使用Promise的链式调用语法。</li>
+<li>支持基本的HTTP请求方法：包括GET、POST、PUT、DELETE等。</li>
+<li>支持请求头设置：包括Content-Type、Authorization等。</li>
+<li>支持发送JSON数据：可以轻松地将JSON数据作为请求体发送。</li>
+<li>支持异步&#x2F;同步请求：支持使用async&#x2F;await处理异步请求，也支持使用Promise的.then()方法。</li>
+</ul>
+</blockquote>
+<figure class="highlight javascript"><table><tr><td class="code"><pre><span class="line"><span class="comment">// 简单的使用示例</span></span><br><span class="line"><span class="keyword">const</span> fetch = <span class="built_in">require</span>(<span class="string">&#x27;node-fetch&#x27;</span>);</span><br><span class="line"></span><br><span class="line"><span class="keyword">const</span> url = <span class="string">&#x27;https://api.example.com/data&#x27;</span>;</span><br><span class="line"></span><br><span class="line"><span class="title function_">fetch</span>(url)</span><br><span class="line">  .<span class="title function_">then</span>(<span class="function"><span class="params">response</span> =&gt;</span> response.<span class="title function_">json</span>())</span><br><span class="line">  .<span class="title function_">then</span>(<span class="function"><span class="params">data</span> =&gt;</span> <span class="variable language_">console</span>.<span class="title function_">log</span>(data))</span><br><span class="line">  .<span class="title function_">catch</span>(<span class="function"><span class="params">error</span> =&gt;</span> <span class="variable language_">console</span>.<span class="title function_">error</span>(<span class="string">&#x27;Error:&#x27;</span>, error));</span><br></pre></td></tr></table></figure>
+
+<h3 id="二、安装node-fetch"><a href="#二、安装node-fetch" class="headerlink" title="二、安装node-fetch"></a>二、安装node-fetch</h3><h4 id="1-在项目根目录下打开终端"><a href="#1-在项目根目录下打开终端" class="headerlink" title="1.在项目根目录下打开终端"></a>1.在项目根目录下打开终端</h4><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line"><span class="comment"># 安装命令</span></span><br><span class="line">npm install node-fetch --save</span><br></pre></td></tr></table></figure>
+
+<h4 id="2-使用node-fetch发起请求"><a href="#2-使用node-fetch发起请求" class="headerlink" title="2.使用node-fetch发起请求"></a>2.使用node-fetch发起请求</h4><figure class="highlight javascript"><table><tr><td class="code"><pre><span class="line"><span class="comment">// Node.js 通过 require 导入 node-fetch</span></span><br><span class="line"><span class="keyword">const</span> fetch = <span class="built_in">require</span>(<span class="string">&#x27;node-fetch&#x27;</span>);</span><br><span class="line"></span><br><span class="line"><span class="keyword">const</span> url = <span class="string">&#x27;https://api.example.com/data&#x27;</span>;</span><br><span class="line"></span><br><span class="line"><span class="comment">// 发起 GET 请求</span></span><br><span class="line"><span class="title function_">fetch</span>(url)</span><br><span class="line">  .<span class="title function_">then</span>(<span class="function"><span class="params">response</span> =&gt;</span> response.<span class="title function_">json</span>())</span><br><span class="line">  .<span class="title function_">then</span>(<span class="function"><span class="params">data</span> =&gt;</span> <span class="variable language_">console</span>.<span class="title function_">log</span>(data))</span><br><span class="line">  .<span class="title function_">catch</span>(<span class="function"><span class="params">error</span> =&gt;</span> <span class="variable language_">console</span>.<span class="title function_">error</span>(<span class="string">&#x27;Error:&#x27;</span>, error));</span><br><span class="line"></span><br><span class="line"><span class="comment">// 发起 POST 请求</span></span><br><span class="line"><span class="keyword">const</span> postData = &#123;</span><br><span class="line">  <span class="attr">key1</span>: <span class="string">&#x27;value1&#x27;</span>,</span><br><span class="line">  <span class="attr">key2</span>: <span class="string">&#x27;value2&#x27;</span>,</span><br><span class="line">&#125;;</span><br><span class="line"></span><br><span class="line"><span class="title function_">fetch</span>(url, &#123;</span><br><span class="line">  <span class="attr">method</span>: <span class="string">&#x27;POST&#x27;</span>,</span><br><span class="line">  <span class="attr">headers</span>: &#123;</span><br><span class="line">    <span class="string">&#x27;Content-Type&#x27;</span>: <span class="string">&#x27;application/json&#x27;</span>,</span><br><span class="line">  &#125;,</span><br><span class="line">  <span class="attr">body</span>: <span class="title class_">JSON</span>.<span class="title function_">stringify</span>(postData),</span><br><span class="line">&#125;)</span><br><span class="line">  .<span class="title function_">then</span>(<span class="function"><span class="params">response</span> =&gt;</span> response.<span class="title function_">json</span>())</span><br><span class="line">  .<span class="title function_">then</span>(<span class="function"><span class="params">data</span> =&gt;</span> <span class="variable language_">console</span>.<span class="title function_">log</span>(data))</span><br><span class="line">  .<span class="title function_">catch</span>(<span class="function"><span class="params">error</span> =&gt;</span> <span class="variable language_">console</span>.<span class="title function_">error</span>(<span class="string">&#x27;Error:&#x27;</span>, error));</span><br></pre></td></tr></table></figure>
+
+<h4 id="3-使用async-await处理异步代码"><a href="#3-使用async-await处理异步代码" class="headerlink" title="3.使用async&#x2F;await处理异步代码"></a>3.使用async&#x2F;await处理异步代码</h4><figure class="highlight javascript"><table><tr><td class="code"><pre><span class="line"><span class="keyword">const</span> <span class="title function_">fetchData</span> = <span class="keyword">async</span> (<span class="params"></span>) =&gt; &#123;</span><br><span class="line">  <span class="keyword">try</span> &#123;</span><br><span class="line">    <span class="keyword">const</span> response = <span class="keyword">await</span> <span class="title function_">fetch</span>(url);</span><br><span class="line">    <span class="keyword">const</span> data = <span class="keyword">await</span> response.<span class="title function_">json</span>();</span><br><span class="line">    <span class="variable language_">console</span>.<span class="title function_">log</span>(data);</span><br><span class="line">  &#125; <span class="keyword">catch</span> (error) &#123;</span><br><span class="line">    <span class="variable language_">console</span>.<span class="title function_">error</span>(<span class="string">&#x27;Error:&#x27;</span>, error);</span><br><span class="line">  &#125;</span><br><span class="line">&#125;;</span><br><span class="line"></span><br><span class="line"><span class="title function_">fetchData</span>();</span><br></pre></td></tr></table></figure>
+
+<h3 id="三、处理HTTP请求的错误响应"><a href="#三、处理HTTP请求的错误响应" class="headerlink" title="三、处理HTTP请求的错误响应"></a>三、处理HTTP请求的错误响应</h3><figure class="highlight javascript"><table><tr><td class="code"><pre><span class="line"><span class="comment">// 示例代码</span></span><br><span class="line"><span class="keyword">const</span> fetch = <span class="built_in">require</span>(<span class="string">&#x27;node-fetch&#x27;</span>);</span><br><span class="line"></span><br><span class="line"><span class="keyword">const</span> url = <span class="string">&#x27;https://api.example.com/data&#x27;</span>;</span><br><span class="line"></span><br><span class="line"><span class="title function_">fetch</span>(url)</span><br><span class="line">  .<span class="title function_">then</span>(<span class="function"><span class="params">response</span> =&gt;</span> &#123;</span><br><span class="line">    <span class="keyword">if</span> (!response.<span class="property">ok</span>) &#123;</span><br><span class="line">      <span class="comment">// 如果响应状态码不在200到299范围内，表示请求失败</span></span><br><span class="line">      <span class="keyword">throw</span> <span class="keyword">new</span> <span class="title class_">Error</span>(<span class="string">`HTTP error! Status: <span class="subst">$&#123;response.status&#125;</span>, Message: <span class="subst">$&#123;response.statusText&#125;</span>`</span>);</span><br><span class="line">    &#125;</span><br><span class="line">    <span class="keyword">return</span> response.<span class="title function_">json</span>();</span><br><span class="line">  &#125;)</span><br><span class="line">  .<span class="title function_">then</span>(<span class="function"><span class="params">data</span> =&gt;</span> <span class="variable language_">console</span>.<span class="title function_">log</span>(data))</span><br><span class="line">  .<span class="title function_">catch</span>(<span class="function"><span class="params">error</span> =&gt;</span> <span class="variable language_">console</span>.<span class="title function_">error</span>(<span class="string">&#x27;Error:&#x27;</span>, error.<span class="property">message</span>));</span><br></pre></td></tr></table></figure>
+
+<h3 id="四、处理其它错误（网络错误、JSON解析错误等）"><a href="#四、处理其它错误（网络错误、JSON解析错误等）" class="headerlink" title="四、处理其它错误（网络错误、JSON解析错误等）"></a>四、处理其它错误（网络错误、JSON解析错误等）</h3><figure class="highlight javascript"><table><tr><td class="code"><pre><span class="line"><span class="comment">// 示例代码：使用instanceof检查错误类型</span></span><br><span class="line"><span class="keyword">const</span> fetch = <span class="built_in">require</span>(<span class="string">&#x27;node-fetch&#x27;</span>);</span><br><span class="line"></span><br><span class="line"><span class="keyword">const</span> url = <span class="string">&#x27;https://api.example.com/data&#x27;</span>;</span><br><span class="line"></span><br><span class="line"><span class="title function_">fetch</span>(url)</span><br><span class="line">  .<span class="title function_">then</span>(<span class="function"><span class="params">response</span> =&gt;</span> &#123;</span><br><span class="line">    <span class="keyword">if</span> (!response.<span class="property">ok</span>) &#123;</span><br><span class="line">      <span class="keyword">throw</span> <span class="keyword">new</span> <span class="title class_">Error</span>(<span class="string">`HTTP error! Status: <span class="subst">$&#123;response.status&#125;</span>, Message: <span class="subst">$&#123;response.statusText&#125;</span>`</span>);</span><br><span class="line">    &#125;</span><br><span class="line">    <span class="keyword">return</span> response.<span class="title function_">json</span>();</span><br><span class="line">  &#125;)</span><br><span class="line">  .<span class="title function_">then</span>(<span class="function"><span class="params">data</span> =&gt;</span> <span class="variable language_">console</span>.<span class="title function_">log</span>(data))</span><br><span class="line">  .<span class="title function_">catch</span>(<span class="function"><span class="params">error</span> =&gt;</span> &#123;</span><br><span class="line">    <span class="keyword">if</span> (error <span class="keyword">instanceof</span> fetch.<span class="property">FetchError</span>) &#123;</span><br><span class="line">      <span class="variable language_">console</span>.<span class="title function_">error</span>(<span class="string">&#x27;Network error:&#x27;</span>, error.<span class="property">message</span>);</span><br><span class="line">    &#125; <span class="keyword">else</span> <span class="keyword">if</span> (error <span class="keyword">instanceof</span> <span class="title class_">SyntaxError</span>) &#123;</span><br><span class="line">      <span class="variable language_">console</span>.<span class="title function_">error</span>(<span class="string">&#x27;JSON parsing error:&#x27;</span>, error.<span class="property">message</span>);</span><br><span class="line">    &#125; <span class="keyword">else</span> &#123;</span><br><span class="line">      <span class="variable language_">console</span>.<span class="title function_">error</span>(<span class="string">&#x27;Other error:&#x27;</span>, error.<span class="property">message</span>);</span><br><span class="line">    &#125;</span><br><span class="line">  &#125;);</span><br></pre></td></tr></table></figure>]]></content>
+      <categories>
+        <category>Node.js</category>
+      </categories>
+      <tags>
+        <tag>Node.js</tag>
+        <tag>node-fetch</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Python3爬虫使用教程</title>
     <url>/2023/06/13/Python3%E7%88%AC%E8%99%AB%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B/</url>
     <content><![CDATA[<h3 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h3><h4 id="Python3爬虫可以模拟浏览器的行为，访问网页并从中提取数据。主要应用在数据采集、搜索引擎优化、价格比较、舆情分析等领域。工作流程："><a href="#Python3爬虫可以模拟浏览器的行为，访问网页并从中提取数据。主要应用在数据采集、搜索引擎优化、价格比较、舆情分析等领域。工作流程：" class="headerlink" title="Python3爬虫可以模拟浏览器的行为，访问网页并从中提取数据。主要应用在数据采集、搜索引擎优化、价格比较、舆情分析等领域。工作流程："></a>Python3爬虫可以模拟浏览器的行为，访问网页并从中提取数据。主要应用在数据采集、搜索引擎优化、价格比较、舆情分析等领域。工作流程：</h4><blockquote>
@@ -988,37 +1019,6 @@
       <tags>
         <tag>Python3爬虫</tag>
         <tag>网络爬虫</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Node.js使用node-fetch进行HTTP请求</title>
-    <url>/2023/08/11/Node.js%E4%BD%BF%E7%94%A8Fetch%20API%E8%BF%9B%E8%A1%8CHTTP%E8%AF%B7%E6%B1%82/</url>
-    <content><![CDATA[<h3 id="一、前言"><a href="#一、前言" class="headerlink" title="一、前言"></a>一、前言</h3><h4 id="node-fetch是一个可以在-Node-js-环境中使用的第三方模块，允许使用类似浏览器中-Fetch-API-的语法和功能，方便进行-HTTP-请求。"><a href="#node-fetch是一个可以在-Node-js-环境中使用的第三方模块，允许使用类似浏览器中-Fetch-API-的语法和功能，方便进行-HTTP-请求。" class="headerlink" title="node-fetch是一个可以在 Node.js 环境中使用的第三方模块，允许使用类似浏览器中 Fetch API 的语法和功能，方便进行 HTTP 请求。"></a><code>node-fetch</code>是一个可以在 Node.js 环境中使用的第三方模块，允许使用类似浏览器中 Fetch API 的语法和功能，方便进行 HTTP 请求。</h4><blockquote>
-<ul>
-<li>支持Promise：node-fetch返回的是一个Promise，所以能使用Promise的链式调用语法。</li>
-<li>支持基本的HTTP请求方法：包括GET、POST、PUT、DELETE等。</li>
-<li>支持请求头设置：包括Content-Type、Authorization等。</li>
-<li>支持发送JSON数据：可以轻松地将JSON数据作为请求体发送。</li>
-<li>支持异步&#x2F;同步请求：支持使用async&#x2F;await处理异步请求，也支持使用Promise的.then()方法。</li>
-</ul>
-</blockquote>
-<figure class="highlight javascript"><table><tr><td class="code"><pre><span class="line"><span class="comment">// 简单的使用示例</span></span><br><span class="line"><span class="keyword">const</span> fetch = <span class="built_in">require</span>(<span class="string">&#x27;node-fetch&#x27;</span>);</span><br><span class="line"></span><br><span class="line"><span class="keyword">const</span> url = <span class="string">&#x27;https://api.example.com/data&#x27;</span>;</span><br><span class="line"></span><br><span class="line"><span class="title function_">fetch</span>(url)</span><br><span class="line">  .<span class="title function_">then</span>(<span class="function"><span class="params">response</span> =&gt;</span> response.<span class="title function_">json</span>())</span><br><span class="line">  .<span class="title function_">then</span>(<span class="function"><span class="params">data</span> =&gt;</span> <span class="variable language_">console</span>.<span class="title function_">log</span>(data))</span><br><span class="line">  .<span class="title function_">catch</span>(<span class="function"><span class="params">error</span> =&gt;</span> <span class="variable language_">console</span>.<span class="title function_">error</span>(<span class="string">&#x27;Error:&#x27;</span>, error));</span><br></pre></td></tr></table></figure>
-
-<h3 id="二、安装node-fetch"><a href="#二、安装node-fetch" class="headerlink" title="二、安装node-fetch"></a>二、安装node-fetch</h3><h4 id="1-在项目根目录下打开终端"><a href="#1-在项目根目录下打开终端" class="headerlink" title="1.在项目根目录下打开终端"></a>1.在项目根目录下打开终端</h4><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line"><span class="comment"># 安装命令</span></span><br><span class="line">npm install node-fetch --save</span><br></pre></td></tr></table></figure>
-
-<h4 id="2-使用node-fetch发起请求"><a href="#2-使用node-fetch发起请求" class="headerlink" title="2.使用node-fetch发起请求"></a>2.使用node-fetch发起请求</h4><figure class="highlight javascript"><table><tr><td class="code"><pre><span class="line"><span class="comment">// Node.js 通过 require 导入 node-fetch</span></span><br><span class="line"><span class="keyword">const</span> fetch = <span class="built_in">require</span>(<span class="string">&#x27;node-fetch&#x27;</span>);</span><br><span class="line"></span><br><span class="line"><span class="keyword">const</span> url = <span class="string">&#x27;https://api.example.com/data&#x27;</span>;</span><br><span class="line"></span><br><span class="line"><span class="comment">// 发起 GET 请求</span></span><br><span class="line"><span class="title function_">fetch</span>(url)</span><br><span class="line">  .<span class="title function_">then</span>(<span class="function"><span class="params">response</span> =&gt;</span> response.<span class="title function_">json</span>())</span><br><span class="line">  .<span class="title function_">then</span>(<span class="function"><span class="params">data</span> =&gt;</span> <span class="variable language_">console</span>.<span class="title function_">log</span>(data))</span><br><span class="line">  .<span class="title function_">catch</span>(<span class="function"><span class="params">error</span> =&gt;</span> <span class="variable language_">console</span>.<span class="title function_">error</span>(<span class="string">&#x27;Error:&#x27;</span>, error));</span><br><span class="line"></span><br><span class="line"><span class="comment">// 发起 POST 请求</span></span><br><span class="line"><span class="keyword">const</span> postData = &#123;</span><br><span class="line">  <span class="attr">key1</span>: <span class="string">&#x27;value1&#x27;</span>,</span><br><span class="line">  <span class="attr">key2</span>: <span class="string">&#x27;value2&#x27;</span>,</span><br><span class="line">&#125;;</span><br><span class="line"></span><br><span class="line"><span class="title function_">fetch</span>(url, &#123;</span><br><span class="line">  <span class="attr">method</span>: <span class="string">&#x27;POST&#x27;</span>,</span><br><span class="line">  <span class="attr">headers</span>: &#123;</span><br><span class="line">    <span class="string">&#x27;Content-Type&#x27;</span>: <span class="string">&#x27;application/json&#x27;</span>,</span><br><span class="line">  &#125;,</span><br><span class="line">  <span class="attr">body</span>: <span class="title class_">JSON</span>.<span class="title function_">stringify</span>(postData),</span><br><span class="line">&#125;)</span><br><span class="line">  .<span class="title function_">then</span>(<span class="function"><span class="params">response</span> =&gt;</span> response.<span class="title function_">json</span>())</span><br><span class="line">  .<span class="title function_">then</span>(<span class="function"><span class="params">data</span> =&gt;</span> <span class="variable language_">console</span>.<span class="title function_">log</span>(data))</span><br><span class="line">  .<span class="title function_">catch</span>(<span class="function"><span class="params">error</span> =&gt;</span> <span class="variable language_">console</span>.<span class="title function_">error</span>(<span class="string">&#x27;Error:&#x27;</span>, error));</span><br></pre></td></tr></table></figure>
-
-<h4 id="3-使用async-await处理异步代码"><a href="#3-使用async-await处理异步代码" class="headerlink" title="3.使用async&#x2F;await处理异步代码"></a>3.使用async&#x2F;await处理异步代码</h4><figure class="highlight javascript"><table><tr><td class="code"><pre><span class="line"><span class="keyword">const</span> <span class="title function_">fetchData</span> = <span class="keyword">async</span> (<span class="params"></span>) =&gt; &#123;</span><br><span class="line">  <span class="keyword">try</span> &#123;</span><br><span class="line">    <span class="keyword">const</span> response = <span class="keyword">await</span> <span class="title function_">fetch</span>(url);</span><br><span class="line">    <span class="keyword">const</span> data = <span class="keyword">await</span> response.<span class="title function_">json</span>();</span><br><span class="line">    <span class="variable language_">console</span>.<span class="title function_">log</span>(data);</span><br><span class="line">  &#125; <span class="keyword">catch</span> (error) &#123;</span><br><span class="line">    <span class="variable language_">console</span>.<span class="title function_">error</span>(<span class="string">&#x27;Error:&#x27;</span>, error);</span><br><span class="line">  &#125;</span><br><span class="line">&#125;;</span><br><span class="line"></span><br><span class="line"><span class="title function_">fetchData</span>();</span><br></pre></td></tr></table></figure>
-
-<h3 id="三、处理HTTP请求的错误响应"><a href="#三、处理HTTP请求的错误响应" class="headerlink" title="三、处理HTTP请求的错误响应"></a>三、处理HTTP请求的错误响应</h3><figure class="highlight javascript"><table><tr><td class="code"><pre><span class="line"><span class="comment">// 示例代码</span></span><br><span class="line"><span class="keyword">const</span> fetch = <span class="built_in">require</span>(<span class="string">&#x27;node-fetch&#x27;</span>);</span><br><span class="line"></span><br><span class="line"><span class="keyword">const</span> url = <span class="string">&#x27;https://api.example.com/data&#x27;</span>;</span><br><span class="line"></span><br><span class="line"><span class="title function_">fetch</span>(url)</span><br><span class="line">  .<span class="title function_">then</span>(<span class="function"><span class="params">response</span> =&gt;</span> &#123;</span><br><span class="line">    <span class="keyword">if</span> (!response.<span class="property">ok</span>) &#123;</span><br><span class="line">      <span class="comment">// 如果响应状态码不在200到299范围内，表示请求失败</span></span><br><span class="line">      <span class="keyword">throw</span> <span class="keyword">new</span> <span class="title class_">Error</span>(<span class="string">`HTTP error! Status: <span class="subst">$&#123;response.status&#125;</span>, Message: <span class="subst">$&#123;response.statusText&#125;</span>`</span>);</span><br><span class="line">    &#125;</span><br><span class="line">    <span class="keyword">return</span> response.<span class="title function_">json</span>();</span><br><span class="line">  &#125;)</span><br><span class="line">  .<span class="title function_">then</span>(<span class="function"><span class="params">data</span> =&gt;</span> <span class="variable language_">console</span>.<span class="title function_">log</span>(data))</span><br><span class="line">  .<span class="title function_">catch</span>(<span class="function"><span class="params">error</span> =&gt;</span> <span class="variable language_">console</span>.<span class="title function_">error</span>(<span class="string">&#x27;Error:&#x27;</span>, error.<span class="property">message</span>));</span><br></pre></td></tr></table></figure>
-
-<h3 id="四、处理其它错误（网络错误、JSON解析错误等）"><a href="#四、处理其它错误（网络错误、JSON解析错误等）" class="headerlink" title="四、处理其它错误（网络错误、JSON解析错误等）"></a>四、处理其它错误（网络错误、JSON解析错误等）</h3><figure class="highlight javascript"><table><tr><td class="code"><pre><span class="line"><span class="comment">// 示例代码：使用instanceof检查错误类型</span></span><br><span class="line"><span class="keyword">const</span> fetch = <span class="built_in">require</span>(<span class="string">&#x27;node-fetch&#x27;</span>);</span><br><span class="line"></span><br><span class="line"><span class="keyword">const</span> url = <span class="string">&#x27;https://api.example.com/data&#x27;</span>;</span><br><span class="line"></span><br><span class="line"><span class="title function_">fetch</span>(url)</span><br><span class="line">  .<span class="title function_">then</span>(<span class="function"><span class="params">response</span> =&gt;</span> &#123;</span><br><span class="line">    <span class="keyword">if</span> (!response.<span class="property">ok</span>) &#123;</span><br><span class="line">      <span class="keyword">throw</span> <span class="keyword">new</span> <span class="title class_">Error</span>(<span class="string">`HTTP error! Status: <span class="subst">$&#123;response.status&#125;</span>, Message: <span class="subst">$&#123;response.statusText&#125;</span>`</span>);</span><br><span class="line">    &#125;</span><br><span class="line">    <span class="keyword">return</span> response.<span class="title function_">json</span>();</span><br><span class="line">  &#125;)</span><br><span class="line">  .<span class="title function_">then</span>(<span class="function"><span class="params">data</span> =&gt;</span> <span class="variable language_">console</span>.<span class="title function_">log</span>(data))</span><br><span class="line">  .<span class="title function_">catch</span>(<span class="function"><span class="params">error</span> =&gt;</span> &#123;</span><br><span class="line">    <span class="keyword">if</span> (error <span class="keyword">instanceof</span> fetch.<span class="property">FetchError</span>) &#123;</span><br><span class="line">      <span class="variable language_">console</span>.<span class="title function_">error</span>(<span class="string">&#x27;Network error:&#x27;</span>, error.<span class="property">message</span>);</span><br><span class="line">    &#125; <span class="keyword">else</span> <span class="keyword">if</span> (error <span class="keyword">instanceof</span> <span class="title class_">SyntaxError</span>) &#123;</span><br><span class="line">      <span class="variable language_">console</span>.<span class="title function_">error</span>(<span class="string">&#x27;JSON parsing error:&#x27;</span>, error.<span class="property">message</span>);</span><br><span class="line">    &#125; <span class="keyword">else</span> &#123;</span><br><span class="line">      <span class="variable language_">console</span>.<span class="title function_">error</span>(<span class="string">&#x27;Other error:&#x27;</span>, error.<span class="property">message</span>);</span><br><span class="line">    &#125;</span><br><span class="line">  &#125;);</span><br></pre></td></tr></table></figure>]]></content>
-      <categories>
-        <category>Node.js</category>
-      </categories>
-      <tags>
-        <tag>Node.js</tag>
-        <tag>node-fetch</tag>
       </tags>
   </entry>
   <entry>
@@ -1278,140 +1278,6 @@
       </tags>
   </entry>
   <entry>
-    <title>Web安全—浏览器指纹追踪技术</title>
-    <url>/2023/02/09/Web%E5%AE%89%E5%85%A8%E2%80%94%E6%B5%8F%E8%A7%88%E5%99%A8%E6%8C%87%E7%BA%B9%E8%BF%BD%E8%B8%AA%E6%8A%80%E6%9C%AF/</url>
-    <content><![CDATA[<h3 id="一、什么是浏览器指纹？"><a href="#一、什么是浏览器指纹？" class="headerlink" title="一、什么是浏览器指纹？"></a>一、什么是浏览器指纹？</h3><p>“浏览器指纹”是指通过收集用户设备的特征标识，用来对用户进行唯一性识别、跟踪、分析行为、所生成的摘要ID。网站通过收集大量的信息，然后对所有的特征标识进行并集匹配，可以十分精确的对用户进行标记。</p>
-<blockquote>
-<p>标识内容： UA，语言，时区，地理位置，分辨率，webRTC，Cookie，字体指纹，Canvas，WebGL，WebGL Info，AudioContext，SpeechVoices，媒体设备，CPU参数，内存参数，OS，索引数据库，Resolution等等。</p>
-</blockquote>
-<h3 id="二、信息熵与指纹"><a href="#二、信息熵与指纹" class="headerlink" title="二、信息熵与指纹"></a>二、信息熵与指纹</h3><p>信息熵是指消息中含有的信息量。熵越高，则能传输越多的信息，熵越低，则意味着传输的信息越少。</p>
-<blockquote>
-<p>举例：某中学每个年级都有10个班，每个班的人数相同。现在得知A同学是三年二班的学生，那该消息的的熵便是4.91bit左右（log(30, 2)）；如果又得知A同学生日在5月份，那这条消息的熵约为3.58bit左右（log(12, 2)）；最后得知A同学其实是女生而不是男生，那又获得了一条1bit熵的消息。每条消息的熵虽然不高，但是三条消息的熵加起来有9.49bit，或者说，同时具有这三个特征的学生，在该中学里平均每720个人才有一个。</p>
-</blockquote>
-<p>在网上冲浪的过程中，浏览器向网站服务器发出请求，网站服务器根据请求内容响应。在浏览器与网站服务器的交互中，浏览器会向网站暴露许多不同消息，比如最简单的User-Agent 里就包含了浏览器型号、版本、操作系统等信息。正如人的指纹可以用来识别不同的人一样，当浏览器暴露的信息的熵足够高时，这些信息就可以用来识别、追踪用户。</p>
-<blockquote>
-<p>举例：在某网络论坛发布帖子，发完之后清空浏览器Cookie和缓存，重启网络，并且使用代理工具再次访问该网络论坛，更换一个新的用户马甲回复刚发布的帖子。即使如此操作，网络管理员还是有可能知道回帖的用户和发帖的用户其实是同一个人。</p>
-</blockquote>
-<h3 id="三、浏览器指纹的用途"><a href="#三、浏览器指纹的用途" class="headerlink" title="三、浏览器指纹的用途"></a>三、浏览器指纹的用途</h3><p>对于网站而言，拿到浏览器指纹并没有实际价值，真正有价值的是这个浏览器指纹对应的用户信息。作为网站站长，收集用户浏览器指纹并记录用户的操作，是一个有价值的行为，特别是针对没有用户身份的场景。例如在一个内容分发网站上，用户A喜欢浏览二次元相关的内容，通过浏览器指纹记录这个兴趣，那么下次用户不需要登录即可向A用户精准推送二次元相关的信息。在信息爆炸的当下，这是一种优秀的内容分发方式。<br>对于用户而言，建立个人上网行为与浏览器指纹之间的联系或多或少都有侵犯用户隐私的意味，特别是将用户的浏览器指纹和真实的用户信息相关联起来时。</p>
-<h3 id="四、浏览器指纹的发展背景"><a href="#四、浏览器指纹的发展背景" class="headerlink" title="四、浏览器指纹的发展背景"></a>四、浏览器指纹的发展背景</h3><ul>
-<li><p>第一代是状态化的，主要集中在用户的cookie和evercookie上，需要用户登录才可以得到有效的信息。</p>
-</li>
-<li><p>第二代才有了浏览器指纹的概念。通过JS获取操作系统、分辨率、像素比等信息上传到后台归并。根据收集的特征值从而让用户更具有区分度（例如UA、浏览器插件信息）。第二代指纹追踪技术唯一性可以保证，但准确率很难完全保证。主要原因就是在跨浏览器指纹识别上面。跨浏览器之后，第二代技术中很重要的 canvas 指纹、浏览器插件指纹都变了，所以很难把跨浏览器指纹归并到同一设备上。因为设备指纹相同，很大概率上是同一台设备；但是，设备指纹不同时，不一定不是同一台设备。</p>
-</li>
-<li><p>第三代主要将目光放在用户本身上，通过收集上网行为、习惯来为用户建立特征值甚至模型(画像)，以求实现真正的追踪技术，这部分目前实现比较复杂，仍在探索中。</p>
-</li>
-</ul>
-<blockquote>
-<p>总结：第一代、第二代的指纹追踪技术是直接通过JS收集信息，第三代指纹追踪技术目前可看到的案例是2017年RSA创新沙盒的冠军unifyid技术。目前处于2.5代是因为还在解决跨浏览器识别指纹的问题。</p>
-</blockquote>
-<h3 id="五、浏览器指纹的采集"><a href="#五、浏览器指纹的采集" class="headerlink" title="五、浏览器指纹的采集"></a>五、浏览器指纹的采集</h3><p>浏览器指纹是由许多浏览器的特征信息综合起来的，其中特征值的信息熵也是不尽相同。常见可行的特征值如下：</p>
-<blockquote>
-<p>1.HTTP Header：这是最基本的信息。使用开发者工具可以看到浏览器在请求一个网页时到底发送了哪些header。目前很少有网站会读取并使用这个header（例如Google就是无视header，而是根据 IP 地址判断国家，进而决定网页的语言）。User-Agent里则包含了浏览器信息和操作系统信息。 </p>
-</blockquote>
-<blockquote>
-<p>2.语言，时区，地理位置，分辨率，字体指纹，这几个是用户根据IP和电脑的使用场景进行设置，来模仿真实环境。</p>
-</blockquote>
-<blockquote>
-<p>3.Cookie：主要是用于方便快速登录一些网站，主要承载登录信息和网站相关信息的文档。</p>
-</blockquote>
-<blockquote>
-<p>4.webRTC指纹：是可以让浏览器有音视频实时通信的能力，它提供了三个主要的API来让JS可以实时获取和交换音视频数据，MediaStream、RTCPeerConnection和RTCDataChannel。当然如果要使用WebRTC获得通信能力，用户的真实ip就得暴露出来（NAT穿透），所以RTCPeerConnection就提供了这样的API，直接使用JS就可以拿到用户的IP地址。</p>
-</blockquote>
-<blockquote>
-<p>5.canvas指纹：是HTML5中的动态绘图标签，也可以用它生成图片或者处理图片。即便使用Canvas绘制相同的元素，但是由于系统的差别，字体渲染引擎不同，对抗锯齿、次像素渲染等算法也不同，canvas将同样的文字转成图片，得到的结果也是不同的。</p>
-</blockquote>
-<blockquote>
-<p>6.WebGL指纹：是一种JavaScript浏览器API，用于在网页上呈现3D图像。网站可利用WebGL来识别您的设备指纹。通常网站可以用两种方法做到这一点：</p>
-</blockquote>
-<blockquote>
-<p>7.AudioContex指纹：和Canvas类似也是基于硬件设备或者软件的差别，来产生不同的音频输出，然后计算得到不同的hash来作为标志，当然这里的音频并没有直接在浏览器中播放出来，只需要拿到播放前的处理数据就行，音频指纹测试地址</p>
-</blockquote>
-<blockquote>
-<p>8.Do Not Track：在http头部可以声明这样一个标志“DNT”意味“Do Not Track”，如果值为1表示为不要追踪我的网页行为，0则为可以追踪。即便没有cookie也可以通过这个标志符告诉服务器我不想被追踪到，不要记录我的行为。</p>
-</blockquote>
-<blockquote>
-<p>9.CPU内核数量：这个在之前的设备指纹方案中都是没有使用到的，现代浏览器可以用navigator .hardware Concurrency来获取。如果不支持这个方法，则可以利用另一种方式获取，当增加Web Worker的数量时，可以监视payload的完成时间。当计算量达到一定的程度，Web Woker完成payload的时间显著增加，达到硬件并发的限制，从而判断核心的数量。一些浏览器（如Safari）会将Web Workers的可用内核数量减少一半，所以在获取跨浏览器指纹时，我们需要将获取到的核心数量加倍。<br>10.媒体设备，内存参数这些参数是电脑和浏览期相关指纹。</p>
-</blockquote>
-<h3 id="六、如何隐藏浏览器指纹？"><a href="#六、如何隐藏浏览器指纹？" class="headerlink" title="六、如何隐藏浏览器指纹？"></a>六、如何隐藏浏览器指纹？</h3><p>浏览器指纹是浏览器的固有属性，哪怕你的浏览器不发送 UA、禁用各种现代浏览器技术、禁用 JavaScript，“没有指纹”反而成了最可疑的指纹，因为在成千上万的用户里，你的浏览器是唯一没有指纹的，自然就鹤立鸡群了。</p>
-<blockquote>
-<p>最好的方法是大隐隐于市，让浏览器指纹变得大众化。比如现在市面上最流行的操作系统和浏览器组合是 Windows 10 + Google Chrome，那你就使用这一组合。如果你想连屏幕大小、时区等信息一并模拟，甚至可以装个虚拟机来上网（目前并没有有效可靠的从网页上检测浏览器是否运行在虚拟机里的技术，如果有的话，那运行在虚拟机里反而也会成为鹤立鸡群的特征）。对于一般用户来说，使用最流行的操作系统和浏览器组合进行上网冲浪已经足够“大隐隐于市”了，但是对于一些注重网络隐私的用户来说，还需要更多的措施。</p>
-</blockquote>
-]]></content>
-      <categories>
-        <category>Web安全</category>
-      </categories>
-      <tags>
-        <tag>Web安全</tag>
-        <tag>浏览器指纹</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Web开发—实现JWT登录鉴权</title>
-    <url>/2023/04/21/Web%E5%BC%80%E5%8F%91%E2%80%94%E5%AE%9E%E7%8E%B0JWT%E7%99%BB%E5%BD%95%E9%89%B4%E6%9D%83/</url>
-    <content><![CDATA[<h3 id="一、前言"><a href="#一、前言" class="headerlink" title="一、前言"></a>一、前言</h3><blockquote>
-<p>JWT（JSON Web Token）是一种用于在网络上传输信息的开放标准（RFC 7519），通常被用来在网络应用间安全地传递信息。JWT一个关键特点是，接收方可以验证令牌的完整性，即使信息不是加密的，接收方也可以确保信息没有被篡改。因此，JWT在身份验证和信息交换方面得到广泛应用，特别是在Web开发中的用户认证、单点登录（SSO）等场景。</p>
-</blockquote>
-<blockquote>
-<p>JWT由三部分组成: 头信息（header）, 载荷（payload）, Signature（签名）。</p>
-</blockquote>
-<ul>
-<li><p>Header: 包含了关于令牌的元数据以及使用的签名算法。它通常包括两个部分：alg（指定签名算法）和 typ（指定令牌类型）。</p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">&#123;</span><br><span class="line">  &quot;alg&quot;: &quot;HS256&quot;,</span><br><span class="line">  &quot;typ&quot;: &quot;JWT&quot;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
-</li>
-<li><p>Payload: 包含了要传递的信息。它包括一些标准的声明，以及自定义的声明。标准的声明包括 iss（签发者）、sub（主题）、aud（接收者）、exp（过期时间）、nbf（生效时间）、iat（签发时间）等。</p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">&#123;</span><br><span class="line">  &quot;sub&quot;: &quot;1234567890&quot;,</span><br><span class="line">  &quot;name&quot;: &quot;John Doe&quot;,</span><br><span class="line">  &quot;admin&quot;: true</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
-</li>
-<li><p>Signature: 使用头部中指定的算法和密钥对头部和负载进行签名。签名用于验证消息的完整性和发送者的身份。</p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">HMACSHA256(</span><br><span class="line">  base64UrlEncode(header) + &quot;.&quot; +</span><br><span class="line">  base64UrlEncode(payload),</span><br><span class="line">  secret</span><br><span class="line">)</span><br></pre></td></tr></table></figure></li>
-</ul>
-<h3 id="二、JWT的使用流程"><a href="#二、JWT的使用流程" class="headerlink" title="二、JWT的使用流程"></a>二、JWT的使用流程</h3><p>使用JWT进行Web开发时，通常的步骤涉及创建、发送和验证JSON Web Tokens。</p>
-<h4 id="1-生成JWT"><a href="#1-生成JWT" class="headerlink" title="1.生成JWT"></a>1.生成JWT</h4><ul>
-<li>使用第三方库，例如jsonwebtoken（对于Node.js），也可以使用别的库：<a href="https://jwt.io/libraries%E3%80%82">https://jwt.io/libraries。</a></li>
-<li>选择适当的算法和密钥来签名令牌</li>
-</ul>
-<figure class="highlight javascript"><table><tr><td class="code"><pre><span class="line"><span class="keyword">const</span> jwt = <span class="built_in">require</span>(<span class="string">&#x27;jsonwebtoken&#x27;</span>);</span><br><span class="line"></span><br><span class="line"><span class="keyword">const</span> payload = &#123; <span class="attr">user_id</span>: <span class="number">123</span>, <span class="attr">username</span>: <span class="string">&#x27;john_doe&#x27;</span> &#125;;</span><br><span class="line"><span class="keyword">const</span> secretKey = <span class="string">&#x27;your_secret_key&#x27;</span>;</span><br><span class="line"></span><br><span class="line"><span class="keyword">const</span> token = jwt.<span class="title function_">sign</span>(payload, secretKey, &#123; <span class="attr">expiresIn</span>: <span class="string">&#x27;1h&#x27;</span> &#125;);</span><br></pre></td></tr></table></figure>
-
-<h4 id="2-发送JWT"><a href="#2-发送JWT" class="headerlink" title="2.发送JWT"></a>2.发送JWT</h4><ul>
-<li>将生成的JWT添加到请求头部（通常是Authorization头）或者作为请求参数发送给服务器。</li>
-<li>在前端中使用 AJAX 请求或 Fetch API，确保将JWT添加到请求中。</li>
-</ul>
-<figure class="highlight javascript"><table><tr><td class="code"><pre><span class="line"><span class="comment">// Using Fetch API</span></span><br><span class="line"><span class="title function_">fetch</span>(<span class="string">&#x27;api/protected-endpoint&#x27;</span>, &#123;</span><br><span class="line">  <span class="attr">method</span>: <span class="string">&#x27;GET&#x27;</span>,</span><br><span class="line">  <span class="attr">headers</span>: &#123;</span><br><span class="line">    <span class="string">&#x27;Authorization&#x27;</span>: <span class="string">`Bearer <span class="subst">$&#123;token&#125;</span>`</span></span><br><span class="line">  &#125;</span><br><span class="line">&#125;)</span><br><span class="line">  .<span class="title function_">then</span>(<span class="function"><span class="params">response</span> =&gt;</span> response.<span class="title function_">json</span>())</span><br><span class="line">  .<span class="title function_">then</span>(<span class="function"><span class="params">data</span> =&gt;</span> <span class="variable language_">console</span>.<span class="title function_">log</span>(data))</span><br><span class="line">  .<span class="title function_">catch</span>(<span class="function"><span class="params">error</span> =&gt;</span> <span class="variable language_">console</span>.<span class="title function_">error</span>(<span class="string">&#x27;Error:&#x27;</span>, error));</span><br></pre></td></tr></table></figure>
-
-<h4 id="3-验证JWT"><a href="#3-验证JWT" class="headerlink" title="3.验证JWT"></a>3.验证JWT</h4><ul>
-<li>在服务器端设置中间件或拦截器来验证传入的JWT。</li>
-<li>使用服务器端的密钥来验证JWT的签名，并检查有效期等声明。</li>
-</ul>
-<figure class="highlight javascript"><table><tr><td class="code"><pre><span class="line"><span class="comment">// Sample middleware using Express.js</span></span><br><span class="line"><span class="keyword">const</span> jwt = <span class="built_in">require</span>(<span class="string">&#x27;jsonwebtoken&#x27;</span>);</span><br><span class="line"></span><br><span class="line"><span class="keyword">const</span> secretKey = <span class="string">&#x27;your_secret_key&#x27;</span>;</span><br><span class="line"></span><br><span class="line"><span class="keyword">function</span> <span class="title function_">authenticateJWT</span>(<span class="params">req, res, next</span>) &#123;</span><br><span class="line">  <span class="keyword">const</span> token = req.<span class="title function_">header</span>(<span class="string">&#x27;Authorization&#x27;</span>) &amp;&amp; req.<span class="title function_">header</span>(<span class="string">&#x27;Authorization&#x27;</span>).<span class="title function_">split</span>(<span class="string">&#x27; &#x27;</span>)[<span class="number">1</span>];</span><br><span class="line"></span><br><span class="line">  <span class="keyword">if</span> (!token) &#123;</span><br><span class="line">    <span class="keyword">return</span> res.<span class="title function_">sendStatus</span>(<span class="number">401</span>);</span><br><span class="line">  &#125;</span><br><span class="line"></span><br><span class="line">  jwt.<span class="title function_">verify</span>(token, secretKey, <span class="function">(<span class="params">err, user</span>) =&gt;</span> &#123;</span><br><span class="line">    <span class="keyword">if</span> (err) &#123;</span><br><span class="line">      <span class="keyword">return</span> res.<span class="title function_">sendStatus</span>(<span class="number">403</span>);</span><br><span class="line">    &#125;</span><br><span class="line"></span><br><span class="line">    req.<span class="property">user</span> = user;</span><br><span class="line">    <span class="title function_">next</span>();</span><br><span class="line">  &#125;);</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
-
-<h4 id="4-处理JWT的响应"><a href="#4-处理JWT的响应" class="headerlink" title="4.处理JWT的响应"></a>4.处理JWT的响应</h4><p>根据服务器响应处理 JWT，例如存储令牌以备将来使用。</p>
-<figure class="highlight javascript"><table><tr><td class="code"><pre><span class="line"><span class="comment">// Assuming response contains a JWT</span></span><br><span class="line"><span class="title function_">fetch</span>(<span class="string">&#x27;api/login&#x27;</span>, &#123;</span><br><span class="line">  <span class="attr">method</span>: <span class="string">&#x27;POST&#x27;</span>,</span><br><span class="line">  <span class="attr">body</span>: <span class="title class_">JSON</span>.<span class="title function_">stringify</span>(&#123; <span class="attr">username</span>: <span class="string">&#x27;john_doe&#x27;</span>, <span class="attr">password</span>: <span class="string">&#x27;password&#x27;</span> &#125;),</span><br><span class="line">  <span class="attr">headers</span>: &#123;</span><br><span class="line">    <span class="string">&#x27;Content-Type&#x27;</span>: <span class="string">&#x27;application/json&#x27;</span>,</span><br><span class="line">  &#125;,</span><br><span class="line">&#125;)</span><br><span class="line">  .<span class="title function_">then</span>(<span class="function"><span class="params">response</span> =&gt;</span> response.<span class="title function_">json</span>())</span><br><span class="line">  .<span class="title function_">then</span>(<span class="function"><span class="params">data</span> =&gt;</span> &#123;</span><br><span class="line">    <span class="comment">// Store the JWT in a secure way (e.g., localStorage, sessionStorage)</span></span><br><span class="line">    <span class="variable language_">localStorage</span>.<span class="title function_">setItem</span>(<span class="string">&#x27;token&#x27;</span>, data.<span class="property">token</span>);</span><br><span class="line">  &#125;)</span><br><span class="line">  .<span class="title function_">catch</span>(<span class="function"><span class="params">error</span> =&gt;</span> <span class="variable language_">console</span>.<span class="title function_">error</span>(<span class="string">&#x27;Error:&#x27;</span>, error));</span><br></pre></td></tr></table></figure>
-
-<blockquote>
-<p>注：存储令牌时需要谨慎处理，最好是使用安全的存储方式，例如将JWT存储在HttpOnly的Cookie中，以减少CSRF攻击的风险。</p>
-</blockquote>
-<h3 id="三、JWT鉴权在ThinkJS中的实践"><a href="#三、JWT鉴权在ThinkJS中的实践" class="headerlink" title="三、JWT鉴权在ThinkJS中的实践"></a>三、JWT鉴权在ThinkJS中的实践</h3><h4 id="1-通过npm安装jsonwebtoken模块"><a href="#1-通过npm安装jsonwebtoken模块" class="headerlink" title="1.通过npm安装jsonwebtoken模块"></a>1.通过npm安装<code>jsonwebtoken</code>模块</h4><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">npm install jsonwebtoken</span><br></pre></td></tr></table></figure>
-
-<h4 id="2-创建JWT鉴权中间件"><a href="#2-创建JWT鉴权中间件" class="headerlink" title="2.创建JWT鉴权中间件"></a>2.创建JWT鉴权中间件</h4><figure class="highlight javascript"><table><tr><td class="code"><pre><span class="line"><span class="comment">// middleware/jwtAuth.js</span></span><br><span class="line"><span class="keyword">const</span> jwt = <span class="built_in">require</span>(<span class="string">&#x27;jsonwebtoken&#x27;</span>);</span><br><span class="line"><span class="keyword">const</span> secretKey = <span class="string">&#x27;your_secret_key&#x27;</span>;</span><br><span class="line"></span><br><span class="line"><span class="variable language_">module</span>.<span class="property">exports</span> = <span class="function"><span class="params">options</span> =&gt;</span> &#123;</span><br><span class="line">  <span class="keyword">return</span> <span class="keyword">async</span> (ctx, next) =&gt; &#123;</span><br><span class="line">    <span class="keyword">const</span> token = ctx.<span class="property">header</span>.<span class="property">authorization</span> &amp;&amp; ctx.<span class="property">header</span>.<span class="property">authorization</span>.<span class="title function_">split</span>(<span class="string">&#x27; &#x27;</span>)[<span class="number">1</span>];</span><br><span class="line"></span><br><span class="line">    <span class="keyword">if</span> (!token) &#123;</span><br><span class="line">      ctx.<span class="property">status</span> = <span class="number">401</span>;</span><br><span class="line">      ctx.<span class="property">body</span> = <span class="string">&#x27;Unauthorized&#x27;</span>;</span><br><span class="line">      <span class="keyword">return</span>;</span><br><span class="line">    &#125;</span><br><span class="line"></span><br><span class="line">    jwt.<span class="title function_">verify</span>(token, secretKey, <span class="function">(<span class="params">err, user</span>) =&gt;</span> &#123;</span><br><span class="line">      <span class="keyword">if</span> (err) &#123;</span><br><span class="line">        ctx.<span class="property">status</span> = <span class="number">403</span>;</span><br><span class="line">        ctx.<span class="property">body</span> = <span class="string">&#x27;Forbidden&#x27;</span>;</span><br><span class="line">        <span class="keyword">return</span>;</span><br><span class="line">      &#125;</span><br><span class="line"></span><br><span class="line">      <span class="comment">// 将用户信息添加到请求对象中</span></span><br><span class="line">      ctx.<span class="property">state</span>.<span class="property">user</span> = user;</span><br><span class="line">    &#125;);</span><br><span class="line"></span><br><span class="line">    <span class="keyword">await</span> <span class="title function_">next</span>();</span><br><span class="line">  &#125;;</span><br><span class="line">&#125;;</span><br></pre></td></tr></table></figure>
-
-<h4 id="3-在src-config-middleware-js中配置中间件"><a href="#3-在src-config-middleware-js中配置中间件" class="headerlink" title="3.在src/config/middleware.js中配置中间件"></a>3.在<code>src/config/middleware.js</code>中配置中间件</h4><figure class="highlight javascript"><table><tr><td class="code"><pre><span class="line"><span class="comment">// src/config/middleware.js</span></span><br><span class="line"><span class="variable language_">module</span>.<span class="property">exports</span> = [</span><br><span class="line">  &#123;</span><br><span class="line">    <span class="attr">handle</span>: <span class="string">&#x27;jwtAuth&#x27;</span>, <span class="comment">// 使用的中间件名称</span></span><br><span class="line">    <span class="attr">options</span>: &#123;&#125;, <span class="comment">// 中间件的配置选项</span></span><br><span class="line">  &#125;,</span><br><span class="line">];</span><br></pre></td></tr></table></figure>
-
-<h4 id="4-在需要JWT鉴权的路由中使用中间件"><a href="#4-在需要JWT鉴权的路由中使用中间件" class="headerlink" title="4.在需要JWT鉴权的路由中使用中间件"></a>4.在需要JWT鉴权的路由中使用中间件</h4><figure class="highlight javascript"><table><tr><td class="code"><pre><span class="line"><span class="comment">// src/config/router.js</span></span><br><span class="line"><span class="variable language_">module</span>.<span class="property">exports</span> = [</span><br><span class="line">  <span class="comment">// 其他路由配置</span></span><br><span class="line">  &#123;</span><br><span class="line">    <span class="attr">path</span>: <span class="string">&#x27;/api/protected-endpoint&#x27;</span>,</span><br><span class="line">    <span class="attr">controller</span>: <span class="string">&#x27;api&#x27;</span>,</span><br><span class="line">    <span class="attr">middleware</span>: <span class="string">&#x27;jwtAuth&#x27;</span>, <span class="comment">// 使用 JWT 鉴权中间件</span></span><br><span class="line">    <span class="attr">action</span>: <span class="string">&#x27;protectedEndpoint&#x27;</span>,</span><br><span class="line">  &#125;,</span><br><span class="line">];</span><br></pre></td></tr></table></figure>
-
-<h4 id="5-在控制器中处理受保护的端点，通过ctx-state-user来访问用户信息"><a href="#5-在控制器中处理受保护的端点，通过ctx-state-user来访问用户信息" class="headerlink" title="5.在控制器中处理受保护的端点，通过ctx.state.user来访问用户信息"></a>5.在控制器中处理受保护的端点，通过<code>ctx.state.user</code>来访问用户信息</h4><figure class="highlight javascript"><table><tr><td class="code"><pre><span class="line"><span class="comment">// src/controller/api.js</span></span><br><span class="line"><span class="variable language_">module</span>.<span class="property">exports</span> = <span class="keyword">class</span> <span class="title class_">extends</span> think.<span class="property">Controller</span> &#123;</span><br><span class="line">  <span class="keyword">async</span> <span class="title function_">protectedEndpoint</span>(<span class="params"></span>) &#123;</span><br><span class="line">    <span class="keyword">const</span> user = <span class="variable language_">this</span>.<span class="property">ctx</span>.<span class="property">state</span>.<span class="property">user</span>;</span><br><span class="line">    <span class="comment">// 处理受保护的端点逻辑，使用用户信息</span></span><br><span class="line">    <span class="variable language_">this</span>.<span class="title function_">success</span>(<span class="string">&#x27;Protected endpoint accessed by &#x27;</span> + user.<span class="property">username</span>);</span><br><span class="line">  &#125;</span><br><span class="line">&#125;;</span><br></pre></td></tr></table></figure>
-
-<blockquote>
-<p>注：以上代码中的密钥<code>secretKey</code>是示例，实际开发中应该使用更复杂的密钥。</p>
-</blockquote>
-]]></content>
-      <categories>
-        <category>Web开发</category>
-      </categories>
-      <tags>
-        <tag>Web开发</tag>
-        <tag>JWT</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>Web安全—如何防范恶意攻击</title>
     <url>/2023/02/18/Web%E5%AE%89%E5%85%A8%E2%80%94%E5%A6%82%E4%BD%95%E9%98%B2%E8%8C%83%E6%81%B6%E6%84%8F%E6%94%BB%E5%87%BB/</url>
     <content><![CDATA[<h3 id="一、禁用高权限用户"><a href="#一、禁用高权限用户" class="headerlink" title="一、禁用高权限用户"></a>一、禁用高权限用户</h3><blockquote>
@@ -1551,6 +1417,74 @@
       </tags>
   </entry>
   <entry>
+    <title>Web安全—浏览器指纹追踪技术</title>
+    <url>/2023/02/09/Web%E5%AE%89%E5%85%A8%E2%80%94%E6%B5%8F%E8%A7%88%E5%99%A8%E6%8C%87%E7%BA%B9%E8%BF%BD%E8%B8%AA%E6%8A%80%E6%9C%AF/</url>
+    <content><![CDATA[<h3 id="一、什么是浏览器指纹？"><a href="#一、什么是浏览器指纹？" class="headerlink" title="一、什么是浏览器指纹？"></a>一、什么是浏览器指纹？</h3><p>“浏览器指纹”是指通过收集用户设备的特征标识，用来对用户进行唯一性识别、跟踪、分析行为、所生成的摘要ID。网站通过收集大量的信息，然后对所有的特征标识进行并集匹配，可以十分精确的对用户进行标记。</p>
+<blockquote>
+<p>标识内容： UA，语言，时区，地理位置，分辨率，webRTC，Cookie，字体指纹，Canvas，WebGL，WebGL Info，AudioContext，SpeechVoices，媒体设备，CPU参数，内存参数，OS，索引数据库，Resolution等等。</p>
+</blockquote>
+<h3 id="二、信息熵与指纹"><a href="#二、信息熵与指纹" class="headerlink" title="二、信息熵与指纹"></a>二、信息熵与指纹</h3><p>信息熵是指消息中含有的信息量。熵越高，则能传输越多的信息，熵越低，则意味着传输的信息越少。</p>
+<blockquote>
+<p>举例：某中学每个年级都有10个班，每个班的人数相同。现在得知A同学是三年二班的学生，那该消息的的熵便是4.91bit左右（log(30, 2)）；如果又得知A同学生日在5月份，那这条消息的熵约为3.58bit左右（log(12, 2)）；最后得知A同学其实是女生而不是男生，那又获得了一条1bit熵的消息。每条消息的熵虽然不高，但是三条消息的熵加起来有9.49bit，或者说，同时具有这三个特征的学生，在该中学里平均每720个人才有一个。</p>
+</blockquote>
+<p>在网上冲浪的过程中，浏览器向网站服务器发出请求，网站服务器根据请求内容响应。在浏览器与网站服务器的交互中，浏览器会向网站暴露许多不同消息，比如最简单的User-Agent 里就包含了浏览器型号、版本、操作系统等信息。正如人的指纹可以用来识别不同的人一样，当浏览器暴露的信息的熵足够高时，这些信息就可以用来识别、追踪用户。</p>
+<blockquote>
+<p>举例：在某网络论坛发布帖子，发完之后清空浏览器Cookie和缓存，重启网络，并且使用代理工具再次访问该网络论坛，更换一个新的用户马甲回复刚发布的帖子。即使如此操作，网络管理员还是有可能知道回帖的用户和发帖的用户其实是同一个人。</p>
+</blockquote>
+<h3 id="三、浏览器指纹的用途"><a href="#三、浏览器指纹的用途" class="headerlink" title="三、浏览器指纹的用途"></a>三、浏览器指纹的用途</h3><p>对于网站而言，拿到浏览器指纹并没有实际价值，真正有价值的是这个浏览器指纹对应的用户信息。作为网站站长，收集用户浏览器指纹并记录用户的操作，是一个有价值的行为，特别是针对没有用户身份的场景。例如在一个内容分发网站上，用户A喜欢浏览二次元相关的内容，通过浏览器指纹记录这个兴趣，那么下次用户不需要登录即可向A用户精准推送二次元相关的信息。在信息爆炸的当下，这是一种优秀的内容分发方式。<br>对于用户而言，建立个人上网行为与浏览器指纹之间的联系或多或少都有侵犯用户隐私的意味，特别是将用户的浏览器指纹和真实的用户信息相关联起来时。</p>
+<h3 id="四、浏览器指纹的发展背景"><a href="#四、浏览器指纹的发展背景" class="headerlink" title="四、浏览器指纹的发展背景"></a>四、浏览器指纹的发展背景</h3><ul>
+<li><p>第一代是状态化的，主要集中在用户的cookie和evercookie上，需要用户登录才可以得到有效的信息。</p>
+</li>
+<li><p>第二代才有了浏览器指纹的概念。通过JS获取操作系统、分辨率、像素比等信息上传到后台归并。根据收集的特征值从而让用户更具有区分度（例如UA、浏览器插件信息）。第二代指纹追踪技术唯一性可以保证，但准确率很难完全保证。主要原因就是在跨浏览器指纹识别上面。跨浏览器之后，第二代技术中很重要的 canvas 指纹、浏览器插件指纹都变了，所以很难把跨浏览器指纹归并到同一设备上。因为设备指纹相同，很大概率上是同一台设备；但是，设备指纹不同时，不一定不是同一台设备。</p>
+</li>
+<li><p>第三代主要将目光放在用户本身上，通过收集上网行为、习惯来为用户建立特征值甚至模型(画像)，以求实现真正的追踪技术，这部分目前实现比较复杂，仍在探索中。</p>
+</li>
+</ul>
+<blockquote>
+<p>总结：第一代、第二代的指纹追踪技术是直接通过JS收集信息，第三代指纹追踪技术目前可看到的案例是2017年RSA创新沙盒的冠军unifyid技术。目前处于2.5代是因为还在解决跨浏览器识别指纹的问题。</p>
+</blockquote>
+<h3 id="五、浏览器指纹的采集"><a href="#五、浏览器指纹的采集" class="headerlink" title="五、浏览器指纹的采集"></a>五、浏览器指纹的采集</h3><p>浏览器指纹是由许多浏览器的特征信息综合起来的，其中特征值的信息熵也是不尽相同。常见可行的特征值如下：</p>
+<blockquote>
+<p>1.HTTP Header：这是最基本的信息。使用开发者工具可以看到浏览器在请求一个网页时到底发送了哪些header。目前很少有网站会读取并使用这个header（例如Google就是无视header，而是根据 IP 地址判断国家，进而决定网页的语言）。User-Agent里则包含了浏览器信息和操作系统信息。 </p>
+</blockquote>
+<blockquote>
+<p>2.语言，时区，地理位置，分辨率，字体指纹，这几个是用户根据IP和电脑的使用场景进行设置，来模仿真实环境。</p>
+</blockquote>
+<blockquote>
+<p>3.Cookie：主要是用于方便快速登录一些网站，主要承载登录信息和网站相关信息的文档。</p>
+</blockquote>
+<blockquote>
+<p>4.webRTC指纹：是可以让浏览器有音视频实时通信的能力，它提供了三个主要的API来让JS可以实时获取和交换音视频数据，MediaStream、RTCPeerConnection和RTCDataChannel。当然如果要使用WebRTC获得通信能力，用户的真实ip就得暴露出来（NAT穿透），所以RTCPeerConnection就提供了这样的API，直接使用JS就可以拿到用户的IP地址。</p>
+</blockquote>
+<blockquote>
+<p>5.canvas指纹：是HTML5中的动态绘图标签，也可以用它生成图片或者处理图片。即便使用Canvas绘制相同的元素，但是由于系统的差别，字体渲染引擎不同，对抗锯齿、次像素渲染等算法也不同，canvas将同样的文字转成图片，得到的结果也是不同的。</p>
+</blockquote>
+<blockquote>
+<p>6.WebGL指纹：是一种JavaScript浏览器API，用于在网页上呈现3D图像。网站可利用WebGL来识别您的设备指纹。通常网站可以用两种方法做到这一点：</p>
+</blockquote>
+<blockquote>
+<p>7.AudioContex指纹：和Canvas类似也是基于硬件设备或者软件的差别，来产生不同的音频输出，然后计算得到不同的hash来作为标志，当然这里的音频并没有直接在浏览器中播放出来，只需要拿到播放前的处理数据就行，音频指纹测试地址</p>
+</blockquote>
+<blockquote>
+<p>8.Do Not Track：在http头部可以声明这样一个标志“DNT”意味“Do Not Track”，如果值为1表示为不要追踪我的网页行为，0则为可以追踪。即便没有cookie也可以通过这个标志符告诉服务器我不想被追踪到，不要记录我的行为。</p>
+</blockquote>
+<blockquote>
+<p>9.CPU内核数量：这个在之前的设备指纹方案中都是没有使用到的，现代浏览器可以用navigator .hardware Concurrency来获取。如果不支持这个方法，则可以利用另一种方式获取，当增加Web Worker的数量时，可以监视payload的完成时间。当计算量达到一定的程度，Web Woker完成payload的时间显著增加，达到硬件并发的限制，从而判断核心的数量。一些浏览器（如Safari）会将Web Workers的可用内核数量减少一半，所以在获取跨浏览器指纹时，我们需要将获取到的核心数量加倍。<br>10.媒体设备，内存参数这些参数是电脑和浏览期相关指纹。</p>
+</blockquote>
+<h3 id="六、如何隐藏浏览器指纹？"><a href="#六、如何隐藏浏览器指纹？" class="headerlink" title="六、如何隐藏浏览器指纹？"></a>六、如何隐藏浏览器指纹？</h3><p>浏览器指纹是浏览器的固有属性，哪怕你的浏览器不发送 UA、禁用各种现代浏览器技术、禁用 JavaScript，“没有指纹”反而成了最可疑的指纹，因为在成千上万的用户里，你的浏览器是唯一没有指纹的，自然就鹤立鸡群了。</p>
+<blockquote>
+<p>最好的方法是大隐隐于市，让浏览器指纹变得大众化。比如现在市面上最流行的操作系统和浏览器组合是 Windows 10 + Google Chrome，那你就使用这一组合。如果你想连屏幕大小、时区等信息一并模拟，甚至可以装个虚拟机来上网（目前并没有有效可靠的从网页上检测浏览器是否运行在虚拟机里的技术，如果有的话，那运行在虚拟机里反而也会成为鹤立鸡群的特征）。对于一般用户来说，使用最流行的操作系统和浏览器组合进行上网冲浪已经足够“大隐隐于市”了，但是对于一些注重网络隐私的用户来说，还需要更多的措施。</p>
+</blockquote>
+]]></content>
+      <categories>
+        <category>Web安全</category>
+      </categories>
+      <tags>
+        <tag>Web安全</tag>
+        <tag>浏览器指纹</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>next.js全栈项目初始化</title>
     <url>/2023/07/27/next.js%E5%85%A8%E6%A0%88%E9%A1%B9%E7%9B%AE%E5%88%9D%E5%A7%8B%E5%8C%96/</url>
     <content><![CDATA[<h3 id="一、安装Node-js"><a href="#一、安装Node-js" class="headerlink" title="一、安装Node.js"></a>一、安装Node.js</h3><h4 id="1-打开Node-js官网，点击下载”18-17-0-LTS”（长期支持版本）"><a href="#1-打开Node-js官网，点击下载”18-17-0-LTS”（长期支持版本）" class="headerlink" title="1.打开Node.js官网，点击下载”18.17.0 LTS”（长期支持版本）"></a>1.打开<a href="https://nodejs.org/">Node.js官网</a>，点击下载”18.17.0 LTS”（长期支持版本）</h4><p><img src="https://cdn.jsdelivr.net/gh/huixing404/image/test/Nodejs842635.jpg" alt="插图1"></p>
@@ -1596,35 +1530,69 @@
       </tags>
   </entry>
   <entry>
-    <title>使用Fiddler抓包小程序教程</title>
-    <url>/2023/05/26/%E4%BD%BF%E7%94%A8Fiddler%E6%8A%93%E5%8C%85%E5%B0%8F%E7%A8%8B%E5%BA%8F%E6%95%99%E7%A8%8B/</url>
-    <content><![CDATA[<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><h3 id="Fiddler是一款适用于Windows系统的网络调试工具，能够捕获HTTP-HTTPS协议发送和接收的网络流量，包括请求和响应的详细信息。并且，可以手动修改请求和响应信息，提供了性能分析工具，对Web开发和程序调试非常有用。"><a href="#Fiddler是一款适用于Windows系统的网络调试工具，能够捕获HTTP-HTTPS协议发送和接收的网络流量，包括请求和响应的详细信息。并且，可以手动修改请求和响应信息，提供了性能分析工具，对Web开发和程序调试非常有用。" class="headerlink" title="Fiddler是一款适用于Windows系统的网络调试工具，能够捕获HTTP&#x2F;HTTPS协议发送和接收的网络流量，包括请求和响应的详细信息。并且，可以手动修改请求和响应信息，提供了性能分析工具，对Web开发和程序调试非常有用。"></a>Fiddler是一款适用于Windows系统的网络调试工具，能够捕获HTTP&#x2F;HTTPS协议发送和接收的网络流量，包括请求和响应的详细信息。并且，可以手动修改请求和响应信息，提供了性能分析工具，对Web开发和程序调试非常有用。</h3><h2 id="一、安装Fiddler"><a href="#一、安装Fiddler" class="headerlink" title="一、安装Fiddler"></a>一、安装Fiddler</h2><blockquote>
-<p>官网下载：<a href="https://www.telerik.com/download/fiddler">https://www.telerik.com/download/fiddler</a></p>
+    <title>Web开发—实现JWT登录鉴权</title>
+    <url>/2023/04/21/Web%E5%BC%80%E5%8F%91%E2%80%94%E5%AE%9E%E7%8E%B0JWT%E7%99%BB%E5%BD%95%E9%89%B4%E6%9D%83/</url>
+    <content><![CDATA[<h3 id="一、前言"><a href="#一、前言" class="headerlink" title="一、前言"></a>一、前言</h3><blockquote>
+<p>JWT（JSON Web Token）是一种用于在网络上传输信息的开放标准（RFC 7519），通常被用来在网络应用间安全地传递信息。JWT一个关键特点是，接收方可以验证令牌的完整性，即使信息不是加密的，接收方也可以确保信息没有被篡改。因此，JWT在身份验证和信息交换方面得到广泛应用，特别是在Web开发中的用户认证、单点登录（SSO）等场景。</p>
 </blockquote>
-<h2 id="二、Fiddler配置"><a href="#二、Fiddler配置" class="headerlink" title="二、Fiddler配置"></a>二、Fiddler配置</h2><h3 id="1-打开Fiddler-→-菜单栏选择Tools-→-Options-→-Genneral-全部勾选"><a href="#1-打开Fiddler-→-菜单栏选择Tools-→-Options-→-Genneral-全部勾选" class="headerlink" title="1.打开Fiddler → 菜单栏选择Tools → Options → Genneral: 全部勾选"></a>1.打开Fiddler → 菜单栏选择Tools → Options → Genneral: 全部勾选</h3><p><img src="https://cdn.jsdelivr.net/gh/huixing404/image/test/Fiddler11111.png" alt="插图1"></p>
-<h3 id="2-HTTPS配置-→-勾选Capture-HTTPS-CONNECTs-和-Decrypt-HTTPS-traffic-→-第一次配置弹出安装证书请求，同意即可"><a href="#2-HTTPS配置-→-勾选Capture-HTTPS-CONNECTs-和-Decrypt-HTTPS-traffic-→-第一次配置弹出安装证书请求，同意即可" class="headerlink" title="2.HTTPS配置 → 勾选Capture HTTPS CONNECTs 和 Decrypt HTTPS traffic → 第一次配置弹出安装证书请求，同意即可"></a>2.HTTPS配置 → 勾选Capture HTTPS CONNECTs 和 Decrypt HTTPS traffic → 第一次配置弹出<code>安装证书</code>请求，同意即可</h3><p><img src="https://cdn.jsdelivr.net/gh/huixing404/image/test/Fiddler22222.png" alt="插图2"></p>
-<h3 id="3-Connections配置-→-端口号默认：8888-→-所有选项打勾"><a href="#3-Connections配置-→-端口号默认：8888-→-所有选项打勾" class="headerlink" title="3.Connections配置 → 端口号默认：8888 → 所有选项打勾"></a>3.Connections配置 → 端口号默认：8888 → 所有选项打勾</h3><p><img src="https://cdn.jsdelivr.net/gh/huixing404/image/test/Fiddler33333.png" alt="插图3"></p>
-<h3 id="4-Gateway配置-→-Manual-Proxy-Configuration（手动配置本机代理）：127-0-0-1"><a href="#4-Gateway配置-→-Manual-Proxy-Configuration（手动配置本机代理）：127-0-0-1" class="headerlink" title="4.Gateway配置 → Manual Proxy Configuration（手动配置本机代理）：127.0.0.1"></a>4.Gateway配置 → Manual Proxy Configuration（手动配置本机代理）：127.0.0.1</h3><p><img src="https://cdn.jsdelivr.net/gh/huixing404/image/test/Fiddler44444.png" alt="插图4"></p>
 <blockquote>
-<p>注：配置完毕后，务必重启Fiddler。否则，配置不会起效果。</p>
+<p>JWT由三部分组成: 头信息（header）, 载荷（payload）, Signature（签名）。</p>
 </blockquote>
-<h2 id="三、微信小程序"><a href="#三、微信小程序" class="headerlink" title="三、微信小程序"></a>三、微信小程序</h2><h3 id="1-登录PC端微信-→-设置-→-网络代理设置（地址：127-0-0-1-端口：8888）"><a href="#1-登录PC端微信-→-设置-→-网络代理设置（地址：127-0-0-1-端口：8888）" class="headerlink" title="1.登录PC端微信 → 设置 → 网络代理设置（地址：127.0.0.1 , 端口：8888）"></a>1.登录PC端微信 → 设置 → 网络代理设置（地址：127.0.0.1 , 端口：8888）</h3><p><img src="https://cdn.jsdelivr.net/gh/huixing404/image/test/Fiddle555555.png" alt="插图5"></p>
-<p><img src="https://cdn.jsdelivr.net/gh/huixing404/image/test/Fiddler66666.png" alt="插图6"></p>
-<h3 id="2-打开需要抓包的小程序，切换到Fiddler查看抓包结果"><a href="#2-打开需要抓包的小程序，切换到Fiddler查看抓包结果" class="headerlink" title="2.打开需要抓包的小程序，切换到Fiddler查看抓包结果"></a>2.打开需要抓包的小程序，切换到Fiddler查看抓包结果</h3><p><img src="https://cdn.jsdelivr.net/gh/huixing404/image/test/Fiddler77777.jpg" alt="插图7"></p>
-<h3 id="3-如果打不开小程序或没有抓到小程序的包，请Ctrl-Shift-ESC打开任务管理器-→-找到小程序进程（确保小程序未关闭）-→-打开文件所在位置"><a href="#3-如果打不开小程序或没有抓到小程序的包，请Ctrl-Shift-ESC打开任务管理器-→-找到小程序进程（确保小程序未关闭）-→-打开文件所在位置" class="headerlink" title="3.如果打不开小程序或没有抓到小程序的包，请Ctrl+Shift+ESC打开任务管理器 → 找到小程序进程（确保小程序未关闭） → 打开文件所在位置"></a>3.如果打不开小程序或没有抓到小程序的包，请Ctrl+Shift+ESC打开任务管理器 → 找到小程序进程（确保小程序未关闭） → 打开文件所在位置</h3><p><img src="https://cdn.jsdelivr.net/gh/huixing404/image/test/Fiddle888888.png" alt="插图8"></p>
-<h3 id="4-找到小程序进程的缓存目录后-→-关闭小程序，退出微信-→-删除-WMPFRuntime目录下的所有文件"><a href="#4-找到小程序进程的缓存目录后-→-关闭小程序，退出微信-→-删除-WMPFRuntime目录下的所有文件" class="headerlink" title="4.找到小程序进程的缓存目录后 → 关闭小程序，退出微信 → 删除\WMPFRuntime目录下的所有文件"></a>4.找到小程序进程的缓存目录后 → 关闭小程序，退出微信 → 删除\WMPFRuntime目录下的所有文件</h3><blockquote>
-<p>C:\Users\backlion\AppData\Roaming\Tencent\WeChat\XPlugin\Plugins\WMPFRuntime</p>
+<ul>
+<li><p>Header: 包含了关于令牌的元数据以及使用的签名算法。它通常包括两个部分：alg（指定签名算法）和 typ（指定令牌类型）。</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">&#123;</span><br><span class="line">  &quot;alg&quot;: &quot;HS256&quot;,</span><br><span class="line">  &quot;typ&quot;: &quot;JWT&quot;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+</li>
+<li><p>Payload: 包含了要传递的信息。它包括一些标准的声明，以及自定义的声明。标准的声明包括 iss（签发者）、sub（主题）、aud（接收者）、exp（过期时间）、nbf（生效时间）、iat（签发时间）等。</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">&#123;</span><br><span class="line">  &quot;sub&quot;: &quot;1234567890&quot;,</span><br><span class="line">  &quot;name&quot;: &quot;John Doe&quot;,</span><br><span class="line">  &quot;admin&quot;: true</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+</li>
+<li><p>Signature: 使用头部中指定的算法和密钥对头部和负载进行签名。签名用于验证消息的完整性和发送者的身份。</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">HMACSHA256(</span><br><span class="line">  base64UrlEncode(header) + &quot;.&quot; +</span><br><span class="line">  base64UrlEncode(payload),</span><br><span class="line">  secret</span><br><span class="line">)</span><br></pre></td></tr></table></figure></li>
+</ul>
+<h3 id="二、JWT的使用流程"><a href="#二、JWT的使用流程" class="headerlink" title="二、JWT的使用流程"></a>二、JWT的使用流程</h3><p>使用JWT进行Web开发时，通常的步骤涉及创建、发送和验证JSON Web Tokens。</p>
+<h4 id="1-生成JWT"><a href="#1-生成JWT" class="headerlink" title="1.生成JWT"></a>1.生成JWT</h4><ul>
+<li>使用第三方库，例如jsonwebtoken（对于Node.js），也可以使用别的库：<a href="https://jwt.io/libraries%E3%80%82">https://jwt.io/libraries。</a></li>
+<li>选择适当的算法和密钥来签名令牌</li>
+</ul>
+<figure class="highlight javascript"><table><tr><td class="code"><pre><span class="line"><span class="keyword">const</span> jwt = <span class="built_in">require</span>(<span class="string">&#x27;jsonwebtoken&#x27;</span>);</span><br><span class="line"></span><br><span class="line"><span class="keyword">const</span> payload = &#123; <span class="attr">user_id</span>: <span class="number">123</span>, <span class="attr">username</span>: <span class="string">&#x27;john_doe&#x27;</span> &#125;;</span><br><span class="line"><span class="keyword">const</span> secretKey = <span class="string">&#x27;your_secret_key&#x27;</span>;</span><br><span class="line"></span><br><span class="line"><span class="keyword">const</span> token = jwt.<span class="title function_">sign</span>(payload, secretKey, &#123; <span class="attr">expiresIn</span>: <span class="string">&#x27;1h&#x27;</span> &#125;);</span><br></pre></td></tr></table></figure>
+
+<h4 id="2-发送JWT"><a href="#2-发送JWT" class="headerlink" title="2.发送JWT"></a>2.发送JWT</h4><ul>
+<li>将生成的JWT添加到请求头部（通常是Authorization头）或者作为请求参数发送给服务器。</li>
+<li>在前端中使用 AJAX 请求或 Fetch API，确保将JWT添加到请求中。</li>
+</ul>
+<figure class="highlight javascript"><table><tr><td class="code"><pre><span class="line"><span class="comment">// Using Fetch API</span></span><br><span class="line"><span class="title function_">fetch</span>(<span class="string">&#x27;api/protected-endpoint&#x27;</span>, &#123;</span><br><span class="line">  <span class="attr">method</span>: <span class="string">&#x27;GET&#x27;</span>,</span><br><span class="line">  <span class="attr">headers</span>: &#123;</span><br><span class="line">    <span class="string">&#x27;Authorization&#x27;</span>: <span class="string">`Bearer <span class="subst">$&#123;token&#125;</span>`</span></span><br><span class="line">  &#125;</span><br><span class="line">&#125;)</span><br><span class="line">  .<span class="title function_">then</span>(<span class="function"><span class="params">response</span> =&gt;</span> response.<span class="title function_">json</span>())</span><br><span class="line">  .<span class="title function_">then</span>(<span class="function"><span class="params">data</span> =&gt;</span> <span class="variable language_">console</span>.<span class="title function_">log</span>(data))</span><br><span class="line">  .<span class="title function_">catch</span>(<span class="function"><span class="params">error</span> =&gt;</span> <span class="variable language_">console</span>.<span class="title function_">error</span>(<span class="string">&#x27;Error:&#x27;</span>, error));</span><br></pre></td></tr></table></figure>
+
+<h4 id="3-验证JWT"><a href="#3-验证JWT" class="headerlink" title="3.验证JWT"></a>3.验证JWT</h4><ul>
+<li>在服务器端设置中间件或拦截器来验证传入的JWT。</li>
+<li>使用服务器端的密钥来验证JWT的签名，并检查有效期等声明。</li>
+</ul>
+<figure class="highlight javascript"><table><tr><td class="code"><pre><span class="line"><span class="comment">// Sample middleware using Express.js</span></span><br><span class="line"><span class="keyword">const</span> jwt = <span class="built_in">require</span>(<span class="string">&#x27;jsonwebtoken&#x27;</span>);</span><br><span class="line"></span><br><span class="line"><span class="keyword">const</span> secretKey = <span class="string">&#x27;your_secret_key&#x27;</span>;</span><br><span class="line"></span><br><span class="line"><span class="keyword">function</span> <span class="title function_">authenticateJWT</span>(<span class="params">req, res, next</span>) &#123;</span><br><span class="line">  <span class="keyword">const</span> token = req.<span class="title function_">header</span>(<span class="string">&#x27;Authorization&#x27;</span>) &amp;&amp; req.<span class="title function_">header</span>(<span class="string">&#x27;Authorization&#x27;</span>).<span class="title function_">split</span>(<span class="string">&#x27; &#x27;</span>)[<span class="number">1</span>];</span><br><span class="line"></span><br><span class="line">  <span class="keyword">if</span> (!token) &#123;</span><br><span class="line">    <span class="keyword">return</span> res.<span class="title function_">sendStatus</span>(<span class="number">401</span>);</span><br><span class="line">  &#125;</span><br><span class="line"></span><br><span class="line">  jwt.<span class="title function_">verify</span>(token, secretKey, <span class="function">(<span class="params">err, user</span>) =&gt;</span> &#123;</span><br><span class="line">    <span class="keyword">if</span> (err) &#123;</span><br><span class="line">      <span class="keyword">return</span> res.<span class="title function_">sendStatus</span>(<span class="number">403</span>);</span><br><span class="line">    &#125;</span><br><span class="line"></span><br><span class="line">    req.<span class="property">user</span> = user;</span><br><span class="line">    <span class="title function_">next</span>();</span><br><span class="line">  &#125;);</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+
+<h4 id="4-处理JWT的响应"><a href="#4-处理JWT的响应" class="headerlink" title="4.处理JWT的响应"></a>4.处理JWT的响应</h4><p>根据服务器响应处理 JWT，例如存储令牌以备将来使用。</p>
+<figure class="highlight javascript"><table><tr><td class="code"><pre><span class="line"><span class="comment">// Assuming response contains a JWT</span></span><br><span class="line"><span class="title function_">fetch</span>(<span class="string">&#x27;api/login&#x27;</span>, &#123;</span><br><span class="line">  <span class="attr">method</span>: <span class="string">&#x27;POST&#x27;</span>,</span><br><span class="line">  <span class="attr">body</span>: <span class="title class_">JSON</span>.<span class="title function_">stringify</span>(&#123; <span class="attr">username</span>: <span class="string">&#x27;john_doe&#x27;</span>, <span class="attr">password</span>: <span class="string">&#x27;password&#x27;</span> &#125;),</span><br><span class="line">  <span class="attr">headers</span>: &#123;</span><br><span class="line">    <span class="string">&#x27;Content-Type&#x27;</span>: <span class="string">&#x27;application/json&#x27;</span>,</span><br><span class="line">  &#125;,</span><br><span class="line">&#125;)</span><br><span class="line">  .<span class="title function_">then</span>(<span class="function"><span class="params">response</span> =&gt;</span> response.<span class="title function_">json</span>())</span><br><span class="line">  .<span class="title function_">then</span>(<span class="function"><span class="params">data</span> =&gt;</span> &#123;</span><br><span class="line">    <span class="comment">// Store the JWT in a secure way (e.g., localStorage, sessionStorage)</span></span><br><span class="line">    <span class="variable language_">localStorage</span>.<span class="title function_">setItem</span>(<span class="string">&#x27;token&#x27;</span>, data.<span class="property">token</span>);</span><br><span class="line">  &#125;)</span><br><span class="line">  .<span class="title function_">catch</span>(<span class="function"><span class="params">error</span> =&gt;</span> <span class="variable language_">console</span>.<span class="title function_">error</span>(<span class="string">&#x27;Error:&#x27;</span>, error));</span><br></pre></td></tr></table></figure>
+
+<blockquote>
+<p>注：存储令牌时需要谨慎处理，最好是使用安全的存储方式，例如将JWT存储在HttpOnly的Cookie中，以减少CSRF攻击的风险。</p>
 </blockquote>
-<h3 id="5-打开Fiddler，清除Cache和Cookies的缓存（不然又会抓不到）"><a href="#5-打开Fiddler，清除Cache和Cookies的缓存（不然又会抓不到）" class="headerlink" title="5.打开Fiddler，清除Cache和Cookies的缓存（不然又会抓不到）"></a>5.打开Fiddler，清除Cache和Cookies的缓存（不然又会抓不到）</h3><p><img src="https://cdn.jsdelivr.net/gh/huixing404/image/test/Fiddler99999.png" alt="插图9"></p>
-<h3 id="6-再次登录微信，打开小程序，切换到Fiddler查看抓包结果"><a href="#6-再次登录微信，打开小程序，切换到Fiddler查看抓包结果" class="headerlink" title="6.再次登录微信，打开小程序，切换到Fiddler查看抓包结果"></a>6.再次登录微信，打开小程序，切换到Fiddler查看抓包结果</h3><p><img src="https://cdn.jsdelivr.net/gh/huixing404/image/test/Fiddler101010.png" alt="插图10"></p>
+<h3 id="三、JWT鉴权在ThinkJS中的实践"><a href="#三、JWT鉴权在ThinkJS中的实践" class="headerlink" title="三、JWT鉴权在ThinkJS中的实践"></a>三、JWT鉴权在ThinkJS中的实践</h3><h4 id="1-通过npm安装jsonwebtoken模块"><a href="#1-通过npm安装jsonwebtoken模块" class="headerlink" title="1.通过npm安装jsonwebtoken模块"></a>1.通过npm安装<code>jsonwebtoken</code>模块</h4><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">npm install jsonwebtoken</span><br></pre></td></tr></table></figure>
+
+<h4 id="2-创建JWT鉴权中间件"><a href="#2-创建JWT鉴权中间件" class="headerlink" title="2.创建JWT鉴权中间件"></a>2.创建JWT鉴权中间件</h4><figure class="highlight javascript"><table><tr><td class="code"><pre><span class="line"><span class="comment">// middleware/jwtAuth.js</span></span><br><span class="line"><span class="keyword">const</span> jwt = <span class="built_in">require</span>(<span class="string">&#x27;jsonwebtoken&#x27;</span>);</span><br><span class="line"><span class="keyword">const</span> secretKey = <span class="string">&#x27;your_secret_key&#x27;</span>;</span><br><span class="line"></span><br><span class="line"><span class="variable language_">module</span>.<span class="property">exports</span> = <span class="function"><span class="params">options</span> =&gt;</span> &#123;</span><br><span class="line">  <span class="keyword">return</span> <span class="keyword">async</span> (ctx, next) =&gt; &#123;</span><br><span class="line">    <span class="keyword">const</span> token = ctx.<span class="property">header</span>.<span class="property">authorization</span> &amp;&amp; ctx.<span class="property">header</span>.<span class="property">authorization</span>.<span class="title function_">split</span>(<span class="string">&#x27; &#x27;</span>)[<span class="number">1</span>];</span><br><span class="line"></span><br><span class="line">    <span class="keyword">if</span> (!token) &#123;</span><br><span class="line">      ctx.<span class="property">status</span> = <span class="number">401</span>;</span><br><span class="line">      ctx.<span class="property">body</span> = <span class="string">&#x27;Unauthorized&#x27;</span>;</span><br><span class="line">      <span class="keyword">return</span>;</span><br><span class="line">    &#125;</span><br><span class="line"></span><br><span class="line">    jwt.<span class="title function_">verify</span>(token, secretKey, <span class="function">(<span class="params">err, user</span>) =&gt;</span> &#123;</span><br><span class="line">      <span class="keyword">if</span> (err) &#123;</span><br><span class="line">        ctx.<span class="property">status</span> = <span class="number">403</span>;</span><br><span class="line">        ctx.<span class="property">body</span> = <span class="string">&#x27;Forbidden&#x27;</span>;</span><br><span class="line">        <span class="keyword">return</span>;</span><br><span class="line">      &#125;</span><br><span class="line"></span><br><span class="line">      <span class="comment">// 将用户信息添加到请求对象中</span></span><br><span class="line">      ctx.<span class="property">state</span>.<span class="property">user</span> = user;</span><br><span class="line">    &#125;);</span><br><span class="line"></span><br><span class="line">    <span class="keyword">await</span> <span class="title function_">next</span>();</span><br><span class="line">  &#125;;</span><br><span class="line">&#125;;</span><br></pre></td></tr></table></figure>
+
+<h4 id="3-在src-config-middleware-js中配置中间件"><a href="#3-在src-config-middleware-js中配置中间件" class="headerlink" title="3.在src/config/middleware.js中配置中间件"></a>3.在<code>src/config/middleware.js</code>中配置中间件</h4><figure class="highlight javascript"><table><tr><td class="code"><pre><span class="line"><span class="comment">// src/config/middleware.js</span></span><br><span class="line"><span class="variable language_">module</span>.<span class="property">exports</span> = [</span><br><span class="line">  &#123;</span><br><span class="line">    <span class="attr">handle</span>: <span class="string">&#x27;jwtAuth&#x27;</span>, <span class="comment">// 使用的中间件名称</span></span><br><span class="line">    <span class="attr">options</span>: &#123;&#125;, <span class="comment">// 中间件的配置选项</span></span><br><span class="line">  &#125;,</span><br><span class="line">];</span><br></pre></td></tr></table></figure>
+
+<h4 id="4-在需要JWT鉴权的路由中使用中间件"><a href="#4-在需要JWT鉴权的路由中使用中间件" class="headerlink" title="4.在需要JWT鉴权的路由中使用中间件"></a>4.在需要JWT鉴权的路由中使用中间件</h4><figure class="highlight javascript"><table><tr><td class="code"><pre><span class="line"><span class="comment">// src/config/router.js</span></span><br><span class="line"><span class="variable language_">module</span>.<span class="property">exports</span> = [</span><br><span class="line">  <span class="comment">// 其他路由配置</span></span><br><span class="line">  &#123;</span><br><span class="line">    <span class="attr">path</span>: <span class="string">&#x27;/api/protected-endpoint&#x27;</span>,</span><br><span class="line">    <span class="attr">controller</span>: <span class="string">&#x27;api&#x27;</span>,</span><br><span class="line">    <span class="attr">middleware</span>: <span class="string">&#x27;jwtAuth&#x27;</span>, <span class="comment">// 使用 JWT 鉴权中间件</span></span><br><span class="line">    <span class="attr">action</span>: <span class="string">&#x27;protectedEndpoint&#x27;</span>,</span><br><span class="line">  &#125;,</span><br><span class="line">];</span><br></pre></td></tr></table></figure>
+
+<h4 id="5-在控制器中处理受保护的端点，通过ctx-state-user来访问用户信息"><a href="#5-在控制器中处理受保护的端点，通过ctx-state-user来访问用户信息" class="headerlink" title="5.在控制器中处理受保护的端点，通过ctx.state.user来访问用户信息"></a>5.在控制器中处理受保护的端点，通过<code>ctx.state.user</code>来访问用户信息</h4><figure class="highlight javascript"><table><tr><td class="code"><pre><span class="line"><span class="comment">// src/controller/api.js</span></span><br><span class="line"><span class="variable language_">module</span>.<span class="property">exports</span> = <span class="keyword">class</span> <span class="title class_">extends</span> think.<span class="property">Controller</span> &#123;</span><br><span class="line">  <span class="keyword">async</span> <span class="title function_">protectedEndpoint</span>(<span class="params"></span>) &#123;</span><br><span class="line">    <span class="keyword">const</span> user = <span class="variable language_">this</span>.<span class="property">ctx</span>.<span class="property">state</span>.<span class="property">user</span>;</span><br><span class="line">    <span class="comment">// 处理受保护的端点逻辑，使用用户信息</span></span><br><span class="line">    <span class="variable language_">this</span>.<span class="title function_">success</span>(<span class="string">&#x27;Protected endpoint accessed by &#x27;</span> + user.<span class="property">username</span>);</span><br><span class="line">  &#125;</span><br><span class="line">&#125;;</span><br></pre></td></tr></table></figure>
+
+<blockquote>
+<p>注：以上代码中的密钥<code>secretKey</code>是示例，实际开发中应该使用更复杂的密钥。</p>
+</blockquote>
 ]]></content>
       <categories>
-        <category>Fiddler</category>
+        <category>Web开发</category>
       </categories>
       <tags>
-        <tag>Fiddler</tag>
-        <tag>抓包</tag>
-        <tag>小程序</tag>
+        <tag>Web开发</tag>
+        <tag>JWT</tag>
       </tags>
   </entry>
   <entry>
@@ -1756,6 +1724,92 @@
       </tags>
   </entry>
   <entry>
+    <title>使用Fiddler抓包小程序教程</title>
+    <url>/2023/05/26/%E4%BD%BF%E7%94%A8Fiddler%E6%8A%93%E5%8C%85%E5%B0%8F%E7%A8%8B%E5%BA%8F%E6%95%99%E7%A8%8B/</url>
+    <content><![CDATA[<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><h3 id="Fiddler是一款适用于Windows系统的网络调试工具，能够捕获HTTP-HTTPS协议发送和接收的网络流量，包括请求和响应的详细信息。并且，可以手动修改请求和响应信息，提供了性能分析工具，对Web开发和程序调试非常有用。"><a href="#Fiddler是一款适用于Windows系统的网络调试工具，能够捕获HTTP-HTTPS协议发送和接收的网络流量，包括请求和响应的详细信息。并且，可以手动修改请求和响应信息，提供了性能分析工具，对Web开发和程序调试非常有用。" class="headerlink" title="Fiddler是一款适用于Windows系统的网络调试工具，能够捕获HTTP&#x2F;HTTPS协议发送和接收的网络流量，包括请求和响应的详细信息。并且，可以手动修改请求和响应信息，提供了性能分析工具，对Web开发和程序调试非常有用。"></a>Fiddler是一款适用于Windows系统的网络调试工具，能够捕获HTTP&#x2F;HTTPS协议发送和接收的网络流量，包括请求和响应的详细信息。并且，可以手动修改请求和响应信息，提供了性能分析工具，对Web开发和程序调试非常有用。</h3><h2 id="一、安装Fiddler"><a href="#一、安装Fiddler" class="headerlink" title="一、安装Fiddler"></a>一、安装Fiddler</h2><blockquote>
+<p>官网下载：<a href="https://www.telerik.com/download/fiddler">https://www.telerik.com/download/fiddler</a></p>
+</blockquote>
+<h2 id="二、Fiddler配置"><a href="#二、Fiddler配置" class="headerlink" title="二、Fiddler配置"></a>二、Fiddler配置</h2><h3 id="1-打开Fiddler-→-菜单栏选择Tools-→-Options-→-Genneral-全部勾选"><a href="#1-打开Fiddler-→-菜单栏选择Tools-→-Options-→-Genneral-全部勾选" class="headerlink" title="1.打开Fiddler → 菜单栏选择Tools → Options → Genneral: 全部勾选"></a>1.打开Fiddler → 菜单栏选择Tools → Options → Genneral: 全部勾选</h3><p><img src="https://cdn.jsdelivr.net/gh/huixing404/image/test/Fiddler11111.png" alt="插图1"></p>
+<h3 id="2-HTTPS配置-→-勾选Capture-HTTPS-CONNECTs-和-Decrypt-HTTPS-traffic-→-第一次配置弹出安装证书请求，同意即可"><a href="#2-HTTPS配置-→-勾选Capture-HTTPS-CONNECTs-和-Decrypt-HTTPS-traffic-→-第一次配置弹出安装证书请求，同意即可" class="headerlink" title="2.HTTPS配置 → 勾选Capture HTTPS CONNECTs 和 Decrypt HTTPS traffic → 第一次配置弹出安装证书请求，同意即可"></a>2.HTTPS配置 → 勾选Capture HTTPS CONNECTs 和 Decrypt HTTPS traffic → 第一次配置弹出<code>安装证书</code>请求，同意即可</h3><p><img src="https://cdn.jsdelivr.net/gh/huixing404/image/test/Fiddler22222.png" alt="插图2"></p>
+<h3 id="3-Connections配置-→-端口号默认：8888-→-所有选项打勾"><a href="#3-Connections配置-→-端口号默认：8888-→-所有选项打勾" class="headerlink" title="3.Connections配置 → 端口号默认：8888 → 所有选项打勾"></a>3.Connections配置 → 端口号默认：8888 → 所有选项打勾</h3><p><img src="https://cdn.jsdelivr.net/gh/huixing404/image/test/Fiddler33333.png" alt="插图3"></p>
+<h3 id="4-Gateway配置-→-Manual-Proxy-Configuration（手动配置本机代理）：127-0-0-1"><a href="#4-Gateway配置-→-Manual-Proxy-Configuration（手动配置本机代理）：127-0-0-1" class="headerlink" title="4.Gateway配置 → Manual Proxy Configuration（手动配置本机代理）：127.0.0.1"></a>4.Gateway配置 → Manual Proxy Configuration（手动配置本机代理）：127.0.0.1</h3><p><img src="https://cdn.jsdelivr.net/gh/huixing404/image/test/Fiddler44444.png" alt="插图4"></p>
+<blockquote>
+<p>注：配置完毕后，务必重启Fiddler。否则，配置不会起效果。</p>
+</blockquote>
+<h2 id="三、微信小程序"><a href="#三、微信小程序" class="headerlink" title="三、微信小程序"></a>三、微信小程序</h2><h3 id="1-登录PC端微信-→-设置-→-网络代理设置（地址：127-0-0-1-端口：8888）"><a href="#1-登录PC端微信-→-设置-→-网络代理设置（地址：127-0-0-1-端口：8888）" class="headerlink" title="1.登录PC端微信 → 设置 → 网络代理设置（地址：127.0.0.1 , 端口：8888）"></a>1.登录PC端微信 → 设置 → 网络代理设置（地址：127.0.0.1 , 端口：8888）</h3><p><img src="https://cdn.jsdelivr.net/gh/huixing404/image/test/Fiddle555555.png" alt="插图5"></p>
+<p><img src="https://cdn.jsdelivr.net/gh/huixing404/image/test/Fiddler66666.png" alt="插图6"></p>
+<h3 id="2-打开需要抓包的小程序，切换到Fiddler查看抓包结果"><a href="#2-打开需要抓包的小程序，切换到Fiddler查看抓包结果" class="headerlink" title="2.打开需要抓包的小程序，切换到Fiddler查看抓包结果"></a>2.打开需要抓包的小程序，切换到Fiddler查看抓包结果</h3><p><img src="https://cdn.jsdelivr.net/gh/huixing404/image/test/Fiddler77777.jpg" alt="插图7"></p>
+<h3 id="3-如果打不开小程序或没有抓到小程序的包，请Ctrl-Shift-ESC打开任务管理器-→-找到小程序进程（确保小程序未关闭）-→-打开文件所在位置"><a href="#3-如果打不开小程序或没有抓到小程序的包，请Ctrl-Shift-ESC打开任务管理器-→-找到小程序进程（确保小程序未关闭）-→-打开文件所在位置" class="headerlink" title="3.如果打不开小程序或没有抓到小程序的包，请Ctrl+Shift+ESC打开任务管理器 → 找到小程序进程（确保小程序未关闭） → 打开文件所在位置"></a>3.如果打不开小程序或没有抓到小程序的包，请Ctrl+Shift+ESC打开任务管理器 → 找到小程序进程（确保小程序未关闭） → 打开文件所在位置</h3><p><img src="https://cdn.jsdelivr.net/gh/huixing404/image/test/Fiddle888888.png" alt="插图8"></p>
+<h3 id="4-找到小程序进程的缓存目录后-→-关闭小程序，退出微信-→-删除-WMPFRuntime目录下的所有文件"><a href="#4-找到小程序进程的缓存目录后-→-关闭小程序，退出微信-→-删除-WMPFRuntime目录下的所有文件" class="headerlink" title="4.找到小程序进程的缓存目录后 → 关闭小程序，退出微信 → 删除\WMPFRuntime目录下的所有文件"></a>4.找到小程序进程的缓存目录后 → 关闭小程序，退出微信 → 删除\WMPFRuntime目录下的所有文件</h3><blockquote>
+<p>C:\Users\backlion\AppData\Roaming\Tencent\WeChat\XPlugin\Plugins\WMPFRuntime</p>
+</blockquote>
+<h3 id="5-打开Fiddler，清除Cache和Cookies的缓存（不然又会抓不到）"><a href="#5-打开Fiddler，清除Cache和Cookies的缓存（不然又会抓不到）" class="headerlink" title="5.打开Fiddler，清除Cache和Cookies的缓存（不然又会抓不到）"></a>5.打开Fiddler，清除Cache和Cookies的缓存（不然又会抓不到）</h3><p><img src="https://cdn.jsdelivr.net/gh/huixing404/image/test/Fiddler99999.png" alt="插图9"></p>
+<h3 id="6-再次登录微信，打开小程序，切换到Fiddler查看抓包结果"><a href="#6-再次登录微信，打开小程序，切换到Fiddler查看抓包结果" class="headerlink" title="6.再次登录微信，打开小程序，切换到Fiddler查看抓包结果"></a>6.再次登录微信，打开小程序，切换到Fiddler查看抓包结果</h3><p><img src="https://cdn.jsdelivr.net/gh/huixing404/image/test/Fiddler101010.png" alt="插图10"></p>
+]]></content>
+      <categories>
+        <category>Fiddler</category>
+      </categories>
+      <tags>
+        <tag>Fiddler</tag>
+        <tag>抓包</tag>
+        <tag>小程序</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>使用Jenkins自动化部署前端项目</title>
+    <url>/2023/12/23/%E4%BD%BF%E7%94%A8Jenkins%E8%87%AA%E5%8A%A8%E5%8C%96%E9%83%A8%E7%BD%B2%E5%89%8D%E7%AB%AF%E9%A1%B9%E7%9B%AE/</url>
+    <content><![CDATA[<h3 id="一、前言"><a href="#一、前言" class="headerlink" title="一、前言"></a>一、前言</h3><p>Jenkins 是一个开源的自动化服务器，可用于构建、测试和部署项目。它提供了一个可扩展的插件系统，支持多种技术和工具组合，通过自动化减少开发和运维过程中的手动设置，满足了软件开发、持续集成（CI）、持续交付（CD）的需求。</p>
+<blockquote>
+<ul>
+<li>独立性：支持构建独立于环境的应用程序，而不依赖于特定的开发环境</li>
+<li>时效性：通过自动化，Jenkins可以显著缩短软件交付的时间</li>
+<li>正确性：Jenkins能够确保构建和部署的过程按预期执行，从而减少人为错误。</li>
+<li>易维护：提供了可配置的构建流水线，让维护变得更加简单，同时也能灵活调整项目的需求变化。</li>
+<li>版本控制：Jenkins集成了版本控制系统，与代码仓库协同工作，支持多种版本控制工具，如 Git、SVN 等。</li>
+<li>社区支持：作为一款开源工具，Jenkins拥有庞大的社区支持，用户可以通过社区获取帮助、分享经验。</li>
+</ul>
+</blockquote>
+<h3 id="二、安装Jenkins，以Ubuntu系统为例"><a href="#二、安装Jenkins，以Ubuntu系统为例" class="headerlink" title="二、安装Jenkins，以Ubuntu系统为例"></a>二、安装Jenkins，以Ubuntu系统为例</h3><blockquote>
+<p>注：Jenkins项目地址 <a href="https://github.com/jenkinsci/jenkins">https://github.com/jenkinsci/jenkins</a></p>
+</blockquote>
+<h4 id="1-打开终端，更新包列表"><a href="#1-打开终端，更新包列表" class="headerlink" title="1.打开终端，更新包列表"></a>1.打开终端，更新包列表</h4><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">sudo apt update</span><br></pre></td></tr></table></figure>
+
+<h4 id="2-安装Java-Development-Kit"><a href="#2-安装Java-Development-Kit" class="headerlink" title="2.安装Java Development Kit"></a>2.安装Java Development Kit</h4><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">sudo apt install default-jdk</span><br></pre></td></tr></table></figure>
+
+<h4 id="3-添加Jenkins-GPG密钥"><a href="#3-添加Jenkins-GPG密钥" class="headerlink" title="3.添加Jenkins GPG密钥"></a>3.添加Jenkins GPG密钥</h4><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">wget -q -O - https://pkg.jenkins.io/debian-stable/jenkins.io.key | sudo apt-key add -</span><br></pre></td></tr></table></figure>
+
+<h4 id="4-将Jenkins存储库添加到APT包管理器列表中"><a href="#4-将Jenkins存储库添加到APT包管理器列表中" class="headerlink" title="4.将Jenkins存储库添加到APT包管理器列表中"></a>4.将Jenkins存储库添加到APT包管理器列表中</h4><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">sudo sh -c <span class="string">&#x27;echo deb http://pkg.jenkins.io/debian-stable binary/ &gt; /etc/apt/sources.list.d/jenkins.list&#x27;</span></span><br></pre></td></tr></table></figure>
+
+<h4 id="5-更新包列表并安装Jenkins"><a href="#5-更新包列表并安装Jenkins" class="headerlink" title="5.更新包列表并安装Jenkins"></a>5.更新包列表并安装Jenkins</h4><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">sudo apt update</span><br><span class="line">sudo apt install jenkins</span><br></pre></td></tr></table></figure>
+
+<h4 id="6-启动Jenkins服务"><a href="#6-启动Jenkins服务" class="headerlink" title="6.启动Jenkins服务"></a>6.启动Jenkins服务</h4><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line"><span class="comment"># 启动服务</span></span><br><span class="line">sudo systemctl start jenkins</span><br><span class="line"></span><br><span class="line"><span class="comment"># 检查服务状态</span></span><br><span class="line">sudo systemctl status jenkins</span><br><span class="line"></span><br><span class="line"><span class="comment"># 打开防火墙</span></span><br><span class="line">sudo ufw allow 8080</span><br><span class="line"></span><br><span class="line"><span class="comment"># 检查防火墙状态</span></span><br><span class="line">sudo ufw status</span><br></pre></td></tr></table></figure>
+
+<h4 id="7-打开浏览器，访问”"><a href="#7-打开浏览器，访问”" class="headerlink" title="7.打开浏览器，访问”"></a>7.打开浏览器，访问”<a href="http://localhost:8080"，完成Jenkins初始化设置">http://localhost:8080&quot;，完成Jenkins初始化设置</a></h4><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line"><span class="comment"># 获取初始密码</span></span><br><span class="line">sudo <span class="built_in">cat</span> /var/lib/jenkins/secrets/initialAdminPassword</span><br></pre></td></tr></table></figure>
+
+<p><img src="https://cdn.jsdelivr.net/gh/huixing404/image/test/Jenkins1.png" alt="cha1"></p>
+<h3 id="三、Jenkins基本设置"><a href="#三、Jenkins基本设置" class="headerlink" title="三、Jenkins基本设置"></a>三、Jenkins基本设置</h3><h4 id="1-登录Jenkins控制台，点击Install-suggested-plugins选项"><a href="#1-登录Jenkins控制台，点击Install-suggested-plugins选项" class="headerlink" title="1.登录Jenkins控制台，点击Install suggested plugins选项"></a>1.登录Jenkins控制台，点击Install suggested plugins选项</h4><p><img src="https://cdn.jsdelivr.net/gh/huixing404/image/test/Jenkins2.png" alt="cha2"></p>
+<h4 id="2-安装完成后，系统将提示设置管理账户"><a href="#2-安装完成后，系统将提示设置管理账户" class="headerlink" title="2.安装完成后，系统将提示设置管理账户"></a>2.安装完成后，系统将提示设置管理账户</h4><p><img src="https://cdn.jsdelivr.net/gh/huixing404/image/test/Jenkins3.png" alt="cha3"></p>
+<h4 id="3-按照要求，填写用户名、密码和邮箱即可"><a href="#3-按照要求，填写用户名、密码和邮箱即可" class="headerlink" title="3.按照要求，填写用户名、密码和邮箱即可"></a>3.按照要求，填写用户名、密码和邮箱即可</h4><p><img src="https://cdn.jsdelivr.net/gh/huixing404/image/test/Jenkins4.png" alt="cha4"></p>
+<h4 id="4-配置实例，设置服务器的IP地址"><a href="#4-配置实例，设置服务器的IP地址" class="headerlink" title="4.配置实例，设置服务器的IP地址"></a>4.配置实例，设置服务器的IP地址</h4><p><img src="https://cdn.jsdelivr.net/gh/huixing404/image/test/Jenkins5.png" alt="cha5"></p>
+<h4 id="5-一切设置完成后，点击Start-using-Jenkins，即大功告成"><a href="#5-一切设置完成后，点击Start-using-Jenkins，即大功告成" class="headerlink" title="5.一切设置完成后，点击Start using Jenkins，即大功告成"></a>5.一切设置完成后，点击Start using Jenkins，即大功告成</h4><p><img src="https://cdn.jsdelivr.net/gh/huixing404/image/test/Jenkins6.png" alt="cha6"></p>
+<h3 id="四、安装SSH插件"><a href="#四、安装SSH插件" class="headerlink" title="四、安装SSH插件"></a>四、安装SSH插件</h3><h4 id="1-点击Dashboard-→-Manage-Jenkins-→-Plugins页面"><a href="#1-点击Dashboard-→-Manage-Jenkins-→-Plugins页面" class="headerlink" title="1.点击Dashboard → Manage Jenkins → Plugins页面"></a>1.点击Dashboard → Manage Jenkins → Plugins页面</h4><p><img src="https://cdn.jsdelivr.net/gh/huixing404/image/test/Jenkins7.png" alt="cha7"></p>
+<h4 id="2-选择插件安装"><a href="#2-选择插件安装" class="headerlink" title="2.选择插件安装"></a>2.选择插件安装</h4><p><img src="https://cdn.jsdelivr.net/gh/huixing404/image/test/Jenkins8.png" alt="cha8"></p>
+<h4 id="3-安装完成后重启Jenkins即可"><a href="#3-安装完成后重启Jenkins即可" class="headerlink" title="3.安装完成后重启Jenkins即可"></a>3.安装完成后重启Jenkins即可</h4><p><img src="https://cdn.jsdelivr.net/gh/huixing404/image/test/Jenkins9.png" alt="cha9"></p>
+<h3 id="五、安装Node-js和Git"><a href="#五、安装Node-js和Git" class="headerlink" title="五、安装Node.js和Git"></a>五、安装Node.js和Git</h3><blockquote>
+<p>按照上面步骤，点击Dashboard → Manage Jenkins → Global Tool Configuration → “Add NodeJS”和”Add Git”即可。</p>
+</blockquote>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line"><span class="comment"># 安装验证</span></span><br><span class="line"><span class="built_in">echo</span> <span class="string">&quot;Node.js version: <span class="subst">$(node --version)</span>&quot;</span></span><br><span class="line"><span class="built_in">echo</span> <span class="string">&quot;Git version: <span class="subst">$(git --version)</span>&quot;</span></span><br></pre></td></tr></table></figure>
+
+]]></content>
+      <categories>
+        <category>Jenkins</category>
+      </categories>
+      <tags>
+        <tag>Jenkins</tag>
+        <tag>前端部署</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>使用Vercel快速部署前端项目</title>
     <url>/2023/10/13/%E4%BD%BF%E7%94%A8Vercel%E5%BF%AB%E9%80%9F%E9%83%A8%E7%BD%B2%E5%89%8D%E7%AB%AF%E9%A1%B9%E7%9B%AE/</url>
     <content><![CDATA[<h3 id="一、前言"><a href="#一、前言" class="headerlink" title="一、前言"></a>一、前言</h3><blockquote>
@@ -1815,62 +1869,8 @@
         <category>Vercel</category>
       </categories>
       <tags>
+        <tag>前端部署</tag>
         <tag>Vercel</tag>
-        <tag>前端部署</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>使用Jenkins自动化部署前端项目</title>
-    <url>/2023/12/23/%E4%BD%BF%E7%94%A8Jenkins%E8%87%AA%E5%8A%A8%E5%8C%96%E9%83%A8%E7%BD%B2%E5%89%8D%E7%AB%AF%E9%A1%B9%E7%9B%AE/</url>
-    <content><![CDATA[<h3 id="一、前言"><a href="#一、前言" class="headerlink" title="一、前言"></a>一、前言</h3><p>Jenkins 是一个开源的自动化服务器，可用于构建、测试和部署项目。它提供了一个可扩展的插件系统，支持多种技术和工具组合，通过自动化减少开发和运维过程中的手动设置，满足了软件开发、持续集成（CI）、持续交付（CD）的需求。</p>
-<blockquote>
-<ul>
-<li>独立性：支持构建独立于环境的应用程序，而不依赖于特定的开发环境</li>
-<li>时效性：通过自动化，Jenkins可以显著缩短软件交付的时间</li>
-<li>正确性：Jenkins能够确保构建和部署的过程按预期执行，从而减少人为错误。</li>
-<li>易维护：提供了可配置的构建流水线，让维护变得更加简单，同时也能灵活调整项目的需求变化。</li>
-<li>版本控制：Jenkins集成了版本控制系统，与代码仓库协同工作，支持多种版本控制工具，如 Git、SVN 等。</li>
-<li>社区支持：作为一款开源工具，Jenkins拥有庞大的社区支持，用户可以通过社区获取帮助、分享经验。</li>
-</ul>
-</blockquote>
-<h3 id="二、安装Jenkins，以Ubuntu系统为例"><a href="#二、安装Jenkins，以Ubuntu系统为例" class="headerlink" title="二、安装Jenkins，以Ubuntu系统为例"></a>二、安装Jenkins，以Ubuntu系统为例</h3><blockquote>
-<p>注：Jenkins项目地址 <a href="https://github.com/jenkinsci/jenkins">https://github.com/jenkinsci/jenkins</a></p>
-</blockquote>
-<h4 id="1-打开终端，更新包列表"><a href="#1-打开终端，更新包列表" class="headerlink" title="1.打开终端，更新包列表"></a>1.打开终端，更新包列表</h4><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">sudo apt update</span><br></pre></td></tr></table></figure>
-
-<h4 id="2-安装Java-Development-Kit"><a href="#2-安装Java-Development-Kit" class="headerlink" title="2.安装Java Development Kit"></a>2.安装Java Development Kit</h4><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">sudo apt install default-jdk</span><br></pre></td></tr></table></figure>
-
-<h4 id="3-添加Jenkins-GPG密钥"><a href="#3-添加Jenkins-GPG密钥" class="headerlink" title="3.添加Jenkins GPG密钥"></a>3.添加Jenkins GPG密钥</h4><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">wget -q -O - https://pkg.jenkins.io/debian-stable/jenkins.io.key | sudo apt-key add -</span><br></pre></td></tr></table></figure>
-
-<h4 id="4-将Jenkins存储库添加到APT包管理器列表中"><a href="#4-将Jenkins存储库添加到APT包管理器列表中" class="headerlink" title="4.将Jenkins存储库添加到APT包管理器列表中"></a>4.将Jenkins存储库添加到APT包管理器列表中</h4><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">sudo sh -c <span class="string">&#x27;echo deb http://pkg.jenkins.io/debian-stable binary/ &gt; /etc/apt/sources.list.d/jenkins.list&#x27;</span></span><br></pre></td></tr></table></figure>
-
-<h4 id="5-更新包列表并安装Jenkins"><a href="#5-更新包列表并安装Jenkins" class="headerlink" title="5.更新包列表并安装Jenkins"></a>5.更新包列表并安装Jenkins</h4><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">sudo apt update</span><br><span class="line">sudo apt install jenkins</span><br></pre></td></tr></table></figure>
-
-<h4 id="6-启动Jenkins服务"><a href="#6-启动Jenkins服务" class="headerlink" title="6.启动Jenkins服务"></a>6.启动Jenkins服务</h4><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line"><span class="comment"># 启动服务</span></span><br><span class="line">sudo systemctl start jenkins</span><br><span class="line"></span><br><span class="line"><span class="comment"># 检查服务状态</span></span><br><span class="line">sudo systemctl status jenkins</span><br><span class="line"></span><br><span class="line"><span class="comment"># 打开防火墙</span></span><br><span class="line">sudo ufw allow 8080</span><br><span class="line"></span><br><span class="line"><span class="comment"># 检查防火墙状态</span></span><br><span class="line">sudo ufw status</span><br></pre></td></tr></table></figure>
-
-<h4 id="7-打开浏览器，访问”"><a href="#7-打开浏览器，访问”" class="headerlink" title="7.打开浏览器，访问”"></a>7.打开浏览器，访问”<a href="http://localhost:8080"，完成Jenkins初始化设置">http://localhost:8080&quot;，完成Jenkins初始化设置</a></h4><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line"><span class="comment"># 获取初始密码</span></span><br><span class="line">sudo <span class="built_in">cat</span> /var/lib/jenkins/secrets/initialAdminPassword</span><br></pre></td></tr></table></figure>
-
-<p><img src="https://cdn.jsdelivr.net/gh/huixing404/image/test/Jenkins1.png" alt="cha1"></p>
-<h3 id="三、Jenkins基本设置"><a href="#三、Jenkins基本设置" class="headerlink" title="三、Jenkins基本设置"></a>三、Jenkins基本设置</h3><h4 id="1-登录Jenkins控制台，点击Install-suggested-plugins选项"><a href="#1-登录Jenkins控制台，点击Install-suggested-plugins选项" class="headerlink" title="1.登录Jenkins控制台，点击Install suggested plugins选项"></a>1.登录Jenkins控制台，点击Install suggested plugins选项</h4><p><img src="https://cdn.jsdelivr.net/gh/huixing404/image/test/Jenkins2.png" alt="cha2"></p>
-<h4 id="2-安装完成后，系统将提示设置管理账户"><a href="#2-安装完成后，系统将提示设置管理账户" class="headerlink" title="2.安装完成后，系统将提示设置管理账户"></a>2.安装完成后，系统将提示设置管理账户</h4><p><img src="https://cdn.jsdelivr.net/gh/huixing404/image/test/Jenkins3.png" alt="cha3"></p>
-<h4 id="3-按照要求，填写用户名、密码和邮箱即可"><a href="#3-按照要求，填写用户名、密码和邮箱即可" class="headerlink" title="3.按照要求，填写用户名、密码和邮箱即可"></a>3.按照要求，填写用户名、密码和邮箱即可</h4><p><img src="https://cdn.jsdelivr.net/gh/huixing404/image/test/Jenkins4.png" alt="cha4"></p>
-<h4 id="4-配置实例，设置服务器的IP地址"><a href="#4-配置实例，设置服务器的IP地址" class="headerlink" title="4.配置实例，设置服务器的IP地址"></a>4.配置实例，设置服务器的IP地址</h4><p><img src="https://cdn.jsdelivr.net/gh/huixing404/image/test/Jenkins5.png" alt="cha5"></p>
-<h4 id="5-一切设置完成后，点击Start-using-Jenkins，即大功告成"><a href="#5-一切设置完成后，点击Start-using-Jenkins，即大功告成" class="headerlink" title="5.一切设置完成后，点击Start using Jenkins，即大功告成"></a>5.一切设置完成后，点击Start using Jenkins，即大功告成</h4><p><img src="https://cdn.jsdelivr.net/gh/huixing404/image/test/Jenkins6.png" alt="cha6"></p>
-<h3 id="四、安装SSH插件"><a href="#四、安装SSH插件" class="headerlink" title="四、安装SSH插件"></a>四、安装SSH插件</h3><h4 id="1-点击Dashboard-→-Manage-Jenkins-→-Plugins页面"><a href="#1-点击Dashboard-→-Manage-Jenkins-→-Plugins页面" class="headerlink" title="1.点击Dashboard → Manage Jenkins → Plugins页面"></a>1.点击Dashboard → Manage Jenkins → Plugins页面</h4><p><img src="https://cdn.jsdelivr.net/gh/huixing404/image/test/Jenkins7.png" alt="cha7"></p>
-<h4 id="2-选择插件安装"><a href="#2-选择插件安装" class="headerlink" title="2.选择插件安装"></a>2.选择插件安装</h4><p><img src="https://cdn.jsdelivr.net/gh/huixing404/image/test/Jenkins8.png" alt="cha8"></p>
-<h4 id="3-安装完成后重启Jenkins即可"><a href="#3-安装完成后重启Jenkins即可" class="headerlink" title="3.安装完成后重启Jenkins即可"></a>3.安装完成后重启Jenkins即可</h4><p><img src="https://cdn.jsdelivr.net/gh/huixing404/image/test/Jenkins9.png" alt="cha9"></p>
-<h3 id="五、安装Node-js和Git"><a href="#五、安装Node-js和Git" class="headerlink" title="五、安装Node.js和Git"></a>五、安装Node.js和Git</h3><blockquote>
-<p>按照上面步骤，点击Dashboard → Manage Jenkins → Global Tool Configuration → “Add NodeJS”和”Add Git”即可。</p>
-</blockquote>
-<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line"><span class="comment"># 安装验证</span></span><br><span class="line"><span class="built_in">echo</span> <span class="string">&quot;Node.js version: <span class="subst">$(node --version)</span>&quot;</span></span><br><span class="line"><span class="built_in">echo</span> <span class="string">&quot;Git version: <span class="subst">$(git --version)</span>&quot;</span></span><br></pre></td></tr></table></figure>
-
-]]></content>
-      <categories>
-        <category>Jenkins</category>
-      </categories>
-      <tags>
-        <tag>前端部署</tag>
-        <tag>Jenkins</tag>
       </tags>
   </entry>
   <entry>
@@ -1914,55 +1914,6 @@
       <tags>
         <tag>buildx</tag>
         <tag>Docker</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>使用frp进行内网穿透教程</title>
-    <url>/2023/04/12/%E4%BD%BF%E7%94%A8frp%E8%BF%9B%E8%A1%8C%E5%86%85%E7%BD%91%E7%A9%BF%E9%80%8F%E6%95%99%E7%A8%8B/</url>
-    <content><![CDATA[<h3 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h3><blockquote>
-<p>电信运营商因为IP地址短缺常常不会给用户分配公网IP地址，而我们的台式机、NAS等设备却有远程访问的需求，此时选择使用frp进行内网穿透再合适不过了。<br>frp（Fast Reverse Proxy）作为一个用于网络通信的开源工具，常用于在内网和外网之间建立反向代理通道，实现内网服务的外部访问。该技术可以应用于内网服务器、摄像头、传感器等设备的远程访问或监控上。</p>
-</blockquote>
-<blockquote>
-<p>工作原理：服务端运行，监听一个主端口，等待客户端的连接 → 客户端连接到服务端的主端口，同时告诉服务端要监听的端口和转发类型 → 服务端fork新的进程监听客户端指定的端口 → 外网用户连接到客户端指定的端口，服务端通过和客户端的连接将数据转发到客户端 → 客户端进程再将数据转发到本地服务，从而实现内网对外暴露服务的能力。</p>
-</blockquote>
-<blockquote>
-<p>项目地址：<a href="https://github.com/fatedier/frp">https://github.com/fatedier/frp</a></p>
-</blockquote>
-<h3 id="服务器配置"><a href="#服务器配置" class="headerlink" title="服务器配置"></a>服务器配置</h3><h4 id="1-运行如下命令，选择相应版本下载"><a href="#1-运行如下命令，选择相应版本下载" class="headerlink" title="1.运行如下命令，选择相应版本下载"></a>1.运行如下命令，选择相应版本下载</h4><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">wget https://github.com/fatedier/frp/releases/download/v0.52.0/frp_0.52.0_linux_amd64.tar.gz</span><br></pre></td></tr></table></figure>
-
-<h4 id="2-解压frp压缩包"><a href="#2-解压frp压缩包" class="headerlink" title="2.解压frp压缩包"></a>2.解压frp压缩包</h4><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">tar -zxvf frp_0.52.0_linux_amd64.tar.gz</span><br></pre></td></tr></table></figure>
-
-<h4 id="3-将文件复制到frps-usr-bin"><a href="#3-将文件复制到frps-usr-bin" class="headerlink" title="3.将文件复制到frps&#x2F;usr&#x2F;bin"></a>3.将文件复制到frps&#x2F;usr&#x2F;bin</h4><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">cp frp_0.52.0_linux_arm64/frps/usr/bin/</span><br></pre></td></tr></table></figure>
-
-<h4 id="4-打开配置文件"><a href="#4-打开配置文件" class="headerlink" title="4.打开配置文件"></a>4.打开配置文件</h4><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">vi frps.toml</span><br></pre></td></tr></table></figure>
-
-<h4 id="5-配置文件修改：-etc-frp-frps-toml"><a href="#5-配置文件修改：-etc-frp-frps-toml" class="headerlink" title="5.配置文件修改：&#x2F;etc&#x2F;frp&#x2F;frps.toml"></a>5.配置文件修改：&#x2F;etc&#x2F;frp&#x2F;frps.toml</h4><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line"># 服务端与客户端通信端口，默认是7000</span><br><span class="line">bindPort = 7000</span><br><span class="line"># 服务端将只接受TLS链接</span><br><span class="line">transport.tls.force = true</span><br><span class="line"># 身份验证令牌可以设置复杂点，frpc要与frps一致</span><br><span class="line">auth.method = &quot;token&quot;</span><br><span class="line">auth.token = &quot;设置复杂点的token&quot;   # 如&quot;PuBlicOde&quot;</span><br><span class="line"></span><br><span class="line"># 后台管理地址</span><br><span class="line">webServer.addr = &quot;0.0.0.0&quot;</span><br><span class="line"># 后台管理端口</span><br><span class="line">webServer.port = 7500</span><br><span class="line"># 设置后台登录的用户名和密码</span><br><span class="line">webServer.user = &quot;admin&quot;</span><br><span class="line">webServer.password = &quot;自行设置登录密码&quot;</span><br></pre></td></tr></table></figure>
-
-<h4 id="6-配置文件修改：-etc-systemd-system-frps-service"><a href="#6-配置文件修改：-etc-systemd-system-frps-service" class="headerlink" title="6.配置文件修改：&#x2F;etc&#x2F;systemd&#x2F;system&#x2F;frps.service"></a>6.配置文件修改：&#x2F;etc&#x2F;systemd&#x2F;system&#x2F;frps.service</h4><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">[Unit]</span><br><span class="line">Description = frp server</span><br><span class="line">After = network.target syslog.target</span><br><span class="line">Wants = network.target</span><br><span class="line"></span><br><span class="line">[Service]</span><br><span class="line">Type = simple</span><br><span class="line">ExecStart = /usr/bin/frps -c /etc/frp/frps.toml</span><br><span class="line"></span><br><span class="line">[Install]</span><br><span class="line">WantedBy = multi-user.target</span><br></pre></td></tr></table></figure>
-
-<h4 id="7-输入以下命令，启动frp服务"><a href="#7-输入以下命令，启动frp服务" class="headerlink" title="7.输入以下命令，启动frp服务"></a>7.输入以下命令，启动frp服务</h4><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">systemctl daemon-reload</span><br><span class="line">systemctl enable frps</span><br><span class="line">systemctl start frps</span><br></pre></td></tr></table></figure>
-
-<h4 id="8-Ubuntu服务器，使用ufw工具放行端口"><a href="#8-Ubuntu服务器，使用ufw工具放行端口" class="headerlink" title="8.Ubuntu服务器，使用ufw工具放行端口"></a>8.Ubuntu服务器，使用ufw工具放行端口</h4><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line"># 监听端口</span><br><span class="line">ufw allow 7000/tcp</span><br><span class="line"># 对外开发的端口</span><br><span class="line">ufw allow 443</span><br></pre></td></tr></table></figure>
-
-<h3 id="客户端配置"><a href="#客户端配置" class="headerlink" title="客户端配置"></a>客户端配置</h3><h4 id="1-运行如下命令，选择相应版本下载-1"><a href="#1-运行如下命令，选择相应版本下载-1" class="headerlink" title="1.运行如下命令，选择相应版本下载"></a>1.运行如下命令，选择相应版本下载</h4><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">wget https://github.com/fatedier/frp/releases/download/v0.52.0/frp_0.52.0_linux_amd64.tar.gz</span><br></pre></td></tr></table></figure>
-
-<h4 id="2-解压frp压缩包-1"><a href="#2-解压frp压缩包-1" class="headerlink" title="2.解压frp压缩包"></a>2.解压frp压缩包</h4><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">tar -zxvf frp_0.52.0_linux_amd64.tar.gz</span><br></pre></td></tr></table></figure>
-
-<h4 id="3-将文件复制到frps-usr-bin-1"><a href="#3-将文件复制到frps-usr-bin-1" class="headerlink" title="3.将文件复制到frps&#x2F;usr&#x2F;bin"></a>3.将文件复制到frps&#x2F;usr&#x2F;bin</h4><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">cp frp_0.52.0_linux_arm64/frps/usr/bin/</span><br></pre></td></tr></table></figure>
-
-<h4 id="4-打开配置文件-1"><a href="#4-打开配置文件-1" class="headerlink" title="4.打开配置文件"></a>4.打开配置文件</h4><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">vi frps.toml</span><br></pre></td></tr></table></figure>
-
-<h4 id="5-配置文件修改：-etc-frp-frps-toml-1"><a href="#5-配置文件修改：-etc-frp-frps-toml-1" class="headerlink" title="5.配置文件修改：&#x2F;etc&#x2F;frp&#x2F;frps.toml"></a>5.配置文件修改：&#x2F;etc&#x2F;frp&#x2F;frps.toml</h4><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line"># 设置为服务器的IP地址</span><br><span class="line">serverAddr = &quot;x.x.x.x&quot;</span><br><span class="line"># 服务器的通信端口</span><br><span class="line">serverPort = 7000</span><br><span class="line">auth.method = &quot;token&quot;</span><br><span class="line"># 身份验证令牌，与服务器保持一致</span><br><span class="line">auth.token = &quot;之前设置的token&quot;</span><br><span class="line"></span><br><span class="line"># 配置http服务，可以自行配置多个代理</span><br><span class="line">[[proxies]]</span><br><span class="line">name = &quot;test-http&quot;</span><br><span class="line">type = &quot;tcp&quot;</span><br><span class="line"># 设置为需要开放服务的主机IP</span><br><span class="line">localIP = &quot;127.0.0.1&quot;</span><br><span class="line">localPort = 目标主机的端口</span><br><span class="line"># 自定义的远程服务器端口</span><br><span class="line">remotePort = 服务器开放端口</span><br><span class="line"></span><br><span class="line"># 配置ssh服务</span><br><span class="line">[[proxies]]</span><br><span class="line">name = &quot;ssh&quot;</span><br><span class="line">type = &quot;tcp&quot;</span><br><span class="line"># 设置为需要开放服务的主机IP</span><br><span class="line">localIP = &quot;127.0.0.1&quot;</span><br><span class="line">localPort = 目标主机的端口</span><br><span class="line"># 自定义的远程服务器端口</span><br><span class="line">remotePort = 服务器开放端口</span><br></pre></td></tr></table></figure>
-
-<h4 id="6-配置文件修改：-etc-systemd-system-frpc-service"><a href="#6-配置文件修改：-etc-systemd-system-frpc-service" class="headerlink" title="6.配置文件修改：&#x2F;etc&#x2F;systemd&#x2F;system&#x2F;frpc.service"></a>6.配置文件修改：&#x2F;etc&#x2F;systemd&#x2F;system&#x2F;frpc.service</h4><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">[Unit]</span><br><span class="line">Description=Frp Client Service</span><br><span class="line">After=network.target</span><br><span class="line">[Service]</span><br><span class="line">Type=simple</span><br><span class="line">DynamicUser=yes</span><br><span class="line">Restart=on-failure</span><br><span class="line">RestartSec=5s</span><br><span class="line">ExecStart=/usr/bin/frpc -c /etc/frp/frpc.toml</span><br><span class="line">ExecReload=/usr/bin/frpc reload -c /etc/frp/frpc.toml</span><br><span class="line">LimitNOFILE=1048576</span><br><span class="line">[Install]</span><br><span class="line">WantedBy=multi-user.target</span><br></pre></td></tr></table></figure>
-
-<h4 id="7-输入以下命令，启动服务"><a href="#7-输入以下命令，启动服务" class="headerlink" title="7.输入以下命令，启动服务"></a>7.输入以下命令，启动服务</h4><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">systemctl daemon-reload</span><br><span class="line">systemctl enable frpc</span><br><span class="line">systemctl start frpc</span><br></pre></td></tr></table></figure>]]></content>
-      <categories>
-        <category>frp</category>
-      </categories>
-      <tags>
-        <tag>frp</tag>
-        <tag>内网穿透</tag>
       </tags>
   </entry>
   <entry>
@@ -2022,110 +1973,52 @@
       </tags>
   </entry>
   <entry>
-    <title>信息检索—Google常用语法</title>
-    <url>/2022/10/09/%E4%BF%A1%E6%81%AF%E6%A3%80%E7%B4%A2%E2%80%94Google%E5%B8%B8%E7%94%A8%E8%AF%AD%E6%B3%95/</url>
-    <content><![CDATA[<h4 id="一、搜索限定该关键词的网页"><a href="#一、搜索限定该关键词的网页" class="headerlink" title="一、搜索限定该关键词的网页"></a>一、搜索限定该关键词的网页</h4><blockquote>
-<p>“搜索词”</p>
+    <title>使用frp进行内网穿透教程</title>
+    <url>/2023/04/12/%E4%BD%BF%E7%94%A8frp%E8%BF%9B%E8%A1%8C%E5%86%85%E7%BD%91%E7%A9%BF%E9%80%8F%E6%95%99%E7%A8%8B/</url>
+    <content><![CDATA[<h3 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h3><blockquote>
+<p>电信运营商因为IP地址短缺常常不会给用户分配公网IP地址，而我们的台式机、NAS等设备却有远程访问的需求，此时选择使用frp进行内网穿透再合适不过了。<br>frp（Fast Reverse Proxy）作为一个用于网络通信的开源工具，常用于在内网和外网之间建立反向代理通道，实现内网服务的外部访问。该技术可以应用于内网服务器、摄像头、传感器等设备的远程访问或监控上。</p>
 </blockquote>
-<h4 id="二、限定搜索词的文件格式"><a href="#二、限定搜索词的文件格式" class="headerlink" title="二、限定搜索词的文件格式"></a>二、限定搜索词的文件格式</h4><blockquote>
-<p>搜索词 filetype:pdf</p>
+<blockquote>
+<p>工作原理：服务端运行，监听一个主端口，等待客户端的连接 → 客户端连接到服务端的主端口，同时告诉服务端要监听的端口和转发类型 → 服务端fork新的进程监听客户端指定的端口 → 外网用户连接到客户端指定的端口，服务端通过和客户端的连接将数据转发到客户端 → 客户端进程再将数据转发到本地服务，从而实现内网对外暴露服务的能力。</p>
 </blockquote>
-<h4 id="三、限定图片像素"><a href="#三、限定图片像素" class="headerlink" title="三、限定图片像素"></a>三、限定图片像素</h4><blockquote>
-<p>搜索词 imagesize:2560x1440</p>
+<blockquote>
+<p>项目地址：<a href="https://github.com/fatedier/frp">https://github.com/fatedier/frp</a></p>
 </blockquote>
-<h4 id="四、搜索价格400美元的物品"><a href="#四、搜索价格400美元的物品" class="headerlink" title="四、搜索价格400美元的物品"></a>四、搜索价格400美元的物品</h4><blockquote>
-<p>搜索词 $400</p>
-</blockquote>
-<h4 id="五、限定搜索网页的标题"><a href="#五、限定搜索网页的标题" class="headerlink" title="五、限定搜索网页的标题"></a>五、限定搜索网页的标题</h4><blockquote>
-<p>intitle:搜索词</p>
-</blockquote>
-<h4 id="六、限定搜索网页上标题多个关键词"><a href="#六、限定搜索网页上标题多个关键词" class="headerlink" title="六、限定搜索网页上标题多个关键词"></a>六、限定搜索网页上标题多个关键词</h4><blockquote>
-<p>allintitle:搜索词1 搜索词2</p>
-</blockquote>
-<h4 id="七、限定搜索网页内容中必须包含的关键词"><a href="#七、限定搜索网页内容中必须包含的关键词" class="headerlink" title="七、限定搜索网页内容中必须包含的关键词"></a>七、限定搜索网页内容中必须包含的关键词</h4><blockquote>
-<p>intext:搜索词1 搜索词2</p>
-</blockquote>
-<h4 id="八、在指定的搜索引擎中搜索关键词"><a href="#八、在指定的搜索引擎中搜索关键词" class="headerlink" title="八、在指定的搜索引擎中搜索关键词"></a>八、在指定的搜索引擎中搜索关键词</h4><blockquote>
-<p>搜索词 inurl:github.com</p>
-</blockquote>
-<h4 id="九、指定搜索社交媒体上的相关内容"><a href="#九、指定搜索社交媒体上的相关内容" class="headerlink" title="九、指定搜索社交媒体上的相关内容"></a>九、指定搜索社交媒体上的相关内容</h4><blockquote>
-<p>搜索词 @twitter</p>
-</blockquote>
-<h4 id="十、限定搜索词相关的网址来源"><a href="#十、限定搜索词相关的网址来源" class="headerlink" title="十、限定搜索词相关的网址来源"></a>十、限定搜索词相关的网址来源</h4><blockquote>
-<p>搜索词 site:<code>https://www.zhihu.com</code></p>
-</blockquote>
-<h4 id="十一、搜索与小米官网结构内容相似的其它网站"><a href="#十一、搜索与小米官网结构内容相似的其它网站" class="headerlink" title="十一、搜索与小米官网结构内容相似的其它网站"></a>十一、搜索与小米官网结构内容相似的其它网站</h4><blockquote>
-<p>related:mi.com</p>
-</blockquote>
-]]></content>
+<h3 id="服务器配置"><a href="#服务器配置" class="headerlink" title="服务器配置"></a>服务器配置</h3><h4 id="1-运行如下命令，选择相应版本下载"><a href="#1-运行如下命令，选择相应版本下载" class="headerlink" title="1.运行如下命令，选择相应版本下载"></a>1.运行如下命令，选择相应版本下载</h4><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">wget https://github.com/fatedier/frp/releases/download/v0.52.0/frp_0.52.0_linux_amd64.tar.gz</span><br></pre></td></tr></table></figure>
+
+<h4 id="2-解压frp压缩包"><a href="#2-解压frp压缩包" class="headerlink" title="2.解压frp压缩包"></a>2.解压frp压缩包</h4><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">tar -zxvf frp_0.52.0_linux_amd64.tar.gz</span><br></pre></td></tr></table></figure>
+
+<h4 id="3-将文件复制到frps-usr-bin"><a href="#3-将文件复制到frps-usr-bin" class="headerlink" title="3.将文件复制到frps&#x2F;usr&#x2F;bin"></a>3.将文件复制到frps&#x2F;usr&#x2F;bin</h4><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">cp frp_0.52.0_linux_arm64/frps/usr/bin/</span><br></pre></td></tr></table></figure>
+
+<h4 id="4-打开配置文件"><a href="#4-打开配置文件" class="headerlink" title="4.打开配置文件"></a>4.打开配置文件</h4><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">vi frps.toml</span><br></pre></td></tr></table></figure>
+
+<h4 id="5-配置文件修改：-etc-frp-frps-toml"><a href="#5-配置文件修改：-etc-frp-frps-toml" class="headerlink" title="5.配置文件修改：&#x2F;etc&#x2F;frp&#x2F;frps.toml"></a>5.配置文件修改：&#x2F;etc&#x2F;frp&#x2F;frps.toml</h4><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line"># 服务端与客户端通信端口，默认是7000</span><br><span class="line">bindPort = 7000</span><br><span class="line"># 服务端将只接受TLS链接</span><br><span class="line">transport.tls.force = true</span><br><span class="line"># 身份验证令牌可以设置复杂点，frpc要与frps一致</span><br><span class="line">auth.method = &quot;token&quot;</span><br><span class="line">auth.token = &quot;设置复杂点的token&quot;   # 如&quot;PuBlicOde&quot;</span><br><span class="line"></span><br><span class="line"># 后台管理地址</span><br><span class="line">webServer.addr = &quot;0.0.0.0&quot;</span><br><span class="line"># 后台管理端口</span><br><span class="line">webServer.port = 7500</span><br><span class="line"># 设置后台登录的用户名和密码</span><br><span class="line">webServer.user = &quot;admin&quot;</span><br><span class="line">webServer.password = &quot;自行设置登录密码&quot;</span><br></pre></td></tr></table></figure>
+
+<h4 id="6-配置文件修改：-etc-systemd-system-frps-service"><a href="#6-配置文件修改：-etc-systemd-system-frps-service" class="headerlink" title="6.配置文件修改：&#x2F;etc&#x2F;systemd&#x2F;system&#x2F;frps.service"></a>6.配置文件修改：&#x2F;etc&#x2F;systemd&#x2F;system&#x2F;frps.service</h4><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">[Unit]</span><br><span class="line">Description = frp server</span><br><span class="line">After = network.target syslog.target</span><br><span class="line">Wants = network.target</span><br><span class="line"></span><br><span class="line">[Service]</span><br><span class="line">Type = simple</span><br><span class="line">ExecStart = /usr/bin/frps -c /etc/frp/frps.toml</span><br><span class="line"></span><br><span class="line">[Install]</span><br><span class="line">WantedBy = multi-user.target</span><br></pre></td></tr></table></figure>
+
+<h4 id="7-输入以下命令，启动frp服务"><a href="#7-输入以下命令，启动frp服务" class="headerlink" title="7.输入以下命令，启动frp服务"></a>7.输入以下命令，启动frp服务</h4><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">systemctl daemon-reload</span><br><span class="line">systemctl enable frps</span><br><span class="line">systemctl start frps</span><br></pre></td></tr></table></figure>
+
+<h4 id="8-Ubuntu服务器，使用ufw工具放行端口"><a href="#8-Ubuntu服务器，使用ufw工具放行端口" class="headerlink" title="8.Ubuntu服务器，使用ufw工具放行端口"></a>8.Ubuntu服务器，使用ufw工具放行端口</h4><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line"># 监听端口</span><br><span class="line">ufw allow 7000/tcp</span><br><span class="line"># 对外开发的端口</span><br><span class="line">ufw allow 443</span><br></pre></td></tr></table></figure>
+
+<h3 id="客户端配置"><a href="#客户端配置" class="headerlink" title="客户端配置"></a>客户端配置</h3><h4 id="1-运行如下命令，选择相应版本下载-1"><a href="#1-运行如下命令，选择相应版本下载-1" class="headerlink" title="1.运行如下命令，选择相应版本下载"></a>1.运行如下命令，选择相应版本下载</h4><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">wget https://github.com/fatedier/frp/releases/download/v0.52.0/frp_0.52.0_linux_amd64.tar.gz</span><br></pre></td></tr></table></figure>
+
+<h4 id="2-解压frp压缩包-1"><a href="#2-解压frp压缩包-1" class="headerlink" title="2.解压frp压缩包"></a>2.解压frp压缩包</h4><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">tar -zxvf frp_0.52.0_linux_amd64.tar.gz</span><br></pre></td></tr></table></figure>
+
+<h4 id="3-将文件复制到frps-usr-bin-1"><a href="#3-将文件复制到frps-usr-bin-1" class="headerlink" title="3.将文件复制到frps&#x2F;usr&#x2F;bin"></a>3.将文件复制到frps&#x2F;usr&#x2F;bin</h4><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">cp frp_0.52.0_linux_arm64/frps/usr/bin/</span><br></pre></td></tr></table></figure>
+
+<h4 id="4-打开配置文件-1"><a href="#4-打开配置文件-1" class="headerlink" title="4.打开配置文件"></a>4.打开配置文件</h4><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">vi frps.toml</span><br></pre></td></tr></table></figure>
+
+<h4 id="5-配置文件修改：-etc-frp-frps-toml-1"><a href="#5-配置文件修改：-etc-frp-frps-toml-1" class="headerlink" title="5.配置文件修改：&#x2F;etc&#x2F;frp&#x2F;frps.toml"></a>5.配置文件修改：&#x2F;etc&#x2F;frp&#x2F;frps.toml</h4><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line"># 设置为服务器的IP地址</span><br><span class="line">serverAddr = &quot;x.x.x.x&quot;</span><br><span class="line"># 服务器的通信端口</span><br><span class="line">serverPort = 7000</span><br><span class="line">auth.method = &quot;token&quot;</span><br><span class="line"># 身份验证令牌，与服务器保持一致</span><br><span class="line">auth.token = &quot;之前设置的token&quot;</span><br><span class="line"></span><br><span class="line"># 配置http服务，可以自行配置多个代理</span><br><span class="line">[[proxies]]</span><br><span class="line">name = &quot;test-http&quot;</span><br><span class="line">type = &quot;tcp&quot;</span><br><span class="line"># 设置为需要开放服务的主机IP</span><br><span class="line">localIP = &quot;127.0.0.1&quot;</span><br><span class="line">localPort = 目标主机的端口</span><br><span class="line"># 自定义的远程服务器端口</span><br><span class="line">remotePort = 服务器开放端口</span><br><span class="line"></span><br><span class="line"># 配置ssh服务</span><br><span class="line">[[proxies]]</span><br><span class="line">name = &quot;ssh&quot;</span><br><span class="line">type = &quot;tcp&quot;</span><br><span class="line"># 设置为需要开放服务的主机IP</span><br><span class="line">localIP = &quot;127.0.0.1&quot;</span><br><span class="line">localPort = 目标主机的端口</span><br><span class="line"># 自定义的远程服务器端口</span><br><span class="line">remotePort = 服务器开放端口</span><br></pre></td></tr></table></figure>
+
+<h4 id="6-配置文件修改：-etc-systemd-system-frpc-service"><a href="#6-配置文件修改：-etc-systemd-system-frpc-service" class="headerlink" title="6.配置文件修改：&#x2F;etc&#x2F;systemd&#x2F;system&#x2F;frpc.service"></a>6.配置文件修改：&#x2F;etc&#x2F;systemd&#x2F;system&#x2F;frpc.service</h4><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">[Unit]</span><br><span class="line">Description=Frp Client Service</span><br><span class="line">After=network.target</span><br><span class="line">[Service]</span><br><span class="line">Type=simple</span><br><span class="line">DynamicUser=yes</span><br><span class="line">Restart=on-failure</span><br><span class="line">RestartSec=5s</span><br><span class="line">ExecStart=/usr/bin/frpc -c /etc/frp/frpc.toml</span><br><span class="line">ExecReload=/usr/bin/frpc reload -c /etc/frp/frpc.toml</span><br><span class="line">LimitNOFILE=1048576</span><br><span class="line">[Install]</span><br><span class="line">WantedBy=multi-user.target</span><br></pre></td></tr></table></figure>
+
+<h4 id="7-输入以下命令，启动服务"><a href="#7-输入以下命令，启动服务" class="headerlink" title="7.输入以下命令，启动服务"></a>7.输入以下命令，启动服务</h4><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">systemctl daemon-reload</span><br><span class="line">systemctl enable frpc</span><br><span class="line">systemctl start frpc</span><br></pre></td></tr></table></figure>]]></content>
       <categories>
-        <category>信息检索</category>
+        <category>frp</category>
       </categories>
       <tags>
-        <tag>信息检索</tag>
-        <tag>Google</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>广告推送—用户画像技术</title>
-    <url>/2023/03/20/%E5%B9%BF%E5%91%8A%E6%8E%A8%E9%80%81%E2%80%94%E7%94%A8%E6%88%B7%E7%94%BB%E5%83%8F%E6%8A%80%E6%9C%AF/</url>
-    <content><![CDATA[<h3 id="一、为什么现在的广告推送如此精准？"><a href="#一、为什么现在的广告推送如此精准？" class="headerlink" title="一、为什么现在的广告推送如此精准？"></a>一、为什么现在的广告推送如此精准？</h3><p>相信不少网友，都有过类似经历：明明只是跟亲朋好友在线下谈论了最近想购买或者需要购买什么产品，事后一打开购物平台就发现首页上精准的推送了该产品，而自己并没有在购物平台搜索过相关产品。让人细思极恐，忍不住怀疑相关公司是否对我们进行了全天行为监控？</p>
-<p>其实，一般情况都要归根于大数据下的用户画像、用户行为的分析。商业公司一直在追求在正确的时间向正确的人提供正确的内容，以达到最佳的营销效果。某些用户之所以可以精准收到推送，是因为企业有一套成熟的客户数据管理系统。实时动态记录和统计客户的兴趣爱好和行为习惯，建立实时动态的标签管理。</p>
-<p>如淘宝、京东、抖音、百度、华为等，都会将这些采集的客户数据统一管理在客户数据管理平台。企业再根据客户数据管理平台提供的用户画像进行分群管理，通过业务中台实现BI自动化营销。这就建立了用户在A平台搜索浏览过的记录，登录B平台后也会推送相关内容的营销模式。</p>
-<h3 id="二、广告推送分类"><a href="#二、广告推送分类" class="headerlink" title="二、广告推送分类"></a>二、广告推送分类</h3><h4 id="1-程序化广告"><a href="#1-程序化广告" class="headerlink" title="1.程序化广告"></a>1.程序化广告</h4><blockquote>
-<p>将广告投放的各个环节进行信息化处理，并运用技术手段自动化完成广告的投放和管理。这是一种被法律认可、并在全球范围内普遍应用的广告投放形式。<br>在程序化广告应用中，广告的内容提供、是否展示等，都由广告主（谁投广告谁就是广告主）自主控制和决定。<br>APP仅提供程序化广告对接及展示技术，不参与广告内容的提供，更不会获取用户在其它应用内的行为或数据。<br>这种技术实现不需要APP开启后台监控，本质上是利用手机设备中供开发者使用的“广告标识符”（iOS是IDFA，Android是GAID）。</p>
-</blockquote>
-<blockquote>
-<p>举例：在淘宝上搜索猫粮，然后关闭淘宝，打开今日头条，发现首页上有猫粮推荐内容。这种不一定是今日头条对用户手机进行了实时监控，一般是淘宝记录了用户兴趣，利用“广告标识符”技术同步关联了今日头条APP上投放的广告。</p>
-</blockquote>
-<h4 id="2、基于兴趣推荐的广告"><a href="#2、基于兴趣推荐的广告" class="headerlink" title="2、基于兴趣推荐的广告"></a>2、基于兴趣推荐的广告</h4><blockquote>
-<p>技术原理是手机APP基于用户和用户关系的行为，推荐可能感兴趣的广告，可以参考微信朋友圈广告。</p>
-</blockquote>
-<blockquote>
-<p>举例：如果用户每天浏览足球新闻，那就可能向用户推荐球衣、球鞋。当然，如果淘宝账户内有熟人或者朋友的好友，也会基于用户社交关系的兴趣，推荐可能喜欢的产品。</p>
-</blockquote>
-<h3 id="三、广告推送使用的追踪技术会损害个人隐私吗？"><a href="#三、广告推送使用的追踪技术会损害个人隐私吗？" class="headerlink" title="三、广告推送使用的追踪技术会损害个人隐私吗？"></a>三、广告推送使用的追踪技术会损害个人隐私吗？</h3><p>当然会，广告推送如此精准，恰恰是因为数据收集方为用户ID做了全渠道的SDK集成，描绘了基于该ID的统一用户画像。</p>
-<p>其实，真正值得警惕的是那些无法遏制的技术滥用。互联网早期，每个人上网浏览了什么，ISP运营商或某个攻击者能直接根据用户IP查询或者进行DNS劫持（例：早期电信用户的欠费通知）。当然，互联网的安全建设不可能一成不变，现在的网络通信，访问正规网站时流量都进行了加密。</p>
-<p>目前，个人信息安全最大的挑战，恰恰来自于我们24小时不离身的智能手机。移动设备在安全性上是远不如PC的，特别是某些手机的定制版系统。而且，移动设备不仅是系统开源生态问题，用户自身的使用习惯、安全意识也是隐患重重（给予应用过高权限等）。</p>
-<p>大部分商业公司都是本着逐利的角度，收集用户数据，经过集成（或批量处理）将来自各个渠道的数据聚合到一起，为商业行为提供完整的、不断更新的用户画像，实现深度的客户洞察。另外，这些商业公司费力收集的数据本身，却极易被来自阴影中的恶意攻击所窃取。</p>
-<h3 id="四、从技术角度看，利用手机24小时监听用户是否可行？"><a href="#四、从技术角度看，利用手机24小时监听用户是否可行？" class="headerlink" title="四、从技术角度看，利用手机24小时监听用户是否可行？"></a>四、从技术角度看，利用手机24小时监听用户是否可行？</h3><p>目前的技术，大规模监听肯定不可行，但某些攻击者对个人实施监听是存在的。</p>
-<h4 id="1-iOS系统不可行；Android系统低版本理论上可行。"><a href="#1-iOS系统不可行；Android系统低版本理论上可行。" class="headerlink" title="1.iOS系统不可行；Android系统低版本理论上可行。"></a>1.iOS系统不可行；Android系统低版本理论上可行。</h4><blockquote>
-<p>iOS系统要开启录音功能，必须在初次安装或使用时得到用户授权。</p>
-<ul>
-<li>比如：用户对iOS系统上某款APP开启了麦克风访问授权，之后启动该APP进行语音操作，确实不需要用户二次授权，但是会在前台屏幕的状态栏显示红绿等颜色变化：绿色代表正在通话，红色代表正在录音或录制屏幕。所以iOS系统，APP想在后台录音偷听，技术上是不可能做到偷偷静默的。</li>
-</ul>
-</blockquote>
-<blockquote>
-<p>Android系统上APP被退到后台，保证自身不被杀死很难，一般的实现手段分如下几种：</p>
-<ul>
-<li>利用订阅Android的系统消息进行唤起，比如开机，切换网络等，可以唤醒APP，做到后台运行。</li>
-<li>利用一些通用的其它APP的SDK协议唤醒。比如腾讯、字节等大厂，一旦打开一个APP，就可能会尝试在后台唤醒其它同厂APP，甚至自动下载（一般情况下不敢）。</li>
-</ul>
-</blockquote>
-<blockquote>
-<p>注：Android最新版本禁用了许多系统权限，但一些低版本的国产机型，仍可以自启动一个后台service在保活的后台中。这种唤醒，即使用户开机不启动该APP，也可能被以上的机制唤醒，成功运行。所以，用户在低版本的Android系统给予了某款APP录音授权，该APP确实可以通过上述手段做到静默录音。但是Android系统的录音功能（麦克风）是互斥的，如果某款APP在后台偷偷录音，那么用户使用其它APP调用麦克风就会报错提示。</p>
-</blockquote>
-<h4 id="2、录音上传或语音提取关键词的实现原理。"><a href="#2、录音上传或语音提取关键词的实现原理。" class="headerlink" title="2、录音上传或语音提取关键词的实现原理。"></a>2、录音上传或语音提取关键词的实现原理。</h4><blockquote>
-<p>通过上面的分析，可以得知少部分低版本Android用户，如果不小心安装了恶意软件，可能被攻击者偷听。那么技术的实现原理是怎样的？</p>
-</blockquote>
-<p>第一种——本地语音识别并提取关键词，把结果上传回服务器。</p>
-<blockquote>
-<p>首先，本地保存音频很占手机存储空间，很容易被用户发现。<br>其次，对语音分析的SDK都很大，因为需要先 “语音转文字”，然后“文字分词”。这就要求本地有一个非常大的词库，甚至包含方言、英语库。匹配关键词的程序执行时，会大量损耗手机性能，耗电量太明显。</p>
-</blockquote>
-<blockquote>
-<p>注：GitHub上有对应的分词库和关键词库：<a href="https://github.com/hankcs/HanLP">https://github.com/hankcs/HanLP</a></p>
-</blockquote>
-<p>第二种——直接把语音上传到服务器，服务器云端解析语音，提取关键词。</p>
-<blockquote>
-<p>这个方案很不靠谱，音频文件就算被压缩，依旧很大。如果一个APP全天不间断的上传语音到云端服务器，很容易被用户发现（比如查看流量使用情况、手机长时间发烫等等）。</p>
-</blockquote>
-]]></content>
-      <categories>
-        <category>广告推送</category>
-      </categories>
-      <tags>
-        <tag>广告推送</tag>
-        <tag>用户画像技术</tag>
+        <tag>frp</tag>
+        <tag>内网穿透</tag>
       </tags>
   </entry>
   <entry>
@@ -2313,6 +2206,51 @@
       </tags>
   </entry>
   <entry>
+    <title>信息检索—Google常用语法</title>
+    <url>/2022/10/09/%E4%BF%A1%E6%81%AF%E6%A3%80%E7%B4%A2%E2%80%94Google%E5%B8%B8%E7%94%A8%E8%AF%AD%E6%B3%95/</url>
+    <content><![CDATA[<h4 id="一、搜索限定该关键词的网页"><a href="#一、搜索限定该关键词的网页" class="headerlink" title="一、搜索限定该关键词的网页"></a>一、搜索限定该关键词的网页</h4><blockquote>
+<p>“搜索词”</p>
+</blockquote>
+<h4 id="二、限定搜索词的文件格式"><a href="#二、限定搜索词的文件格式" class="headerlink" title="二、限定搜索词的文件格式"></a>二、限定搜索词的文件格式</h4><blockquote>
+<p>搜索词 filetype:pdf</p>
+</blockquote>
+<h4 id="三、限定图片像素"><a href="#三、限定图片像素" class="headerlink" title="三、限定图片像素"></a>三、限定图片像素</h4><blockquote>
+<p>搜索词 imagesize:2560x1440</p>
+</blockquote>
+<h4 id="四、搜索价格400美元的物品"><a href="#四、搜索价格400美元的物品" class="headerlink" title="四、搜索价格400美元的物品"></a>四、搜索价格400美元的物品</h4><blockquote>
+<p>搜索词 $400</p>
+</blockquote>
+<h4 id="五、限定搜索网页的标题"><a href="#五、限定搜索网页的标题" class="headerlink" title="五、限定搜索网页的标题"></a>五、限定搜索网页的标题</h4><blockquote>
+<p>intitle:搜索词</p>
+</blockquote>
+<h4 id="六、限定搜索网页上标题多个关键词"><a href="#六、限定搜索网页上标题多个关键词" class="headerlink" title="六、限定搜索网页上标题多个关键词"></a>六、限定搜索网页上标题多个关键词</h4><blockquote>
+<p>allintitle:搜索词1 搜索词2</p>
+</blockquote>
+<h4 id="七、限定搜索网页内容中必须包含的关键词"><a href="#七、限定搜索网页内容中必须包含的关键词" class="headerlink" title="七、限定搜索网页内容中必须包含的关键词"></a>七、限定搜索网页内容中必须包含的关键词</h4><blockquote>
+<p>intext:搜索词1 搜索词2</p>
+</blockquote>
+<h4 id="八、在指定的搜索引擎中搜索关键词"><a href="#八、在指定的搜索引擎中搜索关键词" class="headerlink" title="八、在指定的搜索引擎中搜索关键词"></a>八、在指定的搜索引擎中搜索关键词</h4><blockquote>
+<p>搜索词 inurl:github.com</p>
+</blockquote>
+<h4 id="九、指定搜索社交媒体上的相关内容"><a href="#九、指定搜索社交媒体上的相关内容" class="headerlink" title="九、指定搜索社交媒体上的相关内容"></a>九、指定搜索社交媒体上的相关内容</h4><blockquote>
+<p>搜索词 @twitter</p>
+</blockquote>
+<h4 id="十、限定搜索词相关的网址来源"><a href="#十、限定搜索词相关的网址来源" class="headerlink" title="十、限定搜索词相关的网址来源"></a>十、限定搜索词相关的网址来源</h4><blockquote>
+<p>搜索词 site:<code>https://www.zhihu.com</code></p>
+</blockquote>
+<h4 id="十一、搜索与小米官网结构内容相似的其它网站"><a href="#十一、搜索与小米官网结构内容相似的其它网站" class="headerlink" title="十一、搜索与小米官网结构内容相似的其它网站"></a>十一、搜索与小米官网结构内容相似的其它网站</h4><blockquote>
+<p>related:mi.com</p>
+</blockquote>
+]]></content>
+      <categories>
+        <category>信息检索</category>
+      </categories>
+      <tags>
+        <tag>信息检索</tag>
+        <tag>Google</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>开发工具—Git常用命令</title>
     <url>/2022/09/25/%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7%E2%80%94Git%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4/</url>
     <content><![CDATA[<h3 id="一、新建项目"><a href="#一、新建项目" class="headerlink" title="一、新建项目"></a>一、新建项目</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line"><span class="comment"># 在当前目录新建一个Git代码库</span></span><br><span class="line">$ git init</span><br><span class="line"></span><br><span class="line"><span class="comment"># 新建一个目录，将其初始化为Git代码库</span></span><br><span class="line">$ git init [project-name]</span><br><span class="line"></span><br><span class="line"><span class="comment"># 下载一个项目和它的整个代码历史</span></span><br><span class="line">$ git <span class="built_in">clone</span> [url]</span><br></pre></td></tr></table></figure>
@@ -2340,6 +2278,68 @@
       <tags>
         <tag>开发工具</tag>
         <tag>Git</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>广告推送—用户画像技术</title>
+    <url>/2023/03/20/%E5%B9%BF%E5%91%8A%E6%8E%A8%E9%80%81%E2%80%94%E7%94%A8%E6%88%B7%E7%94%BB%E5%83%8F%E6%8A%80%E6%9C%AF/</url>
+    <content><![CDATA[<h3 id="一、为什么现在的广告推送如此精准？"><a href="#一、为什么现在的广告推送如此精准？" class="headerlink" title="一、为什么现在的广告推送如此精准？"></a>一、为什么现在的广告推送如此精准？</h3><p>相信不少网友，都有过类似经历：明明只是跟亲朋好友在线下谈论了最近想购买或者需要购买什么产品，事后一打开购物平台就发现首页上精准的推送了该产品，而自己并没有在购物平台搜索过相关产品。让人细思极恐，忍不住怀疑相关公司是否对我们进行了全天行为监控？</p>
+<p>其实，一般情况都要归根于大数据下的用户画像、用户行为的分析。商业公司一直在追求在正确的时间向正确的人提供正确的内容，以达到最佳的营销效果。某些用户之所以可以精准收到推送，是因为企业有一套成熟的客户数据管理系统。实时动态记录和统计客户的兴趣爱好和行为习惯，建立实时动态的标签管理。</p>
+<p>如淘宝、京东、抖音、百度、华为等，都会将这些采集的客户数据统一管理在客户数据管理平台。企业再根据客户数据管理平台提供的用户画像进行分群管理，通过业务中台实现BI自动化营销。这就建立了用户在A平台搜索浏览过的记录，登录B平台后也会推送相关内容的营销模式。</p>
+<h3 id="二、广告推送分类"><a href="#二、广告推送分类" class="headerlink" title="二、广告推送分类"></a>二、广告推送分类</h3><h4 id="1-程序化广告"><a href="#1-程序化广告" class="headerlink" title="1.程序化广告"></a>1.程序化广告</h4><blockquote>
+<p>将广告投放的各个环节进行信息化处理，并运用技术手段自动化完成广告的投放和管理。这是一种被法律认可、并在全球范围内普遍应用的广告投放形式。<br>在程序化广告应用中，广告的内容提供、是否展示等，都由广告主（谁投广告谁就是广告主）自主控制和决定。<br>APP仅提供程序化广告对接及展示技术，不参与广告内容的提供，更不会获取用户在其它应用内的行为或数据。<br>这种技术实现不需要APP开启后台监控，本质上是利用手机设备中供开发者使用的“广告标识符”（iOS是IDFA，Android是GAID）。</p>
+</blockquote>
+<blockquote>
+<p>举例：在淘宝上搜索猫粮，然后关闭淘宝，打开今日头条，发现首页上有猫粮推荐内容。这种不一定是今日头条对用户手机进行了实时监控，一般是淘宝记录了用户兴趣，利用“广告标识符”技术同步关联了今日头条APP上投放的广告。</p>
+</blockquote>
+<h4 id="2、基于兴趣推荐的广告"><a href="#2、基于兴趣推荐的广告" class="headerlink" title="2、基于兴趣推荐的广告"></a>2、基于兴趣推荐的广告</h4><blockquote>
+<p>技术原理是手机APP基于用户和用户关系的行为，推荐可能感兴趣的广告，可以参考微信朋友圈广告。</p>
+</blockquote>
+<blockquote>
+<p>举例：如果用户每天浏览足球新闻，那就可能向用户推荐球衣、球鞋。当然，如果淘宝账户内有熟人或者朋友的好友，也会基于用户社交关系的兴趣，推荐可能喜欢的产品。</p>
+</blockquote>
+<h3 id="三、广告推送使用的追踪技术会损害个人隐私吗？"><a href="#三、广告推送使用的追踪技术会损害个人隐私吗？" class="headerlink" title="三、广告推送使用的追踪技术会损害个人隐私吗？"></a>三、广告推送使用的追踪技术会损害个人隐私吗？</h3><p>当然会，广告推送如此精准，恰恰是因为数据收集方为用户ID做了全渠道的SDK集成，描绘了基于该ID的统一用户画像。</p>
+<p>其实，真正值得警惕的是那些无法遏制的技术滥用。互联网早期，每个人上网浏览了什么，ISP运营商或某个攻击者能直接根据用户IP查询或者进行DNS劫持（例：早期电信用户的欠费通知）。当然，互联网的安全建设不可能一成不变，现在的网络通信，访问正规网站时流量都进行了加密。</p>
+<p>目前，个人信息安全最大的挑战，恰恰来自于我们24小时不离身的智能手机。移动设备在安全性上是远不如PC的，特别是某些手机的定制版系统。而且，移动设备不仅是系统开源生态问题，用户自身的使用习惯、安全意识也是隐患重重（给予应用过高权限等）。</p>
+<p>大部分商业公司都是本着逐利的角度，收集用户数据，经过集成（或批量处理）将来自各个渠道的数据聚合到一起，为商业行为提供完整的、不断更新的用户画像，实现深度的客户洞察。另外，这些商业公司费力收集的数据本身，却极易被来自阴影中的恶意攻击所窃取。</p>
+<h3 id="四、从技术角度看，利用手机24小时监听用户是否可行？"><a href="#四、从技术角度看，利用手机24小时监听用户是否可行？" class="headerlink" title="四、从技术角度看，利用手机24小时监听用户是否可行？"></a>四、从技术角度看，利用手机24小时监听用户是否可行？</h3><p>目前的技术，大规模监听肯定不可行，但某些攻击者对个人实施监听是存在的。</p>
+<h4 id="1-iOS系统不可行；Android系统低版本理论上可行。"><a href="#1-iOS系统不可行；Android系统低版本理论上可行。" class="headerlink" title="1.iOS系统不可行；Android系统低版本理论上可行。"></a>1.iOS系统不可行；Android系统低版本理论上可行。</h4><blockquote>
+<p>iOS系统要开启录音功能，必须在初次安装或使用时得到用户授权。</p>
+<ul>
+<li>比如：用户对iOS系统上某款APP开启了麦克风访问授权，之后启动该APP进行语音操作，确实不需要用户二次授权，但是会在前台屏幕的状态栏显示红绿等颜色变化：绿色代表正在通话，红色代表正在录音或录制屏幕。所以iOS系统，APP想在后台录音偷听，技术上是不可能做到偷偷静默的。</li>
+</ul>
+</blockquote>
+<blockquote>
+<p>Android系统上APP被退到后台，保证自身不被杀死很难，一般的实现手段分如下几种：</p>
+<ul>
+<li>利用订阅Android的系统消息进行唤起，比如开机，切换网络等，可以唤醒APP，做到后台运行。</li>
+<li>利用一些通用的其它APP的SDK协议唤醒。比如腾讯、字节等大厂，一旦打开一个APP，就可能会尝试在后台唤醒其它同厂APP，甚至自动下载（一般情况下不敢）。</li>
+</ul>
+</blockquote>
+<blockquote>
+<p>注：Android最新版本禁用了许多系统权限，但一些低版本的国产机型，仍可以自启动一个后台service在保活的后台中。这种唤醒，即使用户开机不启动该APP，也可能被以上的机制唤醒，成功运行。所以，用户在低版本的Android系统给予了某款APP录音授权，该APP确实可以通过上述手段做到静默录音。但是Android系统的录音功能（麦克风）是互斥的，如果某款APP在后台偷偷录音，那么用户使用其它APP调用麦克风就会报错提示。</p>
+</blockquote>
+<h4 id="2、录音上传或语音提取关键词的实现原理。"><a href="#2、录音上传或语音提取关键词的实现原理。" class="headerlink" title="2、录音上传或语音提取关键词的实现原理。"></a>2、录音上传或语音提取关键词的实现原理。</h4><blockquote>
+<p>通过上面的分析，可以得知少部分低版本Android用户，如果不小心安装了恶意软件，可能被攻击者偷听。那么技术的实现原理是怎样的？</p>
+</blockquote>
+<p>第一种——本地语音识别并提取关键词，把结果上传回服务器。</p>
+<blockquote>
+<p>首先，本地保存音频很占手机存储空间，很容易被用户发现。<br>其次，对语音分析的SDK都很大，因为需要先 “语音转文字”，然后“文字分词”。这就要求本地有一个非常大的词库，甚至包含方言、英语库。匹配关键词的程序执行时，会大量损耗手机性能，耗电量太明显。</p>
+</blockquote>
+<blockquote>
+<p>注：GitHub上有对应的分词库和关键词库：<a href="https://github.com/hankcs/HanLP">https://github.com/hankcs/HanLP</a></p>
+</blockquote>
+<p>第二种——直接把语音上传到服务器，服务器云端解析语音，提取关键词。</p>
+<blockquote>
+<p>这个方案很不靠谱，音频文件就算被压缩，依旧很大。如果一个APP全天不间断的上传语音到云端服务器，很容易被用户发现（比如查看流量使用情况、手机长时间发烫等等）。</p>
+</blockquote>
+]]></content>
+      <categories>
+        <category>广告推送</category>
+      </categories>
+      <tags>
+        <tag>广告推送</tag>
+        <tag>用户画像技术</tag>
       </tags>
   </entry>
   <entry>
@@ -2685,6 +2685,78 @@
       </tags>
   </entry>
   <entry>
+    <title>文献管理—Zotero基础设置与插件推荐</title>
+    <url>/2023/11/22/%E6%96%87%E7%8C%AE%E7%AE%A1%E7%90%86%E2%80%94Zotero%E5%9F%BA%E7%A1%80%E8%AE%BE%E7%BD%AE%E4%B8%8E%E6%8F%92%E4%BB%B6%E6%8E%A8%E8%8D%90/</url>
+    <content><![CDATA[<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>工欲善其事，必先利其器。计算机专业必须学会使用最前沿的尖端软件来完善自己的工作流，提高自身学习效率与知识管理能力。Zotero作为一款诞生于英文环境的文献管理软件，其高自由度和良好的社区生态，使得其在中文科研环境下同样得心应手。</p>
+<blockquote>
+<ul>
+<li>学科期刊推荐：research.com</li>
+<li>文献高级检索：PubMed</li>
+<li>RSS订阅工具：RSSHub-Radar</li>
+</ul>
+</blockquote>
+<h2 id="一、Zotero官网：https-www-zotero-org"><a href="#一、Zotero官网：https-www-zotero-org" class="headerlink" title="一、Zotero官网：https://www.zotero.org/"></a>一、Zotero官网：<a href="https://www.zotero.org/">https://www.zotero.org/</a></h2><h4 id="（1）配置同步盘（以OneDrive云盘为例）"><a href="#（1）配置同步盘（以OneDrive云盘为例）" class="headerlink" title="（1）配置同步盘（以OneDrive云盘为例）"></a>（1）配置同步盘（以OneDrive云盘为例）</h4><blockquote>
+<p>编辑 → 首选项 → 同步 → 注册&#x2F;登录Zotero账号：文件同步都勾选，使用Zotero同步<br>编辑 → 首选项 → 高级 → 文件和文件夹 → 需要设置两个路径：一是数据存储位置选择默认，该部分保存的是文献信息，占用空间较小；二是根目录选择在OneDrive云盘的Zotero文件夹下（需要先在OneDrive云盘上中创建Zotero文件夹）。<br>以管理员身份打开cmd，输入以下代码将OneDrive云盘中的Zotero文件夹中的storage文件夹链接到数据储存位置中的storage文件夹：</p>
+</blockquote>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">mklink /J &quot;D:\Zotero\storage&quot; &quot;D:\OneDrive\Zotero\storage</span><br></pre></td></tr></table></figure>
+
+<h4 id="（2）Zotero-Sci-Hub"><a href="#（2）Zotero-Sci-Hub" class="headerlink" title="（2）Zotero + Sci-Hub"></a>（2）Zotero + Sci-Hub</h4><blockquote>
+<p>编辑 → 首选项 → 高级 → 高级设置(编辑器) → 搜索<code>extensions.zotero.findPDFs.resolvers</code>，删除<code>[]</code>，并将以下代码粘贴进去并点击ok。</p>
+</blockquote>
+<figure class="highlight json"><table><tr><td class="code"><pre><span class="line"><span class="comment">// 将Sci-Hub配置为PDF解析器，替代默认的Unpaywall，直接调用Sci-Hub下载文献</span></span><br><span class="line"><span class="punctuation">&#123;</span></span><br><span class="line">    <span class="attr">&quot;name&quot;</span><span class="punctuation">:</span><span class="string">&quot;Sci-Hub&quot;</span><span class="punctuation">,</span></span><br><span class="line">    <span class="attr">&quot;method&quot;</span><span class="punctuation">:</span><span class="string">&quot;GET&quot;</span><span class="punctuation">,</span></span><br><span class="line">    <span class="attr">&quot;url&quot;</span><span class="punctuation">:</span><span class="string">&quot;https://sci-hub.se/&#123;doi&#125;&quot;</span><span class="punctuation">,</span> <span class="comment">//根据Sci-Hub域名自行更新</span></span><br><span class="line">    <span class="attr">&quot;mode&quot;</span><span class="punctuation">:</span><span class="string">&quot;html&quot;</span><span class="punctuation">,</span></span><br><span class="line">    <span class="attr">&quot;selector&quot;</span><span class="punctuation">:</span><span class="string">&quot;#pdf&quot;</span><span class="punctuation">,</span></span><br><span class="line">    <span class="attr">&quot;attribute&quot;</span><span class="punctuation">:</span><span class="string">&quot;src&quot;</span><span class="punctuation">,</span></span><br><span class="line">    <span class="attr">&quot;automatic&quot;</span><span class="punctuation">:</span><span class="literal"><span class="keyword">true</span></span> <span class="comment">//设置为true，自动从Sci-Hub下载用Connector扩展保存到本地的文献PDF。</span></span><br><span class="line"><span class="punctuation">&#125;</span></span><br></pre></td></tr></table></figure>
+
+<h4 id="（3）Zotero-Connector（浏览器扩展，直接在网页中下载文献到Zotero）"><a href="#（3）Zotero-Connector（浏览器扩展，直接在网页中下载文献到Zotero）" class="headerlink" title="（3）Zotero Connector（浏览器扩展，直接在网页中下载文献到Zotero）"></a>（3）Zotero Connector（浏览器扩展，直接在网页中下载文献到Zotero）</h4><blockquote>
+<p>Chrome 应用商店搜索下载</p>
+</blockquote>
+<h2 id="二、插件推荐"><a href="#二、插件推荐" class="headerlink" title="二、插件推荐"></a>二、插件推荐</h2><h4 id="（1）ZotFile插件（根据条目内容自动重命名文件）"><a href="#（1）ZotFile插件（根据条目内容自动重命名文件）" class="headerlink" title="（1）ZotFile插件（根据条目内容自动重命名文件）"></a>（1）ZotFile插件（根据条目内容自动重命名文件）</h4><ul>
+<li>从<a href="https://github.com/jlegewie/zotfile">GitHub - zotfile</a>下载安装 → 插件设置 → 一般设置：一是文献下载的临时存储位置<code>D:\OneDrive\Zotero\temp</code>；二是重命名后文件的实际存储位置<code>D:\OneDrive\Zotero\Storage</code>，定义的子文件夹<code>/%c</code></li>
+<li>插件设置 → 重命名规则 → 只使用以下文件类型 → 添加<code>,caj</code></li>
+</ul>
+<h4 id="（2）Zotero-translators插件（中文网页抓取翻译器）"><a href="#（2）Zotero-translators插件（中文网页抓取翻译器）" class="headerlink" title="（2）Zotero translators插件（中文网页抓取翻译器）"></a>（2）Zotero translators插件（中文网页抓取翻译器）</h4><ul>
+<li>从<a href="https://github.com/l0o0/translators_CN">GitHub - translators</a>下载压缩包 → 打开Zotero编辑 → 首选项 → 高级 → 打开数据文件夹 → 将解压文件复制到translators目录下，提示有重复的文件选择替换。</li>
+<li>右击Connector插件 → 扩展选项 → Advanced → Update Translators（可多点击几次保证更新完成）。</li>
+</ul>
+<h4 id="（3）Zotero-IF插件（显示SCI期刊论文的中科院分区和影响因子）"><a href="#（3）Zotero-IF插件（显示SCI期刊论文的中科院分区和影响因子）" class="headerlink" title="（3）Zotero IF插件（显示SCI期刊论文的中科院分区和影响因子）"></a>（3）Zotero IF插件（显示SCI期刊论文的中科院分区和影响因子）</h4><ul>
+<li>从<a href="https://github.com/qnscholar/zotero-if">GitHub - Zotero IF</a>下载安装包 → Zotero菜单栏工具 → 附加组件 → 点击右上角小齿轮 → 然后点击<code>Install add-on from file…</code> → 选择 zotero-if.xpi 插件，完成安装并重启Zotero。</li>
+<li>使用指南：选中要查询的论文（可多选） → 右击<code>Update If(s)</code>即可查看最新数据。</li>
+</ul>
+<h4 id="（4）Jasminum插件（知网元数据拉取、知网文章PDF下载并标记目录）"><a href="#（4）Jasminum插件（知网元数据拉取、知网文章PDF下载并标记目录）" class="headerlink" title="（4）Jasminum插件（知网元数据拉取、知网文章PDF下载并标记目录）"></a>（4）Jasminum插件（知网元数据拉取、知网文章PDF下载并标记目录）</h4><ul>
+<li>从<a href="https://github.com/l0o0/jasminum">GitHub - Jasminum</a>下载安装 → 编辑 → 首选项 → 茉莉花</li>
+</ul>
+<h5 id="（5）delitemwithatt插件（删除条目或分类的同时将链接的附件一起删除，导出附件）"><a href="#（5）delitemwithatt插件（删除条目或分类的同时将链接的附件一起删除，导出附件）" class="headerlink" title="（5）delitemwithatt插件（删除条目或分类的同时将链接的附件一起删除，导出附件）"></a>（5）delitemwithatt插件（删除条目或分类的同时将链接的附件一起删除，导出附件）</h5><ul>
+<li>从<a href="https://github.com/redleafnew/delitemwithatt">GitHub -delitemwithatt</a>下载安装</li>
+</ul>
+<h4 id="（6）Zotero-PDF-Translate插件（内置多种翻译引擎，PDF可划线翻译）"><a href="#（6）Zotero-PDF-Translate插件（内置多种翻译引擎，PDF可划线翻译）" class="headerlink" title="（6）Zotero PDF Translate插件（内置多种翻译引擎，PDF可划线翻译）"></a>（6）Zotero PDF Translate插件（内置多种翻译引擎，PDF可划线翻译）</h4><ul>
+<li>从<a href="https://github.com/windingwind/zotero-pdf-translate">GitHub - zotero-pdf-translate</a>下载安装</li>
+</ul>
+<h4 id="（7）Zotero-DOI-Manager插件（自动获取期刊文章的doi）"><a href="#（7）Zotero-DOI-Manager插件（自动获取期刊文章的doi）" class="headerlink" title="（7）Zotero DOI Manager插件（自动获取期刊文章的doi）"></a>（7）Zotero DOI Manager插件（自动获取期刊文章的doi）</h4><ul>
+<li>从<a href="https://github.com/bwiernik/zotero-shortdoi">GitHub - zotero-shortdoi</a>下载安装</li>
+</ul>
+<h5 id="（8）Zotero-reference插件（自动获取参考文献）"><a href="#（8）Zotero-reference插件（自动获取参考文献）" class="headerlink" title="（8）Zotero reference插件（自动获取参考文献）"></a>（8）Zotero reference插件（自动获取参考文献）</h5><ul>
+<li>从<a href="https://github.com/MuiseDestiny/zotero-reference">GitHub - zotero-reference</a>下载安装</li>
+</ul>
+<h4 id="（9）Zotero-PDF-Background（更改背景颜色）"><a href="#（9）Zotero-PDF-Background（更改背景颜色）" class="headerlink" title="（9）Zotero PDF Background（更改背景颜色）"></a>（9）Zotero PDF Background（更改背景颜色）</h4><ul>
+<li>从<a href="https://github.com/q77190858/zotero-pdf-background">GitHub - zotero-pdf-background</a>下载安装</li>
+</ul>
+<h4 id="（10）zotero-better-notes（从批注中提取笔记、基于知识图谱和思维导图进行管理）"><a href="#（10）zotero-better-notes（从批注中提取笔记、基于知识图谱和思维导图进行管理）" class="headerlink" title="（10）zotero-better-notes（从批注中提取笔记、基于知识图谱和思维导图进行管理）"></a>（10）zotero-better-notes（从批注中提取笔记、基于知识图谱和思维导图进行管理）</h4><ul>
+<li>从<a href="https://github.com/windingwind/zotero-better-notes">GitHub - zotero-better-notes</a>下载安装</li>
+</ul>
+<h4 id="（11）zotero-style（主题颜色、添加效果）"><a href="#（11）zotero-style（主题颜色、添加效果）" class="headerlink" title="（11）zotero-style（主题颜色、添加效果）"></a>（11）zotero-style（主题颜色、添加效果）</h4><ul>
+<li>从<a href="https://github.com/MuiseDestiny/zotero-style">GitHub - zotero-style</a>下载安装</li>
+</ul>
+<h4 id="（12）zotero-tag（添加标签）"><a href="#（12）zotero-tag（添加标签）" class="headerlink" title="（12）zotero-tag（添加标签）"></a>（12）zotero-tag（添加标签）</h4><ul>
+<li>从<a href="https://github.com/windingwind/zotero-actions-tags">GitHub - zotero-actions-tags</a>下载安装</li>
+</ul>
+]]></content>
+      <categories>
+        <category>文献管理</category>
+      </categories>
+      <tags>
+        <tag>文献管理</tag>
+        <tag>Zotero</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>开发工具——VScode基础设置：CSScomb配置规则</title>
     <url>/2022/08/13/%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7%E2%80%94VScode%E5%9F%BA%E7%A1%80%E8%AE%BE%E7%BD%AE%EF%BC%9ACSScomb%E9%85%8D%E7%BD%AE%E8%A7%84%E5%88%99/</url>
     <content><![CDATA[<h4 id="CSScomb配置规则"><a href="#CSScomb配置规则" class="headerlink" title="CSScomb配置规则"></a>CSScomb配置规则</h4><blockquote>
@@ -2786,78 +2858,6 @@
       </categories>
       <tags>
         <tag>文件加密</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>文献管理—Zotero基础设置与插件推荐</title>
-    <url>/2023/11/22/%E6%96%87%E7%8C%AE%E7%AE%A1%E7%90%86%E2%80%94Zotero%E5%9F%BA%E7%A1%80%E8%AE%BE%E7%BD%AE%E4%B8%8E%E6%8F%92%E4%BB%B6%E6%8E%A8%E8%8D%90/</url>
-    <content><![CDATA[<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>工欲善其事，必先利其器。计算机专业必须学会使用最前沿的尖端软件来完善自己的工作流，提高自身学习效率与知识管理能力。Zotero作为一款诞生于英文环境的文献管理软件，其高自由度和良好的社区生态，使得其在中文科研环境下同样得心应手。</p>
-<blockquote>
-<ul>
-<li>学科期刊推荐：research.com</li>
-<li>文献高级检索：PubMed</li>
-<li>RSS订阅工具：RSSHub-Radar</li>
-</ul>
-</blockquote>
-<h2 id="一、Zotero官网：https-www-zotero-org"><a href="#一、Zotero官网：https-www-zotero-org" class="headerlink" title="一、Zotero官网：https://www.zotero.org/"></a>一、Zotero官网：<a href="https://www.zotero.org/">https://www.zotero.org/</a></h2><h4 id="（1）配置同步盘（以OneDrive云盘为例）"><a href="#（1）配置同步盘（以OneDrive云盘为例）" class="headerlink" title="（1）配置同步盘（以OneDrive云盘为例）"></a>（1）配置同步盘（以OneDrive云盘为例）</h4><blockquote>
-<p>编辑 → 首选项 → 同步 → 注册&#x2F;登录Zotero账号：文件同步都勾选，使用Zotero同步<br>编辑 → 首选项 → 高级 → 文件和文件夹 → 需要设置两个路径：一是数据存储位置选择默认，该部分保存的是文献信息，占用空间较小；二是根目录选择在OneDrive云盘的Zotero文件夹下（需要先在OneDrive云盘上中创建Zotero文件夹）。<br>以管理员身份打开cmd，输入以下代码将OneDrive云盘中的Zotero文件夹中的storage文件夹链接到数据储存位置中的storage文件夹：</p>
-</blockquote>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">mklink /J &quot;D:\Zotero\storage&quot; &quot;D:\OneDrive\Zotero\storage</span><br></pre></td></tr></table></figure>
-
-<h4 id="（2）Zotero-Sci-Hub"><a href="#（2）Zotero-Sci-Hub" class="headerlink" title="（2）Zotero + Sci-Hub"></a>（2）Zotero + Sci-Hub</h4><blockquote>
-<p>编辑 → 首选项 → 高级 → 高级设置(编辑器) → 搜索<code>extensions.zotero.findPDFs.resolvers</code>，删除<code>[]</code>，并将以下代码粘贴进去并点击ok。</p>
-</blockquote>
-<figure class="highlight json"><table><tr><td class="code"><pre><span class="line"><span class="comment">// 将Sci-Hub配置为PDF解析器，替代默认的Unpaywall，直接调用Sci-Hub下载文献</span></span><br><span class="line"><span class="punctuation">&#123;</span></span><br><span class="line">    <span class="attr">&quot;name&quot;</span><span class="punctuation">:</span><span class="string">&quot;Sci-Hub&quot;</span><span class="punctuation">,</span></span><br><span class="line">    <span class="attr">&quot;method&quot;</span><span class="punctuation">:</span><span class="string">&quot;GET&quot;</span><span class="punctuation">,</span></span><br><span class="line">    <span class="attr">&quot;url&quot;</span><span class="punctuation">:</span><span class="string">&quot;https://sci-hub.se/&#123;doi&#125;&quot;</span><span class="punctuation">,</span> <span class="comment">//根据Sci-Hub域名自行更新</span></span><br><span class="line">    <span class="attr">&quot;mode&quot;</span><span class="punctuation">:</span><span class="string">&quot;html&quot;</span><span class="punctuation">,</span></span><br><span class="line">    <span class="attr">&quot;selector&quot;</span><span class="punctuation">:</span><span class="string">&quot;#pdf&quot;</span><span class="punctuation">,</span></span><br><span class="line">    <span class="attr">&quot;attribute&quot;</span><span class="punctuation">:</span><span class="string">&quot;src&quot;</span><span class="punctuation">,</span></span><br><span class="line">    <span class="attr">&quot;automatic&quot;</span><span class="punctuation">:</span><span class="literal"><span class="keyword">true</span></span> <span class="comment">//设置为true，自动从Sci-Hub下载用Connector扩展保存到本地的文献PDF。</span></span><br><span class="line"><span class="punctuation">&#125;</span></span><br></pre></td></tr></table></figure>
-
-<h4 id="（3）Zotero-Connector（浏览器扩展，直接在网页中下载文献到Zotero）"><a href="#（3）Zotero-Connector（浏览器扩展，直接在网页中下载文献到Zotero）" class="headerlink" title="（3）Zotero Connector（浏览器扩展，直接在网页中下载文献到Zotero）"></a>（3）Zotero Connector（浏览器扩展，直接在网页中下载文献到Zotero）</h4><blockquote>
-<p>Chrome 应用商店搜索下载</p>
-</blockquote>
-<h2 id="二、插件推荐"><a href="#二、插件推荐" class="headerlink" title="二、插件推荐"></a>二、插件推荐</h2><h4 id="（1）ZotFile插件（根据条目内容自动重命名文件）"><a href="#（1）ZotFile插件（根据条目内容自动重命名文件）" class="headerlink" title="（1）ZotFile插件（根据条目内容自动重命名文件）"></a>（1）ZotFile插件（根据条目内容自动重命名文件）</h4><ul>
-<li>从<a href="https://github.com/jlegewie/zotfile">GitHub - zotfile</a>下载安装 → 插件设置 → 一般设置：一是文献下载的临时存储位置<code>D:\OneDrive\Zotero\temp</code>；二是重命名后文件的实际存储位置<code>D:\OneDrive\Zotero\Storage</code>，定义的子文件夹<code>/%c</code></li>
-<li>插件设置 → 重命名规则 → 只使用以下文件类型 → 添加<code>,caj</code></li>
-</ul>
-<h4 id="（2）Zotero-translators插件（中文网页抓取翻译器）"><a href="#（2）Zotero-translators插件（中文网页抓取翻译器）" class="headerlink" title="（2）Zotero translators插件（中文网页抓取翻译器）"></a>（2）Zotero translators插件（中文网页抓取翻译器）</h4><ul>
-<li>从<a href="https://github.com/l0o0/translators_CN">GitHub - translators</a>下载压缩包 → 打开Zotero编辑 → 首选项 → 高级 → 打开数据文件夹 → 将解压文件复制到translators目录下，提示有重复的文件选择替换。</li>
-<li>右击Connector插件 → 扩展选项 → Advanced → Update Translators（可多点击几次保证更新完成）。</li>
-</ul>
-<h4 id="（3）Zotero-IF插件（显示SCI期刊论文的中科院分区和影响因子）"><a href="#（3）Zotero-IF插件（显示SCI期刊论文的中科院分区和影响因子）" class="headerlink" title="（3）Zotero IF插件（显示SCI期刊论文的中科院分区和影响因子）"></a>（3）Zotero IF插件（显示SCI期刊论文的中科院分区和影响因子）</h4><ul>
-<li>从<a href="https://github.com/qnscholar/zotero-if">GitHub - Zotero IF</a>下载安装包 → Zotero菜单栏工具 → 附加组件 → 点击右上角小齿轮 → 然后点击<code>Install add-on from file…</code> → 选择 zotero-if.xpi 插件，完成安装并重启Zotero。</li>
-<li>使用指南：选中要查询的论文（可多选） → 右击<code>Update If(s)</code>即可查看最新数据。</li>
-</ul>
-<h4 id="（4）Jasminum插件（知网元数据拉取、知网文章PDF下载并标记目录）"><a href="#（4）Jasminum插件（知网元数据拉取、知网文章PDF下载并标记目录）" class="headerlink" title="（4）Jasminum插件（知网元数据拉取、知网文章PDF下载并标记目录）"></a>（4）Jasminum插件（知网元数据拉取、知网文章PDF下载并标记目录）</h4><ul>
-<li>从<a href="https://github.com/l0o0/jasminum">GitHub - Jasminum</a>下载安装 → 编辑 → 首选项 → 茉莉花</li>
-</ul>
-<h5 id="（5）delitemwithatt插件（删除条目或分类的同时将链接的附件一起删除，导出附件）"><a href="#（5）delitemwithatt插件（删除条目或分类的同时将链接的附件一起删除，导出附件）" class="headerlink" title="（5）delitemwithatt插件（删除条目或分类的同时将链接的附件一起删除，导出附件）"></a>（5）delitemwithatt插件（删除条目或分类的同时将链接的附件一起删除，导出附件）</h5><ul>
-<li>从<a href="https://github.com/redleafnew/delitemwithatt">GitHub -delitemwithatt</a>下载安装</li>
-</ul>
-<h4 id="（6）Zotero-PDF-Translate插件（内置多种翻译引擎，PDF可划线翻译）"><a href="#（6）Zotero-PDF-Translate插件（内置多种翻译引擎，PDF可划线翻译）" class="headerlink" title="（6）Zotero PDF Translate插件（内置多种翻译引擎，PDF可划线翻译）"></a>（6）Zotero PDF Translate插件（内置多种翻译引擎，PDF可划线翻译）</h4><ul>
-<li>从<a href="https://github.com/windingwind/zotero-pdf-translate">GitHub - zotero-pdf-translate</a>下载安装</li>
-</ul>
-<h4 id="（7）Zotero-DOI-Manager插件（自动获取期刊文章的doi）"><a href="#（7）Zotero-DOI-Manager插件（自动获取期刊文章的doi）" class="headerlink" title="（7）Zotero DOI Manager插件（自动获取期刊文章的doi）"></a>（7）Zotero DOI Manager插件（自动获取期刊文章的doi）</h4><ul>
-<li>从<a href="https://github.com/bwiernik/zotero-shortdoi">GitHub - zotero-shortdoi</a>下载安装</li>
-</ul>
-<h5 id="（8）Zotero-reference插件（自动获取参考文献）"><a href="#（8）Zotero-reference插件（自动获取参考文献）" class="headerlink" title="（8）Zotero reference插件（自动获取参考文献）"></a>（8）Zotero reference插件（自动获取参考文献）</h5><ul>
-<li>从<a href="https://github.com/MuiseDestiny/zotero-reference">GitHub - zotero-reference</a>下载安装</li>
-</ul>
-<h4 id="（9）Zotero-PDF-Background（更改背景颜色）"><a href="#（9）Zotero-PDF-Background（更改背景颜色）" class="headerlink" title="（9）Zotero PDF Background（更改背景颜色）"></a>（9）Zotero PDF Background（更改背景颜色）</h4><ul>
-<li>从<a href="https://github.com/q77190858/zotero-pdf-background">GitHub - zotero-pdf-background</a>下载安装</li>
-</ul>
-<h4 id="（10）zotero-better-notes（从批注中提取笔记、基于知识图谱和思维导图进行管理）"><a href="#（10）zotero-better-notes（从批注中提取笔记、基于知识图谱和思维导图进行管理）" class="headerlink" title="（10）zotero-better-notes（从批注中提取笔记、基于知识图谱和思维导图进行管理）"></a>（10）zotero-better-notes（从批注中提取笔记、基于知识图谱和思维导图进行管理）</h4><ul>
-<li>从<a href="https://github.com/windingwind/zotero-better-notes">GitHub - zotero-better-notes</a>下载安装</li>
-</ul>
-<h4 id="（11）zotero-style（主题颜色、添加效果）"><a href="#（11）zotero-style（主题颜色、添加效果）" class="headerlink" title="（11）zotero-style（主题颜色、添加效果）"></a>（11）zotero-style（主题颜色、添加效果）</h4><ul>
-<li>从<a href="https://github.com/MuiseDestiny/zotero-style">GitHub - zotero-style</a>下载安装</li>
-</ul>
-<h4 id="（12）zotero-tag（添加标签）"><a href="#（12）zotero-tag（添加标签）" class="headerlink" title="（12）zotero-tag（添加标签）"></a>（12）zotero-tag（添加标签）</h4><ul>
-<li>从<a href="https://github.com/windingwind/zotero-actions-tags">GitHub - zotero-actions-tags</a>下载安装</li>
-</ul>
-]]></content>
-      <categories>
-        <category>文献管理</category>
-      </categories>
-      <tags>
-        <tag>文献管理</tag>
-        <tag>Zotero</tag>
       </tags>
   </entry>
   <entry>
@@ -3049,63 +3049,6 @@
       </tags>
   </entry>
   <entry>
-    <title>网络代理杂谈</title>
-    <url>/2022/12/23/%E7%BD%91%E7%BB%9C%E4%BB%A3%E7%90%86%E6%9D%82%E8%B0%88/</url>
-    <content><![CDATA[<h3 id="一、网络爬虫使用代理"><a href="#一、网络爬虫使用代理" class="headerlink" title="一、网络爬虫使用代理"></a>一、网络爬虫使用代理</h3><p>网络代理常用于Python爬虫，爬虫程序通常会以高并发多线程的方式运行，所需爬取的任务量大，会对站点服务器造成很大的负载，需要使用代理IP帮助完成任务，否则很容易被所爬取的站点服务器发现，限制其访问。</p>
-<blockquote>
-<p>爬虫使用网络代理的优点：</p>
-<ul>
-<li>可以提高爬取速度和效率，代理IP服务器位于互联网的核心节点，它们具有更快的数据传输速度和更低的延迟。</li>
-<li>可以规避IP在单位时间的请求次数，防止出现“IP请求过于频繁”或“403”等错误。</li>
-</ul>
-</blockquote>
-<h3 id="二、双重代理和多重代理"><a href="#二、双重代理和多重代理" class="headerlink" title="二、双重代理和多重代理"></a>二、双重代理和多重代理</h3><blockquote>
-<p>双重代理指代理软件再套一层中转代理（如VPS反代CF家的中转服务器）。<br>多重代理就是在双重代理的基础上“俄罗斯套娃”。</p>
-</blockquote>
-<h3 id="三、共享代理"><a href="#三、共享代理" class="headerlink" title="三、共享代理"></a>三、共享代理</h3><blockquote>
-<p>多数代理软件都会提供一个TCP的代理端口（监听端口）。主要问题在于代理软件的监听端口基本绑定在本机的127.0.0.1上。代理只能被本机软件使用，外部主机的软件无法连接到该端口。</p>
-</blockquote>
-<h4 id="1-共享代理——本机方案"><a href="#1-共享代理——本机方案" class="headerlink" title="1.共享代理——本机方案"></a>1.共享代理——本机方案</h4><p>最简单的解决方案，就是修改代理软件的配置，把监听端口绑定到0.0.0.0上。<br>其次是“端口转发”，也称“端口映射”，主要弥补部分代理软件，无法修改配置文件的缺陷。</p>
-<blockquote>
-<p>以Windows系统自带的netsh举例：</p>
-<ul>
-<li>以管理员身份登录，进入“控制面板”下面的“网络连接”</li>
-<li>选中本地连接，点右键，在右键菜单选“属性”</li>
-<li>弹出“属性”对话框，点“安装”按钮</li>
-<li>弹出“选择网络组件类型”对话框，选“协议”，再点“添加”按钮</li>
-<li>在弹出的对话框中选“IPv6”，点“确定”即可</li>
-</ul>
-</blockquote>
-<h4 id="2-共享代理——虚拟机方案"><a href="#2-共享代理——虚拟机方案" class="headerlink" title="2.共享代理——虚拟机方案"></a>2.共享代理——虚拟机方案</h4><p>单独开一个虚拟机（Guest OS），专门用来安装代理软件。在该虚拟机中，除了代理软件，不安装其它任何东西。</p>
-<blockquote>
-<p>该方案的好处在于：</p>
-<ul>
-<li>即使某些代理软件存在漏洞，也不会威胁到真实系统（Host OS）的安全。</li>
-<li>虚拟机之间可以进行网络隔离，确保本机的桌面程序总是经过代理联网，防止公网IP地址暴露。</li>
-</ul>
-</blockquote>
-<p>首先，参照前面介绍的“端口转发”方法，再配置虚拟机的网卡模式，两种模式任选其一：</p>
-<blockquote>
-<p>NAT模式</p>
-<ul>
-<li>添加“端口映射”，把真实系统（Host OS）上的某个端口映射到虚拟机（Guest OS）的NAT网卡上的另一个端口</li>
-</ul>
-</blockquote>
-<blockquote>
-<p>Bridge模式</p>
-<ul>
-<li>无需任何额外设置，该模式的虚拟网卡，对于真实系统（Host OS）之外的网络是可见的，因此其它主机可以直接连接该虚拟机上的代理端口。</li>
-</ul>
-</blockquote>
-]]></content>
-      <categories>
-        <category>网络代理</category>
-      </categories>
-      <tags>
-        <tag>网络代理</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>深层网络杂谈</title>
     <url>/2023/01/22/%E6%B7%B1%E5%B1%82%E7%BD%91%E7%BB%9C%E6%9D%82%E8%B0%88/</url>
     <content><![CDATA[<h3 id="一、前言"><a href="#一、前言" class="headerlink" title="一、前言"></a>一、前言</h3><p>深层网络是万维网的一部分，其内容不被标准网络搜索引擎程序索引，与任何人都可以使用互联网访问的“表层网络”形成鲜明对比。</p>
@@ -3164,6 +3107,63 @@
       </categories>
       <tags>
         <tag>深层网络</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>网络代理杂谈</title>
+    <url>/2022/12/23/%E7%BD%91%E7%BB%9C%E4%BB%A3%E7%90%86%E6%9D%82%E8%B0%88/</url>
+    <content><![CDATA[<h3 id="一、网络爬虫使用代理"><a href="#一、网络爬虫使用代理" class="headerlink" title="一、网络爬虫使用代理"></a>一、网络爬虫使用代理</h3><p>网络代理常用于Python爬虫，爬虫程序通常会以高并发多线程的方式运行，所需爬取的任务量大，会对站点服务器造成很大的负载，需要使用代理IP帮助完成任务，否则很容易被所爬取的站点服务器发现，限制其访问。</p>
+<blockquote>
+<p>爬虫使用网络代理的优点：</p>
+<ul>
+<li>可以提高爬取速度和效率，代理IP服务器位于互联网的核心节点，它们具有更快的数据传输速度和更低的延迟。</li>
+<li>可以规避IP在单位时间的请求次数，防止出现“IP请求过于频繁”或“403”等错误。</li>
+</ul>
+</blockquote>
+<h3 id="二、双重代理和多重代理"><a href="#二、双重代理和多重代理" class="headerlink" title="二、双重代理和多重代理"></a>二、双重代理和多重代理</h3><blockquote>
+<p>双重代理指代理软件再套一层中转代理（如VPS反代CF家的中转服务器）。<br>多重代理就是在双重代理的基础上“俄罗斯套娃”。</p>
+</blockquote>
+<h3 id="三、共享代理"><a href="#三、共享代理" class="headerlink" title="三、共享代理"></a>三、共享代理</h3><blockquote>
+<p>多数代理软件都会提供一个TCP的代理端口（监听端口）。主要问题在于代理软件的监听端口基本绑定在本机的127.0.0.1上。代理只能被本机软件使用，外部主机的软件无法连接到该端口。</p>
+</blockquote>
+<h4 id="1-共享代理——本机方案"><a href="#1-共享代理——本机方案" class="headerlink" title="1.共享代理——本机方案"></a>1.共享代理——本机方案</h4><p>最简单的解决方案，就是修改代理软件的配置，把监听端口绑定到0.0.0.0上。<br>其次是“端口转发”，也称“端口映射”，主要弥补部分代理软件，无法修改配置文件的缺陷。</p>
+<blockquote>
+<p>以Windows系统自带的netsh举例：</p>
+<ul>
+<li>以管理员身份登录，进入“控制面板”下面的“网络连接”</li>
+<li>选中本地连接，点右键，在右键菜单选“属性”</li>
+<li>弹出“属性”对话框，点“安装”按钮</li>
+<li>弹出“选择网络组件类型”对话框，选“协议”，再点“添加”按钮</li>
+<li>在弹出的对话框中选“IPv6”，点“确定”即可</li>
+</ul>
+</blockquote>
+<h4 id="2-共享代理——虚拟机方案"><a href="#2-共享代理——虚拟机方案" class="headerlink" title="2.共享代理——虚拟机方案"></a>2.共享代理——虚拟机方案</h4><p>单独开一个虚拟机（Guest OS），专门用来安装代理软件。在该虚拟机中，除了代理软件，不安装其它任何东西。</p>
+<blockquote>
+<p>该方案的好处在于：</p>
+<ul>
+<li>即使某些代理软件存在漏洞，也不会威胁到真实系统（Host OS）的安全。</li>
+<li>虚拟机之间可以进行网络隔离，确保本机的桌面程序总是经过代理联网，防止公网IP地址暴露。</li>
+</ul>
+</blockquote>
+<p>首先，参照前面介绍的“端口转发”方法，再配置虚拟机的网卡模式，两种模式任选其一：</p>
+<blockquote>
+<p>NAT模式</p>
+<ul>
+<li>添加“端口映射”，把真实系统（Host OS）上的某个端口映射到虚拟机（Guest OS）的NAT网卡上的另一个端口</li>
+</ul>
+</blockquote>
+<blockquote>
+<p>Bridge模式</p>
+<ul>
+<li>无需任何额外设置，该模式的虚拟网卡，对于真实系统（Host OS）之外的网络是可见的，因此其它主机可以直接连接该虚拟机上的代理端口。</li>
+</ul>
+</blockquote>
+]]></content>
+      <categories>
+        <category>网络代理</category>
+      </categories>
+      <tags>
+        <tag>网络代理</tag>
       </tags>
   </entry>
   <entry>
