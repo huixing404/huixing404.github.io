@@ -191,7 +191,7 @@
   </url>
   
   <url>
-    <loc>https://www.huixinglaile.com/course/algorithm/index.html</loc>
+    <loc>https://www.huixinglaile.com/course/composition/index.html</loc>
     
     <lastmod>2023-12-03</lastmod>
     
@@ -200,7 +200,7 @@
   </url>
   
   <url>
-    <loc>https://www.huixinglaile.com/course/composition/index.html</loc>
+    <loc>https://www.huixinglaile.com/course/algorithm/index.html</loc>
     
     <lastmod>2023-12-03</lastmod>
     
@@ -609,13 +609,6 @@
   </url>
   
   <url>
-    <loc>https://www.huixinglaile.com/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/</loc>
-    <lastmod>2024-01-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://www.huixinglaile.com/tags/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95/</loc>
     <lastmod>2024-01-16</lastmod>
     <changefreq>weekly</changefreq>
@@ -623,7 +616,35 @@
   </url>
   
   <url>
+    <loc>https://www.huixinglaile.com/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/</loc>
+    <lastmod>2024-01-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.huixinglaile.com/tags/%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B/</loc>
+    <lastmod>2024-01-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.huixinglaile.com/tags/%E6%95%B0%E6%8D%AE%E5%BA%93/</loc>
+    <lastmod>2024-01-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://www.huixinglaile.com/tags/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/</loc>
+    <lastmod>2024-01-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.huixinglaile.com/tags/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/</loc>
     <lastmod>2024-01-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -644,21 +665,28 @@
   </url>
   
   <url>
-    <loc>https://www.huixinglaile.com/tags/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/</loc>
-    <lastmod>2024-01-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.huixinglaile.com/tags/%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B/</loc>
-    <lastmod>2024-01-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://www.huixinglaile.com/tags/AI/</loc>
+    <lastmod>2024-01-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.huixinglaile.com/tags/%E5%9B%BE%E5%BA%8A/</loc>
+    <lastmod>2024-01-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.huixinglaile.com/tags/Github/</loc>
+    <lastmod>2024-01-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.huixinglaile.com/tags/PicGo/</loc>
     <lastmod>2024-01-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -693,34 +721,6 @@
   </url>
   
   <url>
-    <loc>https://www.huixinglaile.com/tags/%E5%9B%BE%E5%BA%8A/</loc>
-    <lastmod>2024-01-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.huixinglaile.com/tags/Github/</loc>
-    <lastmod>2024-01-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.huixinglaile.com/tags/PicGo/</loc>
-    <lastmod>2024-01-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.huixinglaile.com/tags/Restful-API/</loc>
-    <lastmod>2024-01-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://www.huixinglaile.com/tags/Fetch-API/</loc>
     <lastmod>2024-01-16</lastmod>
     <changefreq>weekly</changefreq>
@@ -749,14 +749,7 @@
   </url>
   
   <url>
-    <loc>https://www.huixinglaile.com/tags/%E6%95%B0%E6%8D%AE%E5%BA%93/</loc>
-    <lastmod>2024-01-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.huixinglaile.com/tags/%E6%B5%8F%E8%A7%88%E5%99%A8%E6%8C%87%E7%BA%B9/</loc>
+    <loc>https://www.huixinglaile.com/tags/Restful-API/</loc>
     <lastmod>2024-01-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -764,6 +757,13 @@
   
   <url>
     <loc>https://www.huixinglaile.com/tags/%E6%81%B6%E6%84%8F%E6%94%BB%E5%87%BB/</loc>
+    <lastmod>2024-01-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.huixinglaile.com/tags/%E6%B5%8F%E8%A7%88%E5%99%A8%E6%8C%87%E7%BA%B9/</loc>
     <lastmod>2024-01-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -847,7 +847,21 @@
   </url>
   
   <url>
-    <loc>https://www.huixinglaile.com/tags/Vercel/</loc>
+    <loc>https://www.huixinglaile.com/tags/buildx/</loc>
+    <lastmod>2024-01-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.huixinglaile.com/tags/Docker/</loc>
+    <lastmod>2024-01-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.huixinglaile.com/tags/jsDelivr/</loc>
     <lastmod>2024-01-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -868,21 +882,7 @@
   </url>
   
   <url>
-    <loc>https://www.huixinglaile.com/tags/buildx/</loc>
-    <lastmod>2024-01-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.huixinglaile.com/tags/Docker/</loc>
-    <lastmod>2024-01-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.huixinglaile.com/tags/jsDelivr/</loc>
+    <loc>https://www.huixinglaile.com/tags/Vercel/</loc>
     <lastmod>2024-01-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -924,27 +924,6 @@
   </url>
   
   <url>
-    <loc>https://www.huixinglaile.com/tags/Git/</loc>
-    <lastmod>2024-01-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.huixinglaile.com/tags/%E5%B9%BF%E5%91%8A%E6%8E%A8%E9%80%81/</loc>
-    <lastmod>2024-01-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.huixinglaile.com/tags/%E7%94%A8%E6%88%B7%E7%94%BB%E5%83%8F%E6%8A%80%E6%9C%AF/</loc>
-    <lastmod>2024-01-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://www.huixinglaile.com/tags/IDE/</loc>
     <lastmod>2024-01-16</lastmod>
     <changefreq>weekly</changefreq>
@@ -966,28 +945,28 @@
   </url>
   
   <url>
+    <loc>https://www.huixinglaile.com/tags/%E5%B9%BF%E5%91%8A%E6%8E%A8%E9%80%81/</loc>
+    <lastmod>2024-01-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.huixinglaile.com/tags/%E7%94%A8%E6%88%B7%E7%94%BB%E5%83%8F%E6%8A%80%E6%9C%AF/</loc>
+    <lastmod>2024-01-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.huixinglaile.com/tags/Git/</loc>
+    <lastmod>2024-01-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://www.huixinglaile.com/tags/VScode%E6%8F%92%E4%BB%B6/</loc>
-    <lastmod>2024-01-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.huixinglaile.com/tags/%E6%9C%8D%E5%8A%A1%E5%99%A8/</loc>
-    <lastmod>2024-01-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.huixinglaile.com/tags/%E6%B5%8B%E8%AF%95%E8%84%9A%E6%9C%AC/</loc>
-    <lastmod>2024-01-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.huixinglaile.com/tags/%E6%9C%8D%E5%8A%A1%E5%99%A8%E5%AE%89%E5%85%A8/</loc>
     <lastmod>2024-01-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -1015,6 +994,34 @@
   </url>
   
   <url>
+    <loc>https://www.huixinglaile.com/tags/%E6%9C%8D%E5%8A%A1%E5%99%A8/</loc>
+    <lastmod>2024-01-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.huixinglaile.com/tags/%E6%B5%8B%E8%AF%95%E8%84%9A%E6%9C%AC/</loc>
+    <lastmod>2024-01-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.huixinglaile.com/tags/%E6%9C%8D%E5%8A%A1%E5%99%A8%E5%AE%89%E5%85%A8/</loc>
+    <lastmod>2024-01-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.huixinglaile.com/tags/%E7%BD%91%E7%BB%9C%E4%BB%A3%E7%90%86/</loc>
+    <lastmod>2024-01-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://www.huixinglaile.com/tags/%E6%B7%B1%E5%B1%82%E7%BD%91%E7%BB%9C/</loc>
     <lastmod>2024-01-16</lastmod>
     <changefreq>weekly</changefreq>
@@ -1030,13 +1037,6 @@
   
   <url>
     <loc>https://www.huixinglaile.com/tags/Markdown/</loc>
-    <lastmod>2024-01-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.huixinglaile.com/tags/%E7%BD%91%E7%BB%9C%E4%BB%A3%E7%90%86/</loc>
     <lastmod>2024-01-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -1080,6 +1080,13 @@
   </url>
   
   <url>
+    <loc>https://www.huixinglaile.com/categories/%E7%AB%99%E9%95%BF%E5%B7%A5%E5%85%B7/</loc>
+    <lastmod>2024-01-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://www.huixinglaile.com/categories/Node-js/</loc>
     <lastmod>2024-01-16</lastmod>
     <changefreq>weekly</changefreq>
@@ -1094,7 +1101,7 @@
   </url>
   
   <url>
-    <loc>https://www.huixinglaile.com/categories/%E7%AB%99%E9%95%BF%E5%B7%A5%E5%85%B7/</loc>
+    <loc>https://www.huixinglaile.com/categories/Web%E5%AE%89%E5%85%A8/</loc>
     <lastmod>2024-01-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -1102,13 +1109,6 @@
   
   <url>
     <loc>https://www.huixinglaile.com/categories/Restful-API/</loc>
-    <lastmod>2024-01-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.huixinglaile.com/categories/Web%E5%AE%89%E5%85%A8/</loc>
     <lastmod>2024-01-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -1150,7 +1150,14 @@
   </url>
   
   <url>
-    <loc>https://www.huixinglaile.com/categories/Vercel/</loc>
+    <loc>https://www.huixinglaile.com/categories/Docker/</loc>
+    <lastmod>2024-01-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.huixinglaile.com/categories/jsDelivr/</loc>
     <lastmod>2024-01-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -1164,14 +1171,7 @@
   </url>
   
   <url>
-    <loc>https://www.huixinglaile.com/categories/Docker/</loc>
-    <lastmod>2024-01-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.huixinglaile.com/categories/jsDelivr/</loc>
+    <loc>https://www.huixinglaile.com/categories/Vercel/</loc>
     <lastmod>2024-01-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -1206,13 +1206,6 @@
   </url>
   
   <url>
-    <loc>https://www.huixinglaile.com/categories/%E6%9C%8D%E5%8A%A1%E5%99%A8/</loc>
-    <lastmod>2024-01-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://www.huixinglaile.com/categories/%E6%96%87%E7%8C%AE%E7%AE%A1%E7%90%86/</loc>
     <lastmod>2024-01-16</lastmod>
     <changefreq>weekly</changefreq>
@@ -1227,6 +1220,20 @@
   </url>
   
   <url>
+    <loc>https://www.huixinglaile.com/categories/%E6%9C%8D%E5%8A%A1%E5%99%A8/</loc>
+    <lastmod>2024-01-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.huixinglaile.com/categories/%E7%BD%91%E7%BB%9C%E4%BB%A3%E7%90%86/</loc>
+    <lastmod>2024-01-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://www.huixinglaile.com/categories/%E6%B7%B1%E5%B1%82%E7%BD%91%E7%BB%9C/</loc>
     <lastmod>2024-01-16</lastmod>
     <changefreq>weekly</changefreq>
@@ -1235,13 +1242,6 @@
   
   <url>
     <loc>https://www.huixinglaile.com/categories/%E7%9F%A5%E8%AF%86%E7%AE%A1%E7%90%86/</loc>
-    <lastmod>2024-01-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.huixinglaile.com/categories/%E7%BD%91%E7%BB%9C%E4%BB%A3%E7%90%86/</loc>
     <lastmod>2024-01-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
