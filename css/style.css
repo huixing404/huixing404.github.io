@@ -7,15 +7,127 @@
 #footer {
   background: transparent !important;
 }
-
 /* 页脚字体大小和颜色 */
 #footer-wrap {
   color: #eff6f5; 
   font-size: 17px
 }
 
-/* 翻页按钮居中（修复文章双侧栏显示插件bug） */
+/* 个人信息卡片背景图 */
+[data-theme="light"] #aside-content > .card-widget.card-info {
+  background-image: url(/img/GWEin.jpg);
+  background-repeat: no-repeat;
+  background-attachment: inherit;
+  background-size: 100%;
+}
+[data-theme="dark"] #aside-content > .card-widget.card-info {
+  background-image: url(/img/GWEin.jpg);
+  background-repeat: no-repeat;
+  background-attachment: inherit;
+  background-size: 100%;
+}
+
+/* 文章双侧栏显示 */
+/* 翻页按钮居中（修复插件bug） */
 #pagination {
   width: 100%;
   margin: auto;
+}
+/* 导航栏固定 */
+/* 一级菜单居中 */
+#nav .menus_items {
+  position: absolute !important;
+  width: fit-content !important;
+  left: 50% !important;
+  transform: translateX(-50%) !important;
+}
+/* 子菜单横向展示 */
+#nav .menus_items .menus_item:hover .menus_item_child {
+  display: flex !important;
+}
+/* 这里的2是代表导航栏的第2个元素，即有子菜单的元素，可以按自己需求修改 */
+.menus_items .menus_item:nth-child(2) .menus_item_child {
+  left: -50px;
+}
+.menus_items .menus_item:nth-child(3) .menus_item_child {
+  left: -400px;
+}
+.menus_items .menus_item:nth-child(4) .menus_item_child {
+  left: -350px;
+}
+
+
+/* 侧边栏公众号 Start */
+[data-theme='light'] #aside-content .card-widget#card-wechat {
+  /* background: #49b1f5 !important; */
+  background: var(--tzy-theme);
+}
+
+#aside-content .card-widget#card-wechat {
+  background: var(--card-bg);
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  padding: 0;
+  cursor: pointer !important;
+  border: none;
+  height: 130px;
+}
+
+/* 如果你设置了aside 的 mobile 为 false，记得放开下面这段注释；
+ 如果你设置了aside 的 mobile 为 true ，不需要改动。 */
+
+/* @media screen and (max-width: 768px) {
+  #aside-content .card-widget#card-wechat {
+      display: none !important;
+  }
+} */
+
+@media screen and (min-width: 1300px) {
+  #aside-content .card-widget {
+      margin-top: 1rem;
+  }
+}
+
+#flip-wrapper {
+  -webkit-perspective: 1000;
+  perspective: 1000;
+  position: relative;
+  /* width: 235px;
+  height: 120px; */
+  width: 100%;
+  height: 100%;
+  z-index: 1;
+}
+
+#flip-wrapper:hover #flip-content {
+  -webkit-transform: rotateY(180deg);
+  transform: rotateY(180deg);
+}
+
+#flip-content {
+  width: 100%;
+  height: 100%;
+  -webkit-transform-style: preserve-3d;
+  transform-style: preserve-3d;
+  transition: cubic-bezier(0, 0, 0, 1.29) 0.3s;
+}
+
+.face {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  -webkit-backface-visibility: hidden;
+  backface-visibility: hidden;
+  background: url(https://bu.dusays.com/2023/10/20/65322536707be.gif) center center no-repeat;
+  background-size: 100%;
+}
+
+.back.face {
+  display: block;
+  -webkit-transform: rotateY(180deg);
+  transform: rotateY(180deg);
+  box-sizing: border-box;
+  background: url(https://bu.dusays.com/2023/10/20/6532253ed8d0d.gif) center center no-repeat;
+  background-size: 100%;
 }
